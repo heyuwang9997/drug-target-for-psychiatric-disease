@@ -1,0 +1,2242 @@
+Drug_id,Disease,Gene_name
+DB00130,Anxiety Disorder,ATXN2
+DB00130,Anxiety Disorder,GPRC6A
+DB00130,Anxiety Disorder,AR
+DB00130,Anxiety Disorder,CTPS1
+DB00130,Anxiety Disorder,IFT57
+DB00130,Anxiety Disorder,GCG
+DB00502,Schizophrenia,GCG
+DB00502,OCD & Tourette Syndrome,GCG
+DB01356,Bipolar Disorder,GCG
+DB01956,Anxiety Disorder,GCG
+DB00163,Alzheimer’s Disease,GSTA2
+DB00313,Alzheimer’s Disease,GSTA2
+DB00163,Alzheimer’s Disease,ADIPOQ
+DB00163,Alzheimer’s Disease,CD36
+DB00163,Alzheimer’s Disease,CRP
+DB00163,Alzheimer’s Disease,MAPK3
+DB00182,Attention Deficit Hyperactivity Disorder,MAPK3
+DB01151,Major Depressive Disorder,MAPK3
+DB01356,Bipolar Disorder,MAPK3
+DB01576,Attention Deficit Hyperactivity Disorder,MAPK3
+DB00163,Alzheimer’s Disease,TGFB1
+DB00163,Alzheimer’s Disease,IL4
+DB00163,Alzheimer’s Disease,PGF
+DB00163,Alzheimer’s Disease,HSD17B1
+DB00163,Alzheimer’s Disease,NFKB1
+DB01577,Attention Deficit Hyperactivity Disorder,NFKB1
+DB00163,Alzheimer’s Disease,GSTA3
+DB00313,Alzheimer’s Disease,GSTA3
+DB00163,Alzheimer’s Disease,COL1A2
+DB00163,Alzheimer’s Disease,CRABP2
+DB00163,Alzheimer’s Disease,CYP2B6
+DB00477,Schizophrenia,CYP2B6
+DB00477,Attention Deficit Hyperactivity Disorder,CYP2B6
+DB00780,Major Depressive Disorder,CYP2B6
+DB00842,Anxiety Disorder,CYP2B6
+DB01037,Major Depressive Disorder,CYP2B6
+DB01037,Alzheimer’s Disease,CYP2B6
+DB01043,Alzheimer’s Disease,CYP2B6
+DB00163,Alzheimer’s Disease,MAPK8
+DB01156,Major Depressive Disorder,MAPK8
+DB00163,Alzheimer’s Disease,IL6
+DB00215,Major Depressive Disorder,IL6
+DB00285,Major Depressive Disorder,IL6
+DB00989,Alzheimer’s Disease,IL6
+DB01175,Major Depressive Disorder,IL6
+DB00163,Alzheimer’s Disease,PSEN1
+DB00382,Alzheimer’s Disease,PSEN1
+DB00163,Alzheimer’s Disease,GSTP1
+DB00321,Anxiety Disorder,GSTP1
+DB00321,Major Depressive Disorder,GSTP1
+DB00458,Major Depressive Disorder,GSTP1
+DB01142,Bipolar Disorder,GSTP1
+DB01142,Major Depressive Disorder,GSTP1
+DB01142,Anxiety Disorder,GSTP1
+DB01242,OCD & Tourette Syndrome,GSTP1
+DB00163,Alzheimer’s Disease,PTGS2
+DB01356,Bipolar Disorder,PTGS2
+DB00163,Alzheimer’s Disease,CTGF
+DB01956,Anxiety Disorder,CTGF
+DB00163,Alzheimer’s Disease,GSTA1
+DB00313,Alzheimer’s Disease,GSTA1
+DB00163,Alzheimer’s Disease,HPGDS
+DB00313,Alzheimer’s Disease,HPGDS
+DB00163,Alzheimer’s Disease,PRKCG
+DB00163,Alzheimer’s Disease,CASP9
+DB00313,Alzheimer’s Disease,CASP9
+DB00843,Alzheimer’s Disease,CASP9
+DB01104,Major Depressive Disorder,CASP9
+DB01104,OCD & Tourette Syndrome,CASP9
+DB01156,Major Depressive Disorder,CASP9
+DB00163,Alzheimer’s Disease,MYC
+DB01356,Bipolar Disorder,MYC
+DB00163,Alzheimer’s Disease,ALOX5
+DB00163,Alzheimer’s Disease,SCARB1
+DB00163,Alzheimer’s Disease,MAPK1
+DB01151,Major Depressive Disorder,MAPK1
+DB01356,Bipolar Disorder,MAPK1
+DB00163,Alzheimer’s Disease,GPX1
+DB00163,Alzheimer’s Disease,SELP
+DB00683,Anxiety Disorder,SELP
+DB00163,Alzheimer’s Disease,RBP2
+DB00163,Alzheimer’s Disease,PRKCA
+DB00163,Alzheimer’s Disease,UCP2
+DB00163,Alzheimer’s Disease,GSTA4
+DB00313,Alzheimer’s Disease,GSTA4
+DB00163,Alzheimer’s Disease,APOA1
+DB00163,Alzheimer’s Disease,GPX3
+DB00163,Alzheimer’s Disease,GSR
+DB00163,Alzheimer’s Disease,PPARG
+DB00163,Alzheimer’s Disease,UROD
+DB00163,Alzheimer’s Disease,SCARB2
+DB00163,Alzheimer’s Disease,GPX6
+DB00163,Alzheimer’s Disease,GPX4
+DB00163,Alzheimer’s Disease,GPX2
+DB00163,Alzheimer’s Disease,CASP3
+DB00176,OCD & Tourette Syndrome,CASP3
+DB00215,Major Depressive Disorder,CASP3
+DB00313,Alzheimer’s Disease,CASP3
+DB00363,Schizophrenia,CASP3
+DB00458,Major Depressive Disorder,CASP3
+DB00472,Major Depressive Disorder,CASP3
+DB00472,OCD & Tourette Syndrome,CASP3
+DB00472,Bipolar Disorder,CASP3
+DB00540,Major Depressive Disorder,CASP3
+DB00575,Attention Deficit Hyperactivity Disorder,CASP3
+DB00679,Schizophrenia,CASP3
+DB00715,Major Depressive Disorder,CASP3
+DB00715,OCD & Tourette Syndrome,CASP3
+DB00734,Schizophrenia,CASP3
+DB00734,Autism Spectrum Disorder,CASP3
+DB00734,Bipolar Disorder,CASP3
+DB00843,Alzheimer’s Disease,CASP3
+DB01104,Major Depressive Disorder,CASP3
+DB01104,OCD & Tourette Syndrome,CASP3
+DB01149,Major Depressive Disorder,CASP3
+DB01151,Major Depressive Disorder,CASP3
+DB01156,Major Depressive Disorder,CASP3
+DB01175,Major Depressive Disorder,CASP3
+DB01242,OCD & Tourette Syndrome,CASP3
+DB00163,Alzheimer’s Disease,FASLG
+DB00176,OCD & Tourette Syndrome,CYP2C9
+DB00477,Schizophrenia,CYP2C9
+DB00477,Attention Deficit Hyperactivity Disorder,CYP2C9
+DB00623,Schizophrenia,CYP2C9
+DB00679,Schizophrenia,CYP2C9
+DB01151,Major Depressive Disorder,CYP2C9
+DB00176,OCD & Tourette Syndrome,FOS
+DB00182,Attention Deficit Hyperactivity Disorder,FOS
+DB00334,Bipolar Disorder,FOS
+DB00334,Major Depressive Disorder,FOS
+DB00334,Schizophrenia,FOS
+DB00363,Schizophrenia,FOS
+DB00391,Schizophrenia,FOS
+DB00391,Anxiety Disorder,FOS
+DB00422,Attention Deficit Hyperactivity Disorder,FOS
+DB00502,Schizophrenia,FOS
+DB00502,OCD & Tourette Syndrome,FOS
+DB00555,Bipolar Disorder,FOS
+DB00575,Attention Deficit Hyperactivity Disorder,FOS
+DB00683,Anxiety Disorder,FOS
+DB00829,Anxiety Disorder,FOS
+DB01183,Major Depressive Disorder,FOS
+DB01238,Autism Spectrum Disorder,FOS
+DB01238,Schizophrenia,FOS
+DB01238,Bipolar Disorder,FOS
+DB01356,Bipolar Disorder,FOS
+DB01576,Attention Deficit Hyperactivity Disorder,FOS
+DB01577,Attention Deficit Hyperactivity Disorder,FOS
+DB06701,Attention Deficit Hyperactivity Disorder,FOS
+DB08918,Major Depressive Disorder,FOS
+DB00176,OCD & Tourette Syndrome,CYP1A2
+DB00176,OCD & Tourette Syndrome,CYP1A1
+DB00176,OCD & Tourette Syndrome,SCN5A
+DB00472,Major Depressive Disorder,SCN5A
+DB00472,OCD & Tourette Syndrome,SCN5A
+DB00472,Bipolar Disorder,SCN5A
+DB00176,OCD & Tourette Syndrome,KCNH2
+DB00215,Major Depressive Disorder,KCNH2
+DB00285,Major Depressive Disorder,KCNH2
+DB00289,Attention Deficit Hyperactivity Disorder,KCNH2
+DB00334,Bipolar Disorder,KCNH2
+DB00334,Major Depressive Disorder,KCNH2
+DB00334,Schizophrenia,KCNH2
+DB00458,Major Depressive Disorder,KCNH2
+DB00472,Major Depressive Disorder,KCNH2
+DB00472,OCD & Tourette Syndrome,KCNH2
+DB00472,Bipolar Disorder,KCNH2
+DB00477,Schizophrenia,KCNH2
+DB00477,Attention Deficit Hyperactivity Disorder,KCNH2
+DB00502,Schizophrenia,KCNH2
+DB00502,OCD & Tourette Syndrome,KCNH2
+DB00555,Bipolar Disorder,KCNH2
+DB00557,Anxiety Disorder,KCNH2
+DB00656,Major Depressive Disorder,KCNH2
+DB00679,Schizophrenia,KCNH2
+DB00933,Schizophrenia,KCNH2
+DB00934,Anxiety Disorder,KCNH2
+DB00934,Major Depressive Disorder,KCNH2
+DB01100,OCD & Tourette Syndrome,KCNH2
+DB01149,Major Depressive Disorder,KCNH2
+DB01151,Major Depressive Disorder,KCNH2
+DB01175,Major Depressive Disorder,KCNH2
+DB01267,Schizophrenia,KCNH2
+DB04842,Schizophrenia,KCNH2
+DB06144,Schizophrenia,KCNH2
+DB00382,Alzheimer’s Disease,KCNH2
+DB00176,OCD & Tourette Syndrome,KCNA5
+DB00215,Major Depressive Disorder,KCNA5
+DB01175,Major Depressive Disorder,KCNA5
+DB00176,OCD & Tourette Syndrome,CASP7
+DB00363,Schizophrenia,CASP7
+DB00458,Major Depressive Disorder,CASP7
+DB00472,Major Depressive Disorder,CASP7
+DB00472,OCD & Tourette Syndrome,CASP7
+DB00472,Bipolar Disorder,CASP7
+DB00540,Major Depressive Disorder,CASP7
+DB00734,Schizophrenia,CASP7
+DB00734,Autism Spectrum Disorder,CASP7
+DB00734,Bipolar Disorder,CASP7
+DB01104,Major Depressive Disorder,CASP7
+DB01104,OCD & Tourette Syndrome,CASP7
+DB01149,Major Depressive Disorder,CASP7
+DB01242,OCD & Tourette Syndrome,CASP7
+DB00176,OCD & Tourette Syndrome,SLC6A4
+DB00182,Attention Deficit Hyperactivity Disorder,SLC6A4
+DB00193,Major Depressive Disorder,SLC6A4
+DB00215,Major Depressive Disorder,SLC6A4
+DB00285,Major Depressive Disorder,SLC6A4
+DB00321,Anxiety Disorder,SLC6A4
+DB00321,Major Depressive Disorder,SLC6A4
+DB00344,Major Depressive Disorder,SLC6A4
+DB00422,Attention Deficit Hyperactivity Disorder,SLC6A4
+DB00458,Major Depressive Disorder,SLC6A4
+DB00472,Major Depressive Disorder,SLC6A4
+DB00472,OCD & Tourette Syndrome,SLC6A4
+DB00472,Bipolar Disorder,SLC6A4
+DB00476,Major Depressive Disorder,SLC6A4
+DB00540,Major Depressive Disorder,SLC6A4
+DB00543,Major Depressive Disorder,SLC6A4
+DB00656,Major Depressive Disorder,SLC6A4
+DB00715,Major Depressive Disorder,SLC6A4
+DB00715,OCD & Tourette Syndrome,SLC6A4
+DB00726,Major Depressive Disorder,SLC6A4
+DB01104,Major Depressive Disorder,SLC6A4
+DB01104,OCD & Tourette Syndrome,SLC6A4
+DB01142,Bipolar Disorder,SLC6A4
+DB01142,Major Depressive Disorder,SLC6A4
+DB01142,Anxiety Disorder,SLC6A4
+DB01149,Major Depressive Disorder,SLC6A4
+DB01151,Major Depressive Disorder,SLC6A4
+DB01175,Major Depressive Disorder,SLC6A4
+DB01242,OCD & Tourette Syndrome,SLC6A4
+DB01576,Attention Deficit Hyperactivity Disorder,SLC6A4
+DB06148,Major Depressive Disorder,SLC6A4
+DB06684,Major Depressive Disorder,SLC6A4
+DB06700,Major Depressive Disorder,SLC6A4
+DB06701,Attention Deficit Hyperactivity Disorder,SLC6A4
+DB08918,Major Depressive Disorder,SLC6A4
+DB00176,OCD & Tourette Syndrome,ABCB11
+DB00334,Bipolar Disorder,ABCB11
+DB00334,Major Depressive Disorder,ABCB11
+DB00334,Schizophrenia,ABCB11
+DB00363,Schizophrenia,ABCB11
+DB00683,Anxiety Disorder,ABCB11
+DB01149,Major Depressive Disorder,ABCB11
+DB04946,Schizophrenia,ABCB11
+DB00176,OCD & Tourette Syndrome,CYP2C19
+DB00215,Major Depressive Disorder,CYP2C19
+DB00313,Alzheimer’s Disease,CYP2C19
+DB00472,Major Depressive Disorder,CYP2C19
+DB00472,OCD & Tourette Syndrome,CYP2C19
+DB00472,Bipolar Disorder,CYP2C19
+DB00477,Schizophrenia,CYP2C19
+DB00477,Attention Deficit Hyperactivity Disorder,CYP2C19
+DB00623,Schizophrenia,CYP2C19
+DB00679,Schizophrenia,CYP2C19
+DB01151,Major Depressive Disorder,CYP2C19
+DB01171,Major Depressive Disorder,CYP2C19
+DB01171,Anxiety Disorder,CYP2C19
+DB01175,Major Depressive Disorder,CYP2C19
+DB00176,OCD & Tourette Syndrome,LEP
+DB00313,Alzheimer’s Disease,LEP
+DB00363,Schizophrenia,LEP
+DB00182,Attention Deficit Hyperactivity Disorder,GJA1
+DB00420,Schizophrenia,GJA1
+DB01576,Attention Deficit Hyperactivity Disorder,GJA1
+DB00182,Attention Deficit Hyperactivity Disorder,TLR3
+DB01576,Attention Deficit Hyperactivity Disorder,TLR3
+DB00182,Attention Deficit Hyperactivity Disorder,ADRA1A
+DB00215,Major Depressive Disorder,ADRA1A
+DB00246,Schizophrenia,ADRA1A
+DB00246,Bipolar Disorder,ADRA1A
+DB00321,Anxiety Disorder,ADRA1A
+DB00321,Major Depressive Disorder,ADRA1A
+DB00334,Bipolar Disorder,ADRA1A
+DB00334,Major Depressive Disorder,ADRA1A
+DB00334,Schizophrenia,ADRA1A
+DB00363,Schizophrenia,ADRA1A
+DB00408,Schizophrenia,ADRA1A
+DB00408,Bipolar Disorder,ADRA1A
+DB00420,Schizophrenia,ADRA1A
+DB00458,Major Depressive Disorder,ADRA1A
+DB00477,Schizophrenia,ADRA1A
+DB00477,Attention Deficit Hyperactivity Disorder,ADRA1A
+DB00502,Schizophrenia,ADRA1A
+DB00502,OCD & Tourette Syndrome,ADRA1A
+DB00540,Major Depressive Disorder,ADRA1A
+DB00543,Major Depressive Disorder,ADRA1A
+DB00575,Attention Deficit Hyperactivity Disorder,ADRA1A
+DB00623,Schizophrenia,ADRA1A
+DB00656,Major Depressive Disorder,ADRA1A
+DB00679,Schizophrenia,ADRA1A
+DB00726,Major Depressive Disorder,ADRA1A
+DB00734,Schizophrenia,ADRA1A
+DB00734,Autism Spectrum Disorder,ADRA1A
+DB00734,Bipolar Disorder,ADRA1A
+DB00831,Schizophrenia,ADRA1A
+DB00831,Anxiety Disorder,ADRA1A
+DB00850,Schizophrenia,ADRA1A
+DB00850,Anxiety Disorder,ADRA1A
+DB00875,Schizophrenia,ADRA1A
+DB00934,Anxiety Disorder,ADRA1A
+DB00934,Major Depressive Disorder,ADRA1A
+DB01100,OCD & Tourette Syndrome,ADRA1A
+DB01142,Bipolar Disorder,ADRA1A
+DB01142,Major Depressive Disorder,ADRA1A
+DB01142,Anxiety Disorder,ADRA1A
+DB01149,Major Depressive Disorder,ADRA1A
+DB01151,Major Depressive Disorder,ADRA1A
+DB01175,Major Depressive Disorder,ADRA1A
+DB01224,Schizophrenia,ADRA1A
+DB01224,Bipolar Disorder,ADRA1A
+DB01238,Autism Spectrum Disorder,ADRA1A
+DB01238,Schizophrenia,ADRA1A
+DB01238,Bipolar Disorder,ADRA1A
+DB01242,OCD & Tourette Syndrome,ADRA1A
+DB01267,Schizophrenia,ADRA1A
+DB01576,Attention Deficit Hyperactivity Disorder,ADRA1A
+DB01623,Schizophrenia,ADRA1A
+DB04946,Schizophrenia,ADRA1A
+DB06148,Major Depressive Disorder,ADRA1A
+DB06216,Schizophrenia,ADRA1A
+DB06216,Bipolar Disorder,ADRA1A
+DB01403,Schizophrenia,ADRA1A
+DB01403,Bipolar Disorder,ADRA1A
+DB01622,Schizophrenia,ADRA1A
+DB01624,Schizophrenia,ADRA1A
+DB01624,Bipolar Disorder,ADRA1A
+DB00182,Attention Deficit Hyperactivity Disorder,ADRA2A
+DB00246,Schizophrenia,ADRA2A
+DB00246,Bipolar Disorder,ADRA2A
+DB00321,Anxiety Disorder,ADRA2A
+DB00321,Major Depressive Disorder,ADRA2A
+DB00334,Bipolar Disorder,ADRA2A
+DB00334,Major Depressive Disorder,ADRA2A
+DB00334,Schizophrenia,ADRA2A
+DB00363,Schizophrenia,ADRA2A
+DB00370,Major Depressive Disorder,ADRA2A
+DB00408,Schizophrenia,ADRA2A
+DB00408,Bipolar Disorder,ADRA2A
+DB00477,Schizophrenia,ADRA2A
+DB00477,Attention Deficit Hyperactivity Disorder,ADRA2A
+DB00502,Schizophrenia,ADRA2A
+DB00502,OCD & Tourette Syndrome,ADRA2A
+DB00540,Major Depressive Disorder,ADRA2A
+DB00543,Major Depressive Disorder,ADRA2A
+DB00575,Attention Deficit Hyperactivity Disorder,ADRA2A
+DB00623,Schizophrenia,ADRA2A
+DB00656,Major Depressive Disorder,ADRA2A
+DB00679,Schizophrenia,ADRA2A
+DB00734,Schizophrenia,ADRA2A
+DB00734,Autism Spectrum Disorder,ADRA2A
+DB00734,Bipolar Disorder,ADRA2A
+DB00831,Schizophrenia,ADRA2A
+DB00831,Anxiety Disorder,ADRA2A
+DB00850,Schizophrenia,ADRA2A
+DB00850,Anxiety Disorder,ADRA2A
+DB00934,Anxiety Disorder,ADRA2A
+DB00934,Major Depressive Disorder,ADRA2A
+DB01018,Attention Deficit Hyperactivity Disorder,ADRA2A
+DB01142,Bipolar Disorder,ADRA2A
+DB01142,Major Depressive Disorder,ADRA2A
+DB01142,Anxiety Disorder,ADRA2A
+DB01149,Major Depressive Disorder,ADRA2A
+DB01224,Schizophrenia,ADRA2A
+DB01224,Bipolar Disorder,ADRA2A
+DB01238,Autism Spectrum Disorder,ADRA2A
+DB01238,Schizophrenia,ADRA2A
+DB01238,Bipolar Disorder,ADRA2A
+DB01242,OCD & Tourette Syndrome,ADRA2A
+DB01267,Schizophrenia,ADRA2A
+DB01576,Attention Deficit Hyperactivity Disorder,ADRA2A
+DB01577,Attention Deficit Hyperactivity Disorder,ADRA2A
+DB01623,Schizophrenia,ADRA2A
+DB04842,Schizophrenia,ADRA2A
+DB04946,Schizophrenia,ADRA2A
+DB06148,Major Depressive Disorder,ADRA2A
+DB06216,Schizophrenia,ADRA2A
+DB06216,Bipolar Disorder,ADRA2A
+DB01403,Schizophrenia,ADRA2A
+DB01403,Bipolar Disorder,ADRA2A
+DB01624,Schizophrenia,ADRA2A
+DB01624,Bipolar Disorder,ADRA2A
+DB00182,Attention Deficit Hyperactivity Disorder,ADCYAP1
+DB01576,Attention Deficit Hyperactivity Disorder,ADCYAP1
+DB00182,Attention Deficit Hyperactivity Disorder,STK11
+DB01576,Attention Deficit Hyperactivity Disorder,STK11
+DB00182,Attention Deficit Hyperactivity Disorder,HTR7
+DB00193,Major Depressive Disorder,HTR7
+DB00246,Schizophrenia,HTR7
+DB00246,Bipolar Disorder,HTR7
+DB00321,Anxiety Disorder,HTR7
+DB00321,Major Depressive Disorder,HTR7
+DB00334,Bipolar Disorder,HTR7
+DB00334,Major Depressive Disorder,HTR7
+DB00334,Schizophrenia,HTR7
+DB00363,Schizophrenia,HTR7
+DB00370,Major Depressive Disorder,HTR7
+DB00408,Schizophrenia,HTR7
+DB00408,Bipolar Disorder,HTR7
+DB00458,Major Depressive Disorder,HTR7
+DB00502,Schizophrenia,HTR7
+DB00502,OCD & Tourette Syndrome,HTR7
+DB00543,Major Depressive Disorder,HTR7
+DB00831,Schizophrenia,HTR7
+DB00831,Anxiety Disorder,HTR7
+DB00843,Alzheimer’s Disease,HTR7
+DB00934,Anxiety Disorder,HTR7
+DB00934,Major Depressive Disorder,HTR7
+DB01100,OCD & Tourette Syndrome,HTR7
+DB01151,Major Depressive Disorder,HTR7
+DB01224,Schizophrenia,HTR7
+DB01224,Bipolar Disorder,HTR7
+DB01238,Autism Spectrum Disorder,HTR7
+DB01238,Schizophrenia,HTR7
+DB01238,Bipolar Disorder,HTR7
+DB01576,Attention Deficit Hyperactivity Disorder,HTR7
+DB01623,Schizophrenia,HTR7
+DB04946,Schizophrenia,HTR7
+DB06148,Major Depressive Disorder,HTR7
+DB06216,Schizophrenia,HTR7
+DB06216,Bipolar Disorder,HTR7
+DB06288,Schizophrenia,HTR7
+DB06288,Bipolar Disorder,HTR7
+DB08815,Schizophrenia,HTR7
+DB08815,Bipolar Disorder,HTR7
+DB00182,Attention Deficit Hyperactivity Disorder,SLC6A2
+DB00193,Major Depressive Disorder,SLC6A2
+DB00215,Major Depressive Disorder,SLC6A2
+DB00234,Major Depressive Disorder,SLC6A2
+DB00285,Major Depressive Disorder,SLC6A2
+DB00321,Anxiety Disorder,SLC6A2
+DB00321,Major Depressive Disorder,SLC6A2
+DB00344,Major Depressive Disorder,SLC6A2
+DB00422,Attention Deficit Hyperactivity Disorder,SLC6A2
+DB00458,Major Depressive Disorder,SLC6A2
+DB00476,Major Depressive Disorder,SLC6A2
+DB00540,Major Depressive Disorder,SLC6A2
+DB00543,Major Depressive Disorder,SLC6A2
+DB00715,Major Depressive Disorder,SLC6A2
+DB00715,OCD & Tourette Syndrome,SLC6A2
+DB00726,Major Depressive Disorder,SLC6A2
+DB00934,Anxiety Disorder,SLC6A2
+DB00934,Major Depressive Disorder,SLC6A2
+DB01142,Bipolar Disorder,SLC6A2
+DB01142,Major Depressive Disorder,SLC6A2
+DB01142,Anxiety Disorder,SLC6A2
+DB01149,Major Depressive Disorder,SLC6A2
+DB01151,Major Depressive Disorder,SLC6A2
+DB01156,Major Depressive Disorder,SLC6A2
+DB01175,Major Depressive Disorder,SLC6A2
+DB01242,OCD & Tourette Syndrome,SLC6A2
+DB01576,Attention Deficit Hyperactivity Disorder,SLC6A2
+DB06148,Major Depressive Disorder,SLC6A2
+DB06700,Major Depressive Disorder,SLC6A2
+DB06701,Attention Deficit Hyperactivity Disorder,SLC6A2
+DB08918,Major Depressive Disorder,SLC6A2
+DB00182,Attention Deficit Hyperactivity Disorder,CREM
+DB01576,Attention Deficit Hyperactivity Disorder,CREM
+DB00182,Attention Deficit Hyperactivity Disorder,CAT
+DB01576,Attention Deficit Hyperactivity Disorder,CAT
+DB00182,Attention Deficit Hyperactivity Disorder,TAAR1
+DB01576,Attention Deficit Hyperactivity Disorder,TAAR1
+DB01577,Attention Deficit Hyperactivity Disorder,TAAR1
+DB00182,Attention Deficit Hyperactivity Disorder,FGF2
+DB00321,Anxiety Disorder,FGF2
+DB00321,Major Depressive Disorder,FGF2
+DB00829,Anxiety Disorder,FGF2
+DB01224,Schizophrenia,FGF2
+DB01224,Bipolar Disorder,FGF2
+DB01576,Attention Deficit Hyperactivity Disorder,FGF2
+DB00182,Attention Deficit Hyperactivity Disorder,RGS4
+DB01576,Attention Deficit Hyperactivity Disorder,RGS4
+DB00182,Attention Deficit Hyperactivity Disorder,H3F3A
+DB01576,Attention Deficit Hyperactivity Disorder,H3F3A
+DB00182,Attention Deficit Hyperactivity Disorder,PDYN
+DB00472,Major Depressive Disorder,PDYN
+DB00472,OCD & Tourette Syndrome,PDYN
+DB00472,Bipolar Disorder,PDYN
+DB00575,Attention Deficit Hyperactivity Disorder,PDYN
+DB01183,Major Depressive Disorder,PDYN
+DB01576,Attention Deficit Hyperactivity Disorder,PDYN
+DB00182,Attention Deficit Hyperactivity Disorder,GAD2
+DB00234,Major Depressive Disorder,GAD2
+DB00780,Major Depressive Disorder,GAD2
+DB01576,Attention Deficit Hyperactivity Disorder,GAD2
+DB00182,Attention Deficit Hyperactivity Disorder,MAOA
+DB00313,Alzheimer’s Disease,MAOA
+DB00752,Major Depressive Disorder,MAOA
+DB00780,Major Depressive Disorder,MAOA
+DB01037,Major Depressive Disorder,MAOA
+DB01037,Alzheimer’s Disease,MAOA
+DB01171,Major Depressive Disorder,MAOA
+DB01171,Anxiety Disorder,MAOA
+DB01247,Major Depressive Disorder,MAOA
+DB01576,Attention Deficit Hyperactivity Disorder,MAOA
+DB01577,Attention Deficit Hyperactivity Disorder,MAOA
+DB00182,Attention Deficit Hyperactivity Disorder,WNT3
+DB01576,Attention Deficit Hyperactivity Disorder,WNT3
+DB00182,Attention Deficit Hyperactivity Disorder,ATF4
+DB01576,Attention Deficit Hyperactivity Disorder,ATF4
+DB00182,Attention Deficit Hyperactivity Disorder,ADRA1B
+DB00246,Schizophrenia,ADRA1B
+DB00246,Bipolar Disorder,ADRA1B
+DB00321,Anxiety Disorder,ADRA1B
+DB00321,Major Depressive Disorder,ADRA1B
+DB00334,Bipolar Disorder,ADRA1B
+DB00334,Major Depressive Disorder,ADRA1B
+DB00334,Schizophrenia,ADRA1B
+DB00363,Schizophrenia,ADRA1B
+DB00408,Schizophrenia,ADRA1B
+DB00408,Bipolar Disorder,ADRA1B
+DB00420,Schizophrenia,ADRA1B
+DB00458,Major Depressive Disorder,ADRA1B
+DB00477,Schizophrenia,ADRA1B
+DB00477,Attention Deficit Hyperactivity Disorder,ADRA1B
+DB00502,Schizophrenia,ADRA1B
+DB00502,OCD & Tourette Syndrome,ADRA1B
+DB00540,Major Depressive Disorder,ADRA1B
+DB00575,Attention Deficit Hyperactivity Disorder,ADRA1B
+DB00623,Schizophrenia,ADRA1B
+DB00679,Schizophrenia,ADRA1B
+DB00726,Major Depressive Disorder,ADRA1B
+DB00734,Schizophrenia,ADRA1B
+DB00734,Autism Spectrum Disorder,ADRA1B
+DB00734,Bipolar Disorder,ADRA1B
+DB01142,Bipolar Disorder,ADRA1B
+DB01142,Major Depressive Disorder,ADRA1B
+DB01142,Anxiety Disorder,ADRA1B
+DB01224,Schizophrenia,ADRA1B
+DB01224,Bipolar Disorder,ADRA1B
+DB01238,Autism Spectrum Disorder,ADRA1B
+DB01238,Schizophrenia,ADRA1B
+DB01238,Bipolar Disorder,ADRA1B
+DB01255,Attention Deficit Hyperactivity Disorder,ADRA1B
+DB01267,Schizophrenia,ADRA1B
+DB01576,Attention Deficit Hyperactivity Disorder,ADRA1B
+DB01577,Attention Deficit Hyperactivity Disorder,ADRA1B
+DB01623,Schizophrenia,ADRA1B
+DB01403,Schizophrenia,ADRA1B
+DB01403,Bipolar Disorder,ADRA1B
+DB01622,Schizophrenia,ADRA1B
+DB00182,Attention Deficit Hyperactivity Disorder,CARTPT
+DB01576,Attention Deficit Hyperactivity Disorder,CARTPT
+DB00182,Attention Deficit Hyperactivity Disorder,GRM5
+DB01576,Attention Deficit Hyperactivity Disorder,GRM5
+DB00182,Attention Deficit Hyperactivity Disorder,KCNJ1
+DB01576,Attention Deficit Hyperactivity Disorder,KCNJ1
+DB00182,Attention Deficit Hyperactivity Disorder,HTR2A
+DB00193,Major Depressive Disorder,HTR2A
+DB00215,Major Depressive Disorder,HTR2A
+DB00246,Schizophrenia,HTR2A
+DB00246,Bipolar Disorder,HTR2A
+DB00285,Major Depressive Disorder,HTR2A
+DB00321,Anxiety Disorder,HTR2A
+DB00321,Major Depressive Disorder,HTR2A
+DB00334,Bipolar Disorder,HTR2A
+DB00334,Major Depressive Disorder,HTR2A
+DB00334,Schizophrenia,HTR2A
+DB00363,Schizophrenia,HTR2A
+DB00370,Major Depressive Disorder,HTR2A
+DB00408,Schizophrenia,HTR2A
+DB00408,Bipolar Disorder,HTR2A
+DB00420,Schizophrenia,HTR2A
+DB00433,Schizophrenia,HTR2A
+DB00458,Major Depressive Disorder,HTR2A
+DB00472,Major Depressive Disorder,HTR2A
+DB00472,OCD & Tourette Syndrome,HTR2A
+DB00472,Bipolar Disorder,HTR2A
+DB00476,Major Depressive Disorder,HTR2A
+DB00477,Schizophrenia,HTR2A
+DB00477,Attention Deficit Hyperactivity Disorder,HTR2A
+DB00502,Schizophrenia,HTR2A
+DB00502,OCD & Tourette Syndrome,HTR2A
+DB00540,Major Depressive Disorder,HTR2A
+DB00543,Major Depressive Disorder,HTR2A
+DB00555,Bipolar Disorder,HTR2A
+DB00575,Attention Deficit Hyperactivity Disorder,HTR2A
+DB00623,Schizophrenia,HTR2A
+DB00656,Major Depressive Disorder,HTR2A
+DB00679,Schizophrenia,HTR2A
+DB00715,Major Depressive Disorder,HTR2A
+DB00715,OCD & Tourette Syndrome,HTR2A
+DB00726,Major Depressive Disorder,HTR2A
+DB00734,Schizophrenia,HTR2A
+DB00734,Autism Spectrum Disorder,HTR2A
+DB00734,Bipolar Disorder,HTR2A
+DB00831,Schizophrenia,HTR2A
+DB00831,Anxiety Disorder,HTR2A
+DB00849,Anxiety Disorder,HTR2A
+DB00850,Schizophrenia,HTR2A
+DB00850,Anxiety Disorder,HTR2A
+DB00875,Schizophrenia,HTR2A
+DB00933,Schizophrenia,HTR2A
+DB01037,Major Depressive Disorder,HTR2A
+DB01037,Alzheimer’s Disease,HTR2A
+DB01100,OCD & Tourette Syndrome,HTR2A
+DB01104,Major Depressive Disorder,HTR2A
+DB01104,OCD & Tourette Syndrome,HTR2A
+DB01142,Bipolar Disorder,HTR2A
+DB01142,Major Depressive Disorder,HTR2A
+DB01142,Anxiety Disorder,HTR2A
+DB01149,Major Depressive Disorder,HTR2A
+DB01151,Major Depressive Disorder,HTR2A
+DB01175,Major Depressive Disorder,HTR2A
+DB01224,Schizophrenia,HTR2A
+DB01224,Bipolar Disorder,HTR2A
+DB01238,Autism Spectrum Disorder,HTR2A
+DB01238,Schizophrenia,HTR2A
+DB01238,Bipolar Disorder,HTR2A
+DB01239,Schizophrenia,HTR2A
+DB01239,Bipolar Disorder,HTR2A
+DB01242,OCD & Tourette Syndrome,HTR2A
+DB01267,Schizophrenia,HTR2A
+DB01356,Bipolar Disorder,HTR2A
+DB01576,Attention Deficit Hyperactivity Disorder,HTR2A
+DB01618,Schizophrenia,HTR2A
+DB01621,Schizophrenia,HTR2A
+DB01623,Schizophrenia,HTR2A
+DB04842,Schizophrenia,HTR2A
+DB04946,Schizophrenia,HTR2A
+DB06144,Schizophrenia,HTR2A
+DB06148,Major Depressive Disorder,HTR2A
+DB06216,Schizophrenia,HTR2A
+DB06216,Bipolar Disorder,HTR2A
+DB06288,Schizophrenia,HTR2A
+DB06288,Bipolar Disorder,HTR2A
+DB06594,Major Depressive Disorder,HTR2A
+DB06684,Major Depressive Disorder,HTR2A
+DB08815,Schizophrenia,HTR2A
+DB08815,Bipolar Disorder,HTR2A
+DB08918,Major Depressive Disorder,HTR2A
+DB01043,Alzheimer’s Disease,HTR2A
+DB01403,Schizophrenia,HTR2A
+DB01403,Bipolar Disorder,HTR2A
+DB01622,Schizophrenia,HTR2A
+DB01624,Schizophrenia,HTR2A
+DB01624,Bipolar Disorder,HTR2A
+DB00182,Attention Deficit Hyperactivity Disorder,SLC18A2
+DB01576,Attention Deficit Hyperactivity Disorder,SLC18A2
+DB01577,Attention Deficit Hyperactivity Disorder,SLC18A2
+DB00182,Attention Deficit Hyperactivity Disorder,NGF
+DB00502,Schizophrenia,NGF
+DB00502,OCD & Tourette Syndrome,NGF
+DB01576,Attention Deficit Hyperactivity Disorder,NGF
+DB00182,Attention Deficit Hyperactivity Disorder,F3
+DB01576,Attention Deficit Hyperactivity Disorder,F3
+DB00182,Attention Deficit Hyperactivity Disorder,ADRB1
+DB00246,Schizophrenia,ADRB1
+DB00246,Bipolar Disorder,ADRB1
+DB00540,Major Depressive Disorder,ADRB1
+DB00734,Schizophrenia,ADRB1
+DB00734,Autism Spectrum Disorder,ADRB1
+DB00734,Bipolar Disorder,ADRB1
+DB01151,Major Depressive Disorder,ADRB1
+DB01576,Attention Deficit Hyperactivity Disorder,ADRB1
+DB01580,Anxiety Disorder,ADRB1
+DB04842,Schizophrenia,ADRB1
+DB06216,Schizophrenia,ADRB1
+DB06216,Bipolar Disorder,ADRB1
+DB00182,Attention Deficit Hyperactivity Disorder,DRD2
+DB00246,Schizophrenia,DRD2
+DB00246,Bipolar Disorder,DRD2
+DB00334,Bipolar Disorder,DRD2
+DB00334,Major Depressive Disorder,DRD2
+DB00334,Schizophrenia,DRD2
+DB00363,Schizophrenia,DRD2
+DB00391,Schizophrenia,DRD2
+DB00391,Anxiety Disorder,DRD2
+DB00408,Schizophrenia,DRD2
+DB00408,Bipolar Disorder,DRD2
+DB00420,Schizophrenia,DRD2
+DB00433,Schizophrenia,DRD2
+DB00458,Major Depressive Disorder,DRD2
+DB00477,Schizophrenia,DRD2
+DB00477,Attention Deficit Hyperactivity Disorder,DRD2
+DB00502,Schizophrenia,DRD2
+DB00502,OCD & Tourette Syndrome,DRD2
+DB00540,Major Depressive Disorder,DRD2
+DB00543,Major Depressive Disorder,DRD2
+DB00623,Schizophrenia,DRD2
+DB00679,Schizophrenia,DRD2
+DB00734,Schizophrenia,DRD2
+DB00734,Autism Spectrum Disorder,DRD2
+DB00734,Bipolar Disorder,DRD2
+DB00831,Schizophrenia,DRD2
+DB00831,Anxiety Disorder,DRD2
+DB00850,Schizophrenia,DRD2
+DB00850,Anxiety Disorder,DRD2
+DB00875,Schizophrenia,DRD2
+DB00933,Schizophrenia,DRD2
+DB01100,OCD & Tourette Syndrome,DRD2
+DB01142,Bipolar Disorder,DRD2
+DB01142,Major Depressive Disorder,DRD2
+DB01142,Anxiety Disorder,DRD2
+DB01149,Major Depressive Disorder,DRD2
+DB01224,Schizophrenia,DRD2
+DB01224,Bipolar Disorder,DRD2
+DB01238,Autism Spectrum Disorder,DRD2
+DB01238,Schizophrenia,DRD2
+DB01238,Bipolar Disorder,DRD2
+DB01239,Schizophrenia,DRD2
+DB01239,Bipolar Disorder,DRD2
+DB01242,OCD & Tourette Syndrome,DRD2
+DB01267,Schizophrenia,DRD2
+DB01576,Attention Deficit Hyperactivity Disorder,DRD2
+DB01577,Attention Deficit Hyperactivity Disorder,DRD2
+DB01618,Schizophrenia,DRD2
+DB01621,Schizophrenia,DRD2
+DB01623,Schizophrenia,DRD2
+DB04842,Schizophrenia,DRD2
+DB04946,Schizophrenia,DRD2
+DB06144,Schizophrenia,DRD2
+DB06148,Major Depressive Disorder,DRD2
+DB06216,Schizophrenia,DRD2
+DB06216,Bipolar Disorder,DRD2
+DB06288,Schizophrenia,DRD2
+DB06288,Bipolar Disorder,DRD2
+DB08815,Schizophrenia,DRD2
+DB08815,Bipolar Disorder,DRD2
+DB01043,Alzheimer’s Disease,DRD2
+DB01403,Schizophrenia,DRD2
+DB01403,Bipolar Disorder,DRD2
+DB01622,Schizophrenia,DRD2
+DB01624,Schizophrenia,DRD2
+DB01624,Bipolar Disorder,DRD2
+DB00182,Attention Deficit Hyperactivity Disorder,GRIN1
+DB00289,Attention Deficit Hyperactivity Disorder,GRIN1
+DB01576,Attention Deficit Hyperactivity Disorder,GRIN1
+DB08918,Major Depressive Disorder,GRIN1
+DB00182,Attention Deficit Hyperactivity Disorder,RASD1
+DB01576,Attention Deficit Hyperactivity Disorder,RASD1
+DB00182,Attention Deficit Hyperactivity Disorder,GRIA1
+DB00363,Schizophrenia,GRIA1
+DB01576,Attention Deficit Hyperactivity Disorder,GRIA1
+DB00182,Attention Deficit Hyperactivity Disorder,H3F3B
+DB01576,Attention Deficit Hyperactivity Disorder,H3F3B
+DB00193,Major Depressive Disorder,GRIN3A
+DB01043,Alzheimer’s Disease,GRIN3A
+DB00193,Major Depressive Disorder,SNCA
+DB00193,Major Depressive Disorder,OPRD1
+DB00321,Anxiety Disorder,OPRD1
+DB00321,Major Depressive Disorder,OPRD1
+DB01100,OCD & Tourette Syndrome,OPRD1
+DB01183,Major Depressive Disorder,OPRD1
+DB00193,Major Depressive Disorder,SLC6A3
+DB00215,Major Depressive Disorder,SLC6A3
+DB00285,Major Depressive Disorder,SLC6A3
+DB00422,Attention Deficit Hyperactivity Disorder,SLC6A3
+DB00476,Major Depressive Disorder,SLC6A3
+DB00726,Major Depressive Disorder,SLC6A3
+DB01104,Major Depressive Disorder,SLC6A3
+DB01104,OCD & Tourette Syndrome,SLC6A3
+DB01149,Major Depressive Disorder,SLC6A3
+DB01156,Major Depressive Disorder,SLC6A3
+DB01175,Major Depressive Disorder,SLC6A3
+DB01255,Attention Deficit Hyperactivity Disorder,SLC6A3
+DB01577,Attention Deficit Hyperactivity Disorder,SLC6A3
+DB06701,Attention Deficit Hyperactivity Disorder,SLC6A3
+DB00193,Major Depressive Disorder,OPRM1
+DB01183,Major Depressive Disorder,OPRM1
+DB00504,Major Depressive Disorder,OPRM1
+DB00193,Major Depressive Disorder,OPRK1
+DB00321,Anxiety Disorder,OPRK1
+DB00321,Major Depressive Disorder,OPRK1
+DB00370,Major Depressive Disorder,OPRK1
+DB01183,Major Depressive Disorder,OPRK1
+DB06148,Major Depressive Disorder,OPRK1
+DB00193,Major Depressive Disorder,CHRFAM7A
+DB00849,Anxiety Disorder,CHRFAM7A
+DB01043,Alzheimer’s Disease,CHRFAM7A
+DB00193,Major Depressive Disorder,CHRNA7
+DB01043,Alzheimer’s Disease,CHRNA7
+DB00193,Major Depressive Disorder,HTR2C
+DB00215,Major Depressive Disorder,HTR2C
+DB00246,Schizophrenia,HTR2C
+DB00246,Bipolar Disorder,HTR2C
+DB00334,Bipolar Disorder,HTR2C
+DB00334,Major Depressive Disorder,HTR2C
+DB00334,Schizophrenia,HTR2C
+DB00363,Schizophrenia,HTR2C
+DB00370,Major Depressive Disorder,HTR2C
+DB00408,Schizophrenia,HTR2C
+DB00408,Bipolar Disorder,HTR2C
+DB00420,Schizophrenia,HTR2C
+DB00433,Schizophrenia,HTR2C
+DB00458,Major Depressive Disorder,HTR2C
+DB00472,Major Depressive Disorder,HTR2C
+DB00472,OCD & Tourette Syndrome,HTR2C
+DB00472,Bipolar Disorder,HTR2C
+DB00476,Major Depressive Disorder,HTR2C
+DB00477,Schizophrenia,HTR2C
+DB00477,Attention Deficit Hyperactivity Disorder,HTR2C
+DB00540,Major Depressive Disorder,HTR2C
+DB00543,Major Depressive Disorder,HTR2C
+DB00623,Schizophrenia,HTR2C
+DB00656,Major Depressive Disorder,HTR2C
+DB00679,Schizophrenia,HTR2C
+DB00726,Major Depressive Disorder,HTR2C
+DB00734,Schizophrenia,HTR2C
+DB00734,Autism Spectrum Disorder,HTR2C
+DB00734,Bipolar Disorder,HTR2C
+DB00831,Schizophrenia,HTR2C
+DB00831,Anxiety Disorder,HTR2C
+DB00850,Schizophrenia,HTR2C
+DB00850,Anxiety Disorder,HTR2C
+DB00933,Schizophrenia,HTR2C
+DB01100,OCD & Tourette Syndrome,HTR2C
+DB01142,Bipolar Disorder,HTR2C
+DB01142,Major Depressive Disorder,HTR2C
+DB01142,Anxiety Disorder,HTR2C
+DB01149,Major Depressive Disorder,HTR2C
+DB01175,Major Depressive Disorder,HTR2C
+DB01224,Schizophrenia,HTR2C
+DB01224,Bipolar Disorder,HTR2C
+DB01238,Autism Spectrum Disorder,HTR2C
+DB01238,Schizophrenia,HTR2C
+DB01238,Bipolar Disorder,HTR2C
+DB01239,Schizophrenia,HTR2C
+DB01239,Bipolar Disorder,HTR2C
+DB01242,OCD & Tourette Syndrome,HTR2C
+DB01267,Schizophrenia,HTR2C
+DB04946,Schizophrenia,HTR2C
+DB06144,Schizophrenia,HTR2C
+DB06148,Major Depressive Disorder,HTR2C
+DB06216,Schizophrenia,HTR2C
+DB06216,Bipolar Disorder,HTR2C
+DB06594,Major Depressive Disorder,HTR2C
+DB01403,Schizophrenia,HTR2C
+DB01403,Bipolar Disorder,HTR2C
+DB00193,Major Depressive Disorder,CHRM3
+DB00246,Schizophrenia,CHRM3
+DB00246,Bipolar Disorder,CHRM3
+DB00321,Anxiety Disorder,CHRM3
+DB00321,Major Depressive Disorder,CHRM3
+DB00334,Bipolar Disorder,CHRM3
+DB00334,Major Depressive Disorder,CHRM3
+DB00334,Schizophrenia,CHRM3
+DB00363,Schizophrenia,CHRM3
+DB00408,Schizophrenia,CHRM3
+DB00408,Bipolar Disorder,CHRM3
+DB00420,Schizophrenia,CHRM3
+DB00458,Major Depressive Disorder,CHRM3
+DB00472,Major Depressive Disorder,CHRM3
+DB00472,OCD & Tourette Syndrome,CHRM3
+DB00472,Bipolar Disorder,CHRM3
+DB00477,Schizophrenia,CHRM3
+DB00477,Attention Deficit Hyperactivity Disorder,CHRM3
+DB00540,Major Depressive Disorder,CHRM3
+DB00679,Schizophrenia,CHRM3
+DB00715,Major Depressive Disorder,CHRM3
+DB00715,OCD & Tourette Syndrome,CHRM3
+DB00933,Schizophrenia,CHRM3
+DB00934,Anxiety Disorder,CHRM3
+DB00934,Major Depressive Disorder,CHRM3
+DB01142,Bipolar Disorder,CHRM3
+DB01142,Major Depressive Disorder,CHRM3
+DB01142,Anxiety Disorder,CHRM3
+DB01151,Major Depressive Disorder,CHRM3
+DB01224,Schizophrenia,CHRM3
+DB01224,Bipolar Disorder,CHRM3
+DB01238,Autism Spectrum Disorder,CHRM3
+DB01238,Schizophrenia,CHRM3
+DB01238,Bipolar Disorder,CHRM3
+DB01239,Schizophrenia,CHRM3
+DB01239,Bipolar Disorder,CHRM3
+DB01403,Schizophrenia,CHRM3
+DB01403,Bipolar Disorder,CHRM3
+DB00215,Major Depressive Disorder,SST
+DB01175,Major Depressive Disorder,SST
+DB00215,Major Depressive Disorder,SREBF2
+DB00321,Anxiety Disorder,SREBF2
+DB00321,Major Depressive Disorder,SREBF2
+DB00334,Bipolar Disorder,SREBF2
+DB00334,Major Depressive Disorder,SREBF2
+DB00334,Schizophrenia,SREBF2
+DB00363,Schizophrenia,SREBF2
+DB00458,Major Depressive Disorder,SREBF2
+DB00477,Schizophrenia,SREBF2
+DB00477,Attention Deficit Hyperactivity Disorder,SREBF2
+DB00502,Schizophrenia,SREBF2
+DB00502,OCD & Tourette Syndrome,SREBF2
+DB01175,Major Depressive Disorder,SREBF2
+DB01242,OCD & Tourette Syndrome,SREBF2
+DB00215,Major Depressive Disorder,CNR1
+DB00334,Bipolar Disorder,CNR1
+DB00334,Major Depressive Disorder,CNR1
+DB00334,Schizophrenia,CNR1
+DB00472,Major Depressive Disorder,CNR1
+DB00472,OCD & Tourette Syndrome,CNR1
+DB00472,Bipolar Disorder,CNR1
+DB00502,Schizophrenia,CNR1
+DB00502,OCD & Tourette Syndrome,CNR1
+DB00752,Major Depressive Disorder,CNR1
+DB01151,Major Depressive Disorder,CNR1
+DB01175,Major Depressive Disorder,CNR1
+DB01238,Autism Spectrum Disorder,CNR1
+DB01238,Schizophrenia,CNR1
+DB01238,Bipolar Disorder,CNR1
+DB00215,Major Depressive Disorder,CHRM1
+DB00246,Schizophrenia,CHRM1
+DB00246,Bipolar Disorder,CHRM1
+DB00321,Anxiety Disorder,CHRM1
+DB00321,Major Depressive Disorder,CHRM1
+DB00334,Bipolar Disorder,CHRM1
+DB00334,Major Depressive Disorder,CHRM1
+DB00334,Schizophrenia,CHRM1
+DB00363,Schizophrenia,CHRM1
+DB00408,Schizophrenia,CHRM1
+DB00408,Bipolar Disorder,CHRM1
+DB00420,Schizophrenia,CHRM1
+DB00458,Major Depressive Disorder,CHRM1
+DB00472,Major Depressive Disorder,CHRM1
+DB00472,OCD & Tourette Syndrome,CHRM1
+DB00472,Bipolar Disorder,CHRM1
+DB00477,Schizophrenia,CHRM1
+DB00477,Attention Deficit Hyperactivity Disorder,CHRM1
+DB00540,Major Depressive Disorder,CHRM1
+DB00543,Major Depressive Disorder,CHRM1
+DB00679,Schizophrenia,CHRM1
+DB00715,Major Depressive Disorder,CHRM1
+DB00715,OCD & Tourette Syndrome,CHRM1
+DB00875,Schizophrenia,CHRM1
+DB00933,Schizophrenia,CHRM1
+DB00934,Anxiety Disorder,CHRM1
+DB00934,Major Depressive Disorder,CHRM1
+DB01104,Major Depressive Disorder,CHRM1
+DB01104,OCD & Tourette Syndrome,CHRM1
+DB01142,Bipolar Disorder,CHRM1
+DB01142,Major Depressive Disorder,CHRM1
+DB01142,Anxiety Disorder,CHRM1
+DB01151,Major Depressive Disorder,CHRM1
+DB01175,Major Depressive Disorder,CHRM1
+DB01224,Schizophrenia,CHRM1
+DB01224,Bipolar Disorder,CHRM1
+DB01238,Autism Spectrum Disorder,CHRM1
+DB01238,Schizophrenia,CHRM1
+DB01238,Bipolar Disorder,CHRM1
+DB01239,Schizophrenia,CHRM1
+DB01239,Bipolar Disorder,CHRM1
+DB01403,Schizophrenia,CHRM1
+DB01403,Bipolar Disorder,CHRM1
+DB00150,Anxiety Disorder,CHRM1
+DB00215,Major Depressive Disorder,HRH1
+DB00246,Schizophrenia,HRH1
+DB00246,Bipolar Disorder,HRH1
+DB00321,Anxiety Disorder,HRH1
+DB00321,Major Depressive Disorder,HRH1
+DB00334,Bipolar Disorder,HRH1
+DB00334,Major Depressive Disorder,HRH1
+DB00334,Schizophrenia,HRH1
+DB00363,Schizophrenia,HRH1
+DB00370,Major Depressive Disorder,HRH1
+DB00408,Schizophrenia,HRH1
+DB00408,Bipolar Disorder,HRH1
+DB00420,Schizophrenia,HRH1
+DB00433,Schizophrenia,HRH1
+DB00458,Major Depressive Disorder,HRH1
+DB00477,Schizophrenia,HRH1
+DB00477,Attention Deficit Hyperactivity Disorder,HRH1
+DB00502,Schizophrenia,HRH1
+DB00502,OCD & Tourette Syndrome,HRH1
+DB00540,Major Depressive Disorder,HRH1
+DB00543,Major Depressive Disorder,HRH1
+DB00557,Anxiety Disorder,HRH1
+DB00623,Schizophrenia,HRH1
+DB00656,Major Depressive Disorder,HRH1
+DB00679,Schizophrenia,HRH1
+DB00726,Major Depressive Disorder,HRH1
+DB00734,Schizophrenia,HRH1
+DB00734,Autism Spectrum Disorder,HRH1
+DB00734,Bipolar Disorder,HRH1
+DB00831,Schizophrenia,HRH1
+DB00831,Anxiety Disorder,HRH1
+DB00850,Schizophrenia,HRH1
+DB00850,Anxiety Disorder,HRH1
+DB00933,Schizophrenia,HRH1
+DB00934,Anxiety Disorder,HRH1
+DB00934,Major Depressive Disorder,HRH1
+DB01100,OCD & Tourette Syndrome,HRH1
+DB01142,Bipolar Disorder,HRH1
+DB01142,Major Depressive Disorder,HRH1
+DB01142,Anxiety Disorder,HRH1
+DB01151,Major Depressive Disorder,HRH1
+DB01175,Major Depressive Disorder,HRH1
+DB01224,Schizophrenia,HRH1
+DB01224,Bipolar Disorder,HRH1
+DB01238,Autism Spectrum Disorder,HRH1
+DB01238,Schizophrenia,HRH1
+DB01238,Bipolar Disorder,HRH1
+DB01239,Schizophrenia,HRH1
+DB01239,Bipolar Disorder,HRH1
+DB01267,Schizophrenia,HRH1
+DB01618,Schizophrenia,HRH1
+DB01623,Schizophrenia,HRH1
+DB04842,Schizophrenia,HRH1
+DB04946,Schizophrenia,HRH1
+DB06148,Major Depressive Disorder,HRH1
+DB06216,Schizophrenia,HRH1
+DB06216,Bipolar Disorder,HRH1
+DB01403,Schizophrenia,HRH1
+DB01403,Bipolar Disorder,HRH1
+DB01624,Schizophrenia,HRH1
+DB01624,Bipolar Disorder,HRH1
+DB00215,Major Depressive Disorder,IL17A
+DB01175,Major Depressive Disorder,IL17A
+DB00215,Major Depressive Disorder,BDNF
+DB00234,Major Depressive Disorder,BDNF
+DB00289,Attention Deficit Hyperactivity Disorder,BDNF
+DB00313,Alzheimer’s Disease,BDNF
+DB00321,Anxiety Disorder,BDNF
+DB00321,Major Depressive Disorder,BDNF
+DB00334,Bipolar Disorder,BDNF
+DB00334,Major Depressive Disorder,BDNF
+DB00334,Schizophrenia,BDNF
+DB00363,Schizophrenia,BDNF
+DB00458,Major Depressive Disorder,BDNF
+DB00472,Major Depressive Disorder,BDNF
+DB00472,OCD & Tourette Syndrome,BDNF
+DB00472,Bipolar Disorder,BDNF
+DB00476,Major Depressive Disorder,BDNF
+DB00540,Major Depressive Disorder,BDNF
+DB00715,Major Depressive Disorder,BDNF
+DB00715,OCD & Tourette Syndrome,BDNF
+DB00780,Major Depressive Disorder,BDNF
+DB00981,Alzheimer’s Disease,BDNF
+DB01037,Major Depressive Disorder,BDNF
+DB01037,Alzheimer’s Disease,BDNF
+DB01104,Major Depressive Disorder,BDNF
+DB01104,OCD & Tourette Syndrome,BDNF
+DB01151,Major Depressive Disorder,BDNF
+DB01175,Major Depressive Disorder,BDNF
+DB01356,Bipolar Disorder,BDNF
+DB06594,Major Depressive Disorder,BDNF
+DB08815,Schizophrenia,BDNF
+DB08815,Bipolar Disorder,BDNF
+DB01043,Alzheimer’s Disease,BDNF
+DB00215,Major Depressive Disorder,SREBF1
+DB00313,Alzheimer’s Disease,SREBF1
+DB00321,Anxiety Disorder,SREBF1
+DB00321,Major Depressive Disorder,SREBF1
+DB00370,Major Depressive Disorder,SREBF1
+DB00458,Major Depressive Disorder,SREBF1
+DB01175,Major Depressive Disorder,SREBF1
+DB01242,OCD & Tourette Syndrome,SREBF1
+DB00234,Major Depressive Disorder,BCL2L1
+DB00370,Major Depressive Disorder,BCL2L1
+DB00472,Major Depressive Disorder,BCL2L1
+DB00472,OCD & Tourette Syndrome,BCL2L1
+DB00472,Bipolar Disorder,BCL2L1
+DB00234,Major Depressive Disorder,REN
+DB00575,Attention Deficit Hyperactivity Disorder,REN
+DB00831,Schizophrenia,REN
+DB00831,Anxiety Disorder,REN
+DB01018,Attention Deficit Hyperactivity Disorder,REN
+DB01183,Major Depressive Disorder,REN
+DB01580,Anxiety Disorder,REN
+DB00246,Schizophrenia,DRD3
+DB00246,Bipolar Disorder,DRD3
+DB00334,Bipolar Disorder,DRD3
+DB00334,Major Depressive Disorder,DRD3
+DB00334,Schizophrenia,DRD3
+DB00363,Schizophrenia,DRD3
+DB00391,Schizophrenia,DRD3
+DB00391,Anxiety Disorder,DRD3
+DB00408,Schizophrenia,DRD3
+DB00408,Bipolar Disorder,DRD3
+DB00420,Schizophrenia,DRD3
+DB00433,Schizophrenia,DRD3
+DB00458,Major Depressive Disorder,DRD3
+DB00477,Schizophrenia,DRD3
+DB00477,Attention Deficit Hyperactivity Disorder,DRD3
+DB00502,Schizophrenia,DRD3
+DB00502,OCD & Tourette Syndrome,DRD3
+DB00543,Major Depressive Disorder,DRD3
+DB00623,Schizophrenia,DRD3
+DB00679,Schizophrenia,DRD3
+DB00734,Schizophrenia,DRD3
+DB00734,Autism Spectrum Disorder,DRD3
+DB00734,Bipolar Disorder,DRD3
+DB00831,Schizophrenia,DRD3
+DB00831,Anxiety Disorder,DRD3
+DB00850,Schizophrenia,DRD3
+DB00850,Anxiety Disorder,DRD3
+DB00933,Schizophrenia,DRD3
+DB01100,OCD & Tourette Syndrome,DRD3
+DB01224,Schizophrenia,DRD3
+DB01224,Bipolar Disorder,DRD3
+DB01238,Autism Spectrum Disorder,DRD3
+DB01238,Schizophrenia,DRD3
+DB01238,Bipolar Disorder,DRD3
+DB01239,Schizophrenia,DRD3
+DB01239,Bipolar Disorder,DRD3
+DB01242,OCD & Tourette Syndrome,DRD3
+DB01267,Schizophrenia,DRD3
+DB01618,Schizophrenia,DRD3
+DB01621,Schizophrenia,DRD3
+DB01623,Schizophrenia,DRD3
+DB04842,Schizophrenia,DRD3
+DB04946,Schizophrenia,DRD3
+DB06216,Schizophrenia,DRD3
+DB06216,Bipolar Disorder,DRD3
+DB06288,Schizophrenia,DRD3
+DB06288,Bipolar Disorder,DRD3
+DB01403,Schizophrenia,DRD3
+DB01403,Bipolar Disorder,DRD3
+DB01622,Schizophrenia,DRD3
+DB00246,Schizophrenia,HTR1D
+DB00246,Bipolar Disorder,HTR1D
+DB00334,Bipolar Disorder,HTR1D
+DB00334,Major Depressive Disorder,HTR1D
+DB00334,Schizophrenia,HTR1D
+DB00363,Schizophrenia,HTR1D
+DB00477,Schizophrenia,HTR1D
+DB00477,Attention Deficit Hyperactivity Disorder,HTR1D
+DB00502,Schizophrenia,HTR1D
+DB00502,OCD & Tourette Syndrome,HTR1D
+DB00623,Schizophrenia,HTR1D
+DB00679,Schizophrenia,HTR1D
+DB00734,Schizophrenia,HTR1D
+DB00734,Autism Spectrum Disorder,HTR1D
+DB00734,Bipolar Disorder,HTR1D
+DB01224,Schizophrenia,HTR1D
+DB01224,Bipolar Disorder,HTR1D
+DB01238,Autism Spectrum Disorder,HTR1D
+DB01238,Schizophrenia,HTR1D
+DB01238,Bipolar Disorder,HTR1D
+DB01267,Schizophrenia,HTR1D
+DB01623,Schizophrenia,HTR1D
+DB04842,Schizophrenia,HTR1D
+DB04946,Schizophrenia,HTR1D
+DB06148,Major Depressive Disorder,HTR1D
+DB06216,Schizophrenia,HTR1D
+DB06216,Bipolar Disorder,HTR1D
+DB00246,Schizophrenia,ADRA2C
+DB00246,Bipolar Disorder,ADRA2C
+DB00334,Bipolar Disorder,ADRA2C
+DB00334,Major Depressive Disorder,ADRA2C
+DB00334,Schizophrenia,ADRA2C
+DB00363,Schizophrenia,ADRA2C
+DB00370,Major Depressive Disorder,ADRA2C
+DB00408,Schizophrenia,ADRA2C
+DB00408,Bipolar Disorder,ADRA2C
+DB00422,Attention Deficit Hyperactivity Disorder,ADRA2C
+DB00477,Schizophrenia,ADRA2C
+DB00477,Attention Deficit Hyperactivity Disorder,ADRA2C
+DB00502,Schizophrenia,ADRA2C
+DB00502,OCD & Tourette Syndrome,ADRA2C
+DB00575,Attention Deficit Hyperactivity Disorder,ADRA2C
+DB00623,Schizophrenia,ADRA2C
+DB00656,Major Depressive Disorder,ADRA2C
+DB00679,Schizophrenia,ADRA2C
+DB00734,Schizophrenia,ADRA2C
+DB00734,Autism Spectrum Disorder,ADRA2C
+DB00734,Bipolar Disorder,ADRA2C
+DB00831,Schizophrenia,ADRA2C
+DB00831,Anxiety Disorder,ADRA2C
+DB00850,Schizophrenia,ADRA2C
+DB00850,Anxiety Disorder,ADRA2C
+DB01018,Attention Deficit Hyperactivity Disorder,ADRA2C
+DB01100,OCD & Tourette Syndrome,ADRA2C
+DB01142,Bipolar Disorder,ADRA2C
+DB01142,Major Depressive Disorder,ADRA2C
+DB01142,Anxiety Disorder,ADRA2C
+DB01224,Schizophrenia,ADRA2C
+DB01224,Bipolar Disorder,ADRA2C
+DB01238,Autism Spectrum Disorder,ADRA2C
+DB01238,Schizophrenia,ADRA2C
+DB01238,Bipolar Disorder,ADRA2C
+DB01267,Schizophrenia,ADRA2C
+DB01577,Attention Deficit Hyperactivity Disorder,ADRA2C
+DB01618,Schizophrenia,ADRA2C
+DB01623,Schizophrenia,ADRA2C
+DB04842,Schizophrenia,ADRA2C
+DB04946,Schizophrenia,ADRA2C
+DB06148,Major Depressive Disorder,ADRA2C
+DB06216,Schizophrenia,ADRA2C
+DB06216,Bipolar Disorder,ADRA2C
+DB06701,Attention Deficit Hyperactivity Disorder,ADRA2C
+DB08815,Schizophrenia,ADRA2C
+DB08815,Bipolar Disorder,ADRA2C
+DB01403,Schizophrenia,ADRA2C
+DB01403,Bipolar Disorder,ADRA2C
+DB00246,Schizophrenia,CHRM2
+DB00246,Bipolar Disorder,CHRM2
+DB00321,Anxiety Disorder,CHRM2
+DB00321,Major Depressive Disorder,CHRM2
+DB00334,Bipolar Disorder,CHRM2
+DB00334,Major Depressive Disorder,CHRM2
+DB00334,Schizophrenia,CHRM2
+DB00363,Schizophrenia,CHRM2
+DB00408,Schizophrenia,CHRM2
+DB00408,Bipolar Disorder,CHRM2
+DB00420,Schizophrenia,CHRM2
+DB00458,Major Depressive Disorder,CHRM2
+DB00477,Schizophrenia,CHRM2
+DB00477,Attention Deficit Hyperactivity Disorder,CHRM2
+DB00540,Major Depressive Disorder,CHRM2
+DB00679,Schizophrenia,CHRM2
+DB00715,Major Depressive Disorder,CHRM2
+DB00715,OCD & Tourette Syndrome,CHRM2
+DB00933,Schizophrenia,CHRM2
+DB00934,Anxiety Disorder,CHRM2
+DB00934,Major Depressive Disorder,CHRM2
+DB01142,Bipolar Disorder,CHRM2
+DB01142,Major Depressive Disorder,CHRM2
+DB01142,Anxiety Disorder,CHRM2
+DB01151,Major Depressive Disorder,CHRM2
+DB01224,Schizophrenia,CHRM2
+DB01224,Bipolar Disorder,CHRM2
+DB01238,Autism Spectrum Disorder,CHRM2
+DB01238,Schizophrenia,CHRM2
+DB01238,Bipolar Disorder,CHRM2
+DB01239,Schizophrenia,CHRM2
+DB01239,Bipolar Disorder,CHRM2
+DB01403,Schizophrenia,CHRM2
+DB01403,Bipolar Disorder,CHRM2
+DB00246,Schizophrenia,ADRA2B
+DB00246,Bipolar Disorder,ADRA2B
+DB00334,Bipolar Disorder,ADRA2B
+DB00334,Major Depressive Disorder,ADRA2B
+DB00334,Schizophrenia,ADRA2B
+DB00363,Schizophrenia,ADRA2B
+DB00370,Major Depressive Disorder,ADRA2B
+DB00408,Schizophrenia,ADRA2B
+DB00408,Bipolar Disorder,ADRA2B
+DB00477,Schizophrenia,ADRA2B
+DB00477,Attention Deficit Hyperactivity Disorder,ADRA2B
+DB00502,Schizophrenia,ADRA2B
+DB00502,OCD & Tourette Syndrome,ADRA2B
+DB00575,Attention Deficit Hyperactivity Disorder,ADRA2B
+DB00623,Schizophrenia,ADRA2B
+DB00656,Major Depressive Disorder,ADRA2B
+DB00679,Schizophrenia,ADRA2B
+DB00734,Schizophrenia,ADRA2B
+DB00734,Autism Spectrum Disorder,ADRA2B
+DB00734,Bipolar Disorder,ADRA2B
+DB00831,Schizophrenia,ADRA2B
+DB00831,Anxiety Disorder,ADRA2B
+DB00850,Schizophrenia,ADRA2B
+DB00850,Anxiety Disorder,ADRA2B
+DB01018,Attention Deficit Hyperactivity Disorder,ADRA2B
+DB01100,OCD & Tourette Syndrome,ADRA2B
+DB01142,Bipolar Disorder,ADRA2B
+DB01142,Major Depressive Disorder,ADRA2B
+DB01142,Anxiety Disorder,ADRA2B
+DB01224,Schizophrenia,ADRA2B
+DB01224,Bipolar Disorder,ADRA2B
+DB01238,Autism Spectrum Disorder,ADRA2B
+DB01238,Schizophrenia,ADRA2B
+DB01238,Bipolar Disorder,ADRA2B
+DB01267,Schizophrenia,ADRA2B
+DB01577,Attention Deficit Hyperactivity Disorder,ADRA2B
+DB01618,Schizophrenia,ADRA2B
+DB01623,Schizophrenia,ADRA2B
+DB04842,Schizophrenia,ADRA2B
+DB04946,Schizophrenia,ADRA2B
+DB06148,Major Depressive Disorder,ADRA2B
+DB06216,Schizophrenia,ADRA2B
+DB06216,Bipolar Disorder,ADRA2B
+DB01403,Schizophrenia,ADRA2B
+DB01403,Bipolar Disorder,ADRA2B
+DB00246,Schizophrenia,CHAT
+DB00246,Bipolar Disorder,CHAT
+DB01577,Attention Deficit Hyperactivity Disorder,CHAT
+DB00246,Schizophrenia,HTR1B
+DB00246,Bipolar Disorder,HTR1B
+DB00334,Bipolar Disorder,HTR1B
+DB00334,Major Depressive Disorder,HTR1B
+DB00334,Schizophrenia,HTR1B
+DB00363,Schizophrenia,HTR1B
+DB00408,Schizophrenia,HTR1B
+DB00408,Bipolar Disorder,HTR1B
+DB00502,Schizophrenia,HTR1B
+DB00502,OCD & Tourette Syndrome,HTR1B
+DB00543,Major Depressive Disorder,HTR1B
+DB00623,Schizophrenia,HTR1B
+DB00679,Schizophrenia,HTR1B
+DB00734,Schizophrenia,HTR1B
+DB00734,Autism Spectrum Disorder,HTR1B
+DB00734,Bipolar Disorder,HTR1B
+DB01238,Autism Spectrum Disorder,HTR1B
+DB01238,Schizophrenia,HTR1B
+DB01238,Bipolar Disorder,HTR1B
+DB01267,Schizophrenia,HTR1B
+DB01623,Schizophrenia,HTR1B
+DB04946,Schizophrenia,HTR1B
+DB06216,Schizophrenia,HTR1B
+DB06216,Bipolar Disorder,HTR1B
+DB00246,Schizophrenia,DRD5
+DB00246,Bipolar Disorder,DRD5
+DB00334,Bipolar Disorder,DRD5
+DB00334,Major Depressive Disorder,DRD5
+DB00334,Schizophrenia,DRD5
+DB00363,Schizophrenia,DRD5
+DB00408,Schizophrenia,DRD5
+DB00408,Bipolar Disorder,DRD5
+DB00477,Schizophrenia,DRD5
+DB00477,Attention Deficit Hyperactivity Disorder,DRD5
+DB00502,Schizophrenia,DRD5
+DB00502,OCD & Tourette Syndrome,DRD5
+DB00623,Schizophrenia,DRD5
+DB00679,Schizophrenia,DRD5
+DB00734,Schizophrenia,DRD5
+DB00734,Autism Spectrum Disorder,DRD5
+DB00734,Bipolar Disorder,DRD5
+DB01224,Schizophrenia,DRD5
+DB01224,Bipolar Disorder,DRD5
+DB01238,Autism Spectrum Disorder,DRD5
+DB01238,Schizophrenia,DRD5
+DB01238,Bipolar Disorder,DRD5
+DB01623,Schizophrenia,DRD5
+DB04946,Schizophrenia,DRD5
+DB01403,Schizophrenia,DRD5
+DB01403,Bipolar Disorder,DRD5
+DB01624,Schizophrenia,DRD5
+DB01624,Bipolar Disorder,DRD5
+DB00246,Schizophrenia,HTR6
+DB00246,Bipolar Disorder,HTR6
+DB00321,Anxiety Disorder,HTR6
+DB00321,Major Depressive Disorder,HTR6
+DB00334,Bipolar Disorder,HTR6
+DB00334,Major Depressive Disorder,HTR6
+DB00334,Schizophrenia,HTR6
+DB00363,Schizophrenia,HTR6
+DB00476,Major Depressive Disorder,HTR6
+DB00543,Major Depressive Disorder,HTR6
+DB00734,Schizophrenia,HTR6
+DB00734,Autism Spectrum Disorder,HTR6
+DB00734,Bipolar Disorder,HTR6
+DB00831,Schizophrenia,HTR6
+DB00831,Anxiety Disorder,HTR6
+DB00933,Schizophrenia,HTR6
+DB01100,OCD & Tourette Syndrome,HTR6
+DB01238,Autism Spectrum Disorder,HTR6
+DB01238,Schizophrenia,HTR6
+DB01238,Bipolar Disorder,HTR6
+DB01623,Schizophrenia,HTR6
+DB04946,Schizophrenia,HTR6
+DB06144,Schizophrenia,HTR6
+DB06148,Major Depressive Disorder,HTR6
+DB06216,Schizophrenia,HTR6
+DB06216,Bipolar Disorder,HTR6
+DB00246,Schizophrenia,DRD4
+DB00246,Bipolar Disorder,DRD4
+DB00334,Bipolar Disorder,DRD4
+DB00334,Major Depressive Disorder,DRD4
+DB00334,Schizophrenia,DRD4
+DB00363,Schizophrenia,DRD4
+DB00420,Schizophrenia,DRD4
+DB00543,Major Depressive Disorder,DRD4
+DB00734,Schizophrenia,DRD4
+DB00734,Autism Spectrum Disorder,DRD4
+DB00734,Bipolar Disorder,DRD4
+DB01224,Schizophrenia,DRD4
+DB01224,Bipolar Disorder,DRD4
+DB01238,Autism Spectrum Disorder,DRD4
+DB01238,Schizophrenia,DRD4
+DB01238,Bipolar Disorder,DRD4
+DB01267,Schizophrenia,DRD4
+DB04946,Schizophrenia,DRD4
+DB06216,Schizophrenia,DRD4
+DB06216,Bipolar Disorder,DRD4
+DB01403,Schizophrenia,DRD4
+DB01403,Bipolar Disorder,DRD4
+DB00246,Schizophrenia,CHRM5
+DB00246,Bipolar Disorder,CHRM5
+DB00321,Anxiety Disorder,CHRM5
+DB00321,Major Depressive Disorder,CHRM5
+DB00334,Bipolar Disorder,CHRM5
+DB00334,Major Depressive Disorder,CHRM5
+DB00334,Schizophrenia,CHRM5
+DB00363,Schizophrenia,CHRM5
+DB00408,Schizophrenia,CHRM5
+DB00408,Bipolar Disorder,CHRM5
+DB00420,Schizophrenia,CHRM5
+DB00458,Major Depressive Disorder,CHRM5
+DB00477,Schizophrenia,CHRM5
+DB00477,Attention Deficit Hyperactivity Disorder,CHRM5
+DB00502,Schizophrenia,CHRM5
+DB00502,OCD & Tourette Syndrome,CHRM5
+DB00540,Major Depressive Disorder,CHRM5
+DB00623,Schizophrenia,CHRM5
+DB00679,Schizophrenia,CHRM5
+DB00715,Major Depressive Disorder,CHRM5
+DB00715,OCD & Tourette Syndrome,CHRM5
+DB00933,Schizophrenia,CHRM5
+DB00934,Anxiety Disorder,CHRM5
+DB00934,Major Depressive Disorder,CHRM5
+DB01142,Bipolar Disorder,CHRM5
+DB01142,Major Depressive Disorder,CHRM5
+DB01142,Anxiety Disorder,CHRM5
+DB01151,Major Depressive Disorder,CHRM5
+DB01224,Schizophrenia,CHRM5
+DB01224,Bipolar Disorder,CHRM5
+DB01238,Autism Spectrum Disorder,CHRM5
+DB01238,Schizophrenia,CHRM5
+DB01238,Bipolar Disorder,CHRM5
+DB01239,Schizophrenia,CHRM5
+DB01239,Bipolar Disorder,CHRM5
+DB01403,Schizophrenia,CHRM5
+DB01403,Bipolar Disorder,CHRM5
+DB00246,Schizophrenia,HTR1E
+DB00246,Bipolar Disorder,HTR1E
+DB00334,Bipolar Disorder,HTR1E
+DB00334,Major Depressive Disorder,HTR1E
+DB00334,Schizophrenia,HTR1E
+DB00363,Schizophrenia,HTR1E
+DB00477,Schizophrenia,HTR1E
+DB00477,Attention Deficit Hyperactivity Disorder,HTR1E
+DB00623,Schizophrenia,HTR1E
+DB00679,Schizophrenia,HTR1E
+DB00734,Schizophrenia,HTR1E
+DB00734,Autism Spectrum Disorder,HTR1E
+DB00734,Bipolar Disorder,HTR1E
+DB01224,Schizophrenia,HTR1E
+DB01224,Bipolar Disorder,HTR1E
+DB01238,Autism Spectrum Disorder,HTR1E
+DB01238,Schizophrenia,HTR1E
+DB01238,Bipolar Disorder,HTR1E
+DB01267,Schizophrenia,HTR1E
+DB04842,Schizophrenia,HTR1E
+DB06216,Schizophrenia,HTR1E
+DB06216,Bipolar Disorder,HTR1E
+DB00246,Schizophrenia,CHRM4
+DB00246,Bipolar Disorder,CHRM4
+DB00321,Anxiety Disorder,CHRM4
+DB00321,Major Depressive Disorder,CHRM4
+DB00334,Bipolar Disorder,CHRM4
+DB00334,Major Depressive Disorder,CHRM4
+DB00334,Schizophrenia,CHRM4
+DB00363,Schizophrenia,CHRM4
+DB00408,Schizophrenia,CHRM4
+DB00408,Bipolar Disorder,CHRM4
+DB00420,Schizophrenia,CHRM4
+DB00458,Major Depressive Disorder,CHRM4
+DB00477,Schizophrenia,CHRM4
+DB00477,Attention Deficit Hyperactivity Disorder,CHRM4
+DB00540,Major Depressive Disorder,CHRM4
+DB00679,Schizophrenia,CHRM4
+DB00715,Major Depressive Disorder,CHRM4
+DB00715,OCD & Tourette Syndrome,CHRM4
+DB00933,Schizophrenia,CHRM4
+DB00934,Anxiety Disorder,CHRM4
+DB00934,Major Depressive Disorder,CHRM4
+DB01142,Bipolar Disorder,CHRM4
+DB01142,Major Depressive Disorder,CHRM4
+DB01142,Anxiety Disorder,CHRM4
+DB01151,Major Depressive Disorder,CHRM4
+DB01224,Schizophrenia,CHRM4
+DB01224,Bipolar Disorder,CHRM4
+DB01238,Autism Spectrum Disorder,CHRM4
+DB01238,Schizophrenia,CHRM4
+DB01238,Bipolar Disorder,CHRM4
+DB01239,Schizophrenia,CHRM4
+DB01239,Bipolar Disorder,CHRM4
+DB01403,Schizophrenia,CHRM4
+DB01403,Bipolar Disorder,CHRM4
+DB00150,Anxiety Disorder,CHRM4
+DB00246,Schizophrenia,HOMER1
+DB00246,Bipolar Disorder,HOMER1
+DB00363,Schizophrenia,HOMER1
+DB00422,Attention Deficit Hyperactivity Disorder,HOMER1
+DB00502,Schizophrenia,HOMER1
+DB00502,OCD & Tourette Syndrome,HOMER1
+DB06148,Major Depressive Disorder,HOMER1
+DB06701,Attention Deficit Hyperactivity Disorder,HOMER1
+DB00246,Schizophrenia,HTR3A
+DB00246,Bipolar Disorder,HTR3A
+DB00334,Bipolar Disorder,HTR3A
+DB00334,Major Depressive Disorder,HTR3A
+DB00334,Schizophrenia,HTR3A
+DB00363,Schizophrenia,HTR3A
+DB00370,Major Depressive Disorder,HTR3A
+DB00543,Major Depressive Disorder,HTR3A
+DB01238,Autism Spectrum Disorder,HTR3A
+DB01238,Schizophrenia,HTR3A
+DB01238,Bipolar Disorder,HTR3A
+DB01043,Alzheimer’s Disease,HTR3A
+DB00246,Schizophrenia,HTR1A
+DB00246,Bipolar Disorder,HTR1A
+DB00321,Anxiety Disorder,HTR1A
+DB00321,Major Depressive Disorder,HTR1A
+DB00334,Bipolar Disorder,HTR1A
+DB00334,Major Depressive Disorder,HTR1A
+DB00334,Schizophrenia,HTR1A
+DB00363,Schizophrenia,HTR1A
+DB00458,Major Depressive Disorder,HTR1A
+DB00472,Major Depressive Disorder,HTR1A
+DB00472,OCD & Tourette Syndrome,HTR1A
+DB00472,Bipolar Disorder,HTR1A
+DB00477,Schizophrenia,HTR1A
+DB00477,Attention Deficit Hyperactivity Disorder,HTR1A
+DB00502,Schizophrenia,HTR1A
+DB00502,OCD & Tourette Syndrome,HTR1A
+DB00540,Major Depressive Disorder,HTR1A
+DB00543,Major Depressive Disorder,HTR1A
+DB00623,Schizophrenia,HTR1A
+DB00656,Major Depressive Disorder,HTR1A
+DB00679,Schizophrenia,HTR1A
+DB00726,Major Depressive Disorder,HTR1A
+DB00734,Schizophrenia,HTR1A
+DB00734,Autism Spectrum Disorder,HTR1A
+DB00734,Bipolar Disorder,HTR1A
+DB00831,Schizophrenia,HTR1A
+DB00831,Anxiety Disorder,HTR1A
+DB00850,Schizophrenia,HTR1A
+DB00850,Anxiety Disorder,HTR1A
+DB01100,OCD & Tourette Syndrome,HTR1A
+DB01142,Bipolar Disorder,HTR1A
+DB01142,Major Depressive Disorder,HTR1A
+DB01142,Anxiety Disorder,HTR1A
+DB01149,Major Depressive Disorder,HTR1A
+DB01224,Schizophrenia,HTR1A
+DB01224,Bipolar Disorder,HTR1A
+DB01238,Autism Spectrum Disorder,HTR1A
+DB01238,Schizophrenia,HTR1A
+DB01238,Bipolar Disorder,HTR1A
+DB01267,Schizophrenia,HTR1A
+DB01356,Bipolar Disorder,HTR1A
+DB01618,Schizophrenia,HTR1A
+DB01621,Schizophrenia,HTR1A
+DB01623,Schizophrenia,HTR1A
+DB04842,Schizophrenia,HTR1A
+DB04946,Schizophrenia,HTR1A
+DB06148,Major Depressive Disorder,HTR1A
+DB06216,Schizophrenia,HTR1A
+DB06216,Bipolar Disorder,HTR1A
+DB06684,Major Depressive Disorder,HTR1A
+DB08815,Schizophrenia,HTR1A
+DB08815,Bipolar Disorder,HTR1A
+DB01622,Schizophrenia,HTR1A
+DB00285,Major Depressive Disorder,CYP2D6
+DB00321,Anxiety Disorder,CYP2D6
+DB00321,Major Depressive Disorder,CYP2D6
+DB00472,Major Depressive Disorder,CYP2D6
+DB00472,OCD & Tourette Syndrome,CYP2D6
+DB00472,Bipolar Disorder,CYP2D6
+DB00476,Major Depressive Disorder,CYP2D6
+DB00502,Schizophrenia,CYP2D6
+DB00502,OCD & Tourette Syndrome,CYP2D6
+DB00679,Schizophrenia,CYP2D6
+DB00715,Major Depressive Disorder,CYP2D6
+DB00715,OCD & Tourette Syndrome,CYP2D6
+DB00285,Major Depressive Disorder,ENO1
+DB00313,Alzheimer’s Disease,ICAM1
+DB00313,Alzheimer’s Disease,WFS1
+DB00313,Alzheimer’s Disease,CDKN1A
+DB00313,Alzheimer’s Disease,UGT1A9
+DB00313,Alzheimer’s Disease,OGDH
+DB00313,Alzheimer’s Disease,POMC
+DB00334,Bipolar Disorder,POMC
+DB00334,Major Depressive Disorder,POMC
+DB00334,Schizophrenia,POMC
+DB00404,Anxiety Disorder,POMC
+DB00472,Major Depressive Disorder,POMC
+DB00472,OCD & Tourette Syndrome,POMC
+DB00472,Bipolar Disorder,POMC
+DB00575,Attention Deficit Hyperactivity Disorder,POMC
+DB00981,Alzheimer’s Disease,POMC
+DB01018,Attention Deficit Hyperactivity Disorder,POMC
+DB01104,Major Depressive Disorder,POMC
+DB01104,OCD & Tourette Syndrome,POMC
+DB01183,Major Depressive Disorder,POMC
+DB01356,Bipolar Disorder,POMC
+DB00313,Alzheimer’s Disease,ALDH5A1
+DB00313,Alzheimer’s Disease,BGLAP
+DB00313,Alzheimer’s Disease,HDAC2
+DB00313,Alzheimer’s Disease,CYP19A1
+DB00555,Bipolar Disorder,CYP19A1
+DB00313,Alzheimer’s Disease,SMN1
+DB00313,Alzheimer’s Disease,ELK1
+DB00313,Alzheimer’s Disease,CYP3A4
+DB00477,Schizophrenia,CYP3A4
+DB00477,Attention Deficit Hyperactivity Disorder,CYP3A4
+DB00623,Schizophrenia,CYP3A4
+DB00679,Schizophrenia,CYP3A4
+DB00683,Anxiety Disorder,CYP3A4
+DB00780,Major Depressive Disorder,CYP3A4
+DB01149,Major Depressive Disorder,CYP3A4
+DB01151,Major Depressive Disorder,CYP3A4
+DB00313,Alzheimer’s Disease,GSK3B
+DB01356,Bipolar Disorder,GSK3B
+DB00313,Alzheimer’s Disease,HBG2
+DB00313,Alzheimer’s Disease,ABCB1
+DB00334,Bipolar Disorder,ABCB1
+DB00334,Major Depressive Disorder,ABCB1
+DB00334,Schizophrenia,ABCB1
+DB00363,Schizophrenia,ABCB1
+DB00477,Schizophrenia,ABCB1
+DB00477,Attention Deficit Hyperactivity Disorder,ABCB1
+DB00502,Schizophrenia,ABCB1
+DB00502,OCD & Tourette Syndrome,ABCB1
+DB00555,Bipolar Disorder,ABCB1
+DB00734,Schizophrenia,ABCB1
+DB00734,Autism Spectrum Disorder,ABCB1
+DB00734,Bipolar Disorder,ABCB1
+DB00831,Schizophrenia,ABCB1
+DB00831,Anxiety Disorder,ABCB1
+DB01104,Major Depressive Disorder,ABCB1
+DB01104,OCD & Tourette Syndrome,ABCB1
+DB01224,Schizophrenia,ABCB1
+DB01224,Bipolar Disorder,ABCB1
+DB01242,OCD & Tourette Syndrome,ABCB1
+DB01267,Schizophrenia,ABCB1
+DB00313,Alzheimer’s Disease,CALR
+DB01356,Bipolar Disorder,CALR
+DB00313,Alzheimer’s Disease,HDAC1
+DB00313,Alzheimer’s Disease,CYP2A6
+DB00477,Schizophrenia,CYP2A6
+DB00477,Attention Deficit Hyperactivity Disorder,CYP2A6
+DB00623,Schizophrenia,CYP2A6
+DB00679,Schizophrenia,CYP2A6
+DB00752,Major Depressive Disorder,CYP2A6
+DB01151,Major Depressive Disorder,CYP2A6
+DB00313,Alzheimer’s Disease,ESR1
+DB01183,Major Depressive Disorder,ESR1
+DB00313,Alzheimer’s Disease,MYCN
+DB00313,Alzheimer’s Disease,HSD3B2
+DB00555,Bipolar Disorder,HSD3B2
+DB00313,Alzheimer’s Disease,ESR2
+DB00313,Alzheimer’s Disease,THBS1
+DB00313,Alzheimer’s Disease,ABAT
+DB00780,Major Depressive Disorder,ABAT
+DB00313,Alzheimer’s Disease,HDAC3
+DB00313,Alzheimer’s Disease,ACADSB
+DB00313,Alzheimer’s Disease,CASP8
+DB00843,Alzheimer’s Disease,CASP8
+DB01156,Major Depressive Disorder,CASP8
+DB00313,Alzheimer’s Disease,SMN2
+DB00313,Alzheimer’s Disease,HDAC9
+DB00313,Alzheimer’s Disease,RELN
+DB00313,Alzheimer’s Disease,MTHFR
+DB01356,Bipolar Disorder,MTHFR
+DB00313,Alzheimer’s Disease,MME
+DB00313,Alzheimer’s Disease,TSPO
+DB00628,Anxiety Disorder,TSPO
+DB08811,Anxiety Disorder,TSPO
+DB00321,Anxiety Disorder,NTRK2
+DB00321,Major Depressive Disorder,NTRK2
+DB06148,Major Depressive Disorder,NTRK2
+DB00321,Anxiety Disorder,CRHR1
+DB00321,Major Depressive Disorder,CRHR1
+DB00321,Anxiety Disorder,SIGMAR1
+DB00321,Major Depressive Disorder,SIGMAR1
+DB00321,Anxiety Disorder,ADRA1D
+DB00321,Major Depressive Disorder,ADRA1D
+DB00363,Schizophrenia,ADRA1D
+DB00420,Schizophrenia,ADRA1D
+DB00458,Major Depressive Disorder,ADRA1D
+DB00540,Major Depressive Disorder,ADRA1D
+DB00575,Attention Deficit Hyperactivity Disorder,ADRA1D
+DB00734,Schizophrenia,ADRA1D
+DB00734,Autism Spectrum Disorder,ADRA1D
+DB00734,Bipolar Disorder,ADRA1D
+DB01142,Bipolar Disorder,ADRA1D
+DB01142,Major Depressive Disorder,ADRA1D
+DB01142,Anxiety Disorder,ADRA1D
+DB01224,Schizophrenia,ADRA1D
+DB01224,Bipolar Disorder,ADRA1D
+DB06148,Major Depressive Disorder,ADRA1D
+DB01403,Schizophrenia,ADRA1D
+DB01403,Bipolar Disorder,ADRA1D
+DB00321,Anxiety Disorder,KCNA1
+DB00321,Major Depressive Disorder,KCNA1
+DB00321,Anxiety Disorder,HRH2
+DB00321,Major Depressive Disorder,HRH2
+DB00334,Bipolar Disorder,HRH2
+DB00334,Major Depressive Disorder,HRH2
+DB00334,Schizophrenia,HRH2
+DB00363,Schizophrenia,HRH2
+DB00408,Schizophrenia,HRH2
+DB00408,Bipolar Disorder,HRH2
+DB00477,Schizophrenia,HRH2
+DB00477,Attention Deficit Hyperactivity Disorder,HRH2
+DB00623,Schizophrenia,HRH2
+DB00679,Schizophrenia,HRH2
+DB00734,Schizophrenia,HRH2
+DB00734,Autism Spectrum Disorder,HRH2
+DB00734,Bipolar Disorder,HRH2
+DB01142,Bipolar Disorder,HRH2
+DB01142,Major Depressive Disorder,HRH2
+DB01142,Anxiety Disorder,HRH2
+DB01623,Schizophrenia,HRH2
+DB06216,Schizophrenia,HRH2
+DB06216,Bipolar Disorder,HRH2
+DB00321,Anxiety Disorder,DGCR14
+DB00321,Major Depressive Disorder,DGCR14
+DB00321,Anxiety Disorder,SLC1A3
+DB00321,Major Depressive Disorder,SLC1A3
+DB00321,Anxiety Disorder,KCND2
+DB00321,Major Depressive Disorder,KCND2
+DB00458,Major Depressive Disorder,KCND2
+DB00321,Anxiety Disorder,P2RX4
+DB00321,Major Depressive Disorder,P2RX4
+DB00321,Anxiety Disorder,FGF13
+DB00321,Major Depressive Disorder,FGF13
+DB00829,Anxiety Disorder,FGF13
+DB01224,Schizophrenia,FGF13
+DB01224,Bipolar Disorder,FGF13
+DB00321,Anxiety Disorder,KCND3
+DB00321,Major Depressive Disorder,KCND3
+DB00458,Major Depressive Disorder,KCND3
+DB00472,Major Depressive Disorder,KCND3
+DB00472,OCD & Tourette Syndrome,KCND3
+DB00472,Bipolar Disorder,KCND3
+DB00502,Schizophrenia,KCND3
+DB00502,OCD & Tourette Syndrome,KCND3
+DB00831,Schizophrenia,KCND3
+DB00831,Anxiety Disorder,KCND3
+DB00321,Anxiety Disorder,HRH4
+DB00321,Major Depressive Disorder,HRH4
+DB00334,Bipolar Disorder,HRH4
+DB00334,Major Depressive Disorder,HRH4
+DB00334,Schizophrenia,HRH4
+DB00363,Schizophrenia,HRH4
+DB00477,Schizophrenia,HRH4
+DB00477,Attention Deficit Hyperactivity Disorder,HRH4
+DB01142,Bipolar Disorder,HRH4
+DB01142,Major Depressive Disorder,HRH4
+DB01142,Anxiety Disorder,HRH4
+DB06148,Major Depressive Disorder,HRH4
+DB00321,Anxiety Disorder,KCNQ2
+DB00321,Major Depressive Disorder,KCNQ2
+DB00321,Anxiety Disorder,NTRK1
+DB00321,Major Depressive Disorder,NTRK1
+DB00321,Anxiety Disorder,EGR1
+DB00321,Major Depressive Disorder,EGR1
+DB00363,Schizophrenia,EGR1
+DB00458,Major Depressive Disorder,EGR1
+DB00502,Schizophrenia,EGR1
+DB00502,OCD & Tourette Syndrome,EGR1
+DB00321,Anxiety Disorder,TP53
+DB00321,Major Depressive Disorder,TP53
+DB00472,Major Depressive Disorder,TP53
+DB00472,OCD & Tourette Syndrome,TP53
+DB00472,Bipolar Disorder,TP53
+DB00679,Schizophrenia,TP53
+DB01356,Bipolar Disorder,TP53
+DB00382,Alzheimer’s Disease,TP53
+DB00334,Bipolar Disorder,CPB2
+DB00334,Major Depressive Disorder,CPB2
+DB00334,Schizophrenia,CPB2
+DB00334,Bipolar Disorder,HTR1F
+DB00334,Major Depressive Disorder,HTR1F
+DB00334,Schizophrenia,HTR1F
+DB00363,Schizophrenia,HTR1F
+DB00734,Schizophrenia,HTR1F
+DB00734,Autism Spectrum Disorder,HTR1F
+DB00734,Bipolar Disorder,HTR1F
+DB01224,Schizophrenia,HTR1F
+DB01224,Bipolar Disorder,HTR1F
+DB06148,Major Depressive Disorder,HTR1F
+DB00334,Bipolar Disorder,SOAT1
+DB00334,Major Depressive Disorder,SOAT1
+DB00334,Schizophrenia,SOAT1
+DB00334,Bipolar Disorder,IRS2
+DB00334,Major Depressive Disorder,IRS2
+DB00334,Schizophrenia,IRS2
+DB00334,Bipolar Disorder,AKT1
+DB00334,Major Depressive Disorder,AKT1
+DB00334,Schizophrenia,AKT1
+DB00363,Schizophrenia,AKT1
+DB00502,Schizophrenia,AKT1
+DB00502,OCD & Tourette Syndrome,AKT1
+DB01104,Major Depressive Disorder,AKT1
+DB01104,OCD & Tourette Syndrome,AKT1
+DB01356,Bipolar Disorder,AKT1
+DB00334,Bipolar Disorder,HTR5A
+DB00334,Major Depressive Disorder,HTR5A
+DB00334,Schizophrenia,HTR5A
+DB00363,Schizophrenia,HTR5A
+DB06216,Schizophrenia,HTR5A
+DB06216,Bipolar Disorder,HTR5A
+DB00334,Bipolar Disorder,CFP
+DB00334,Major Depressive Disorder,CFP
+DB00334,Schizophrenia,CFP
+DB00334,Bipolar Disorder,RGS7
+DB00334,Major Depressive Disorder,RGS7
+DB00334,Schizophrenia,RGS7
+DB00334,Bipolar Disorder,HTR2B
+DB00334,Major Depressive Disorder,HTR2B
+DB00334,Schizophrenia,HTR2B
+DB00363,Schizophrenia,HTR2B
+DB00472,Major Depressive Disorder,HTR2B
+DB00472,OCD & Tourette Syndrome,HTR2B
+DB00472,Bipolar Disorder,HTR2B
+DB00502,Schizophrenia,HTR2B
+DB00502,OCD & Tourette Syndrome,HTR2B
+DB00543,Major Depressive Disorder,HTR2B
+DB00656,Major Depressive Disorder,HTR2B
+DB00734,Schizophrenia,HTR2B
+DB00734,Autism Spectrum Disorder,HTR2B
+DB00734,Bipolar Disorder,HTR2B
+DB01142,Bipolar Disorder,HTR2B
+DB01142,Major Depressive Disorder,HTR2B
+DB01142,Anxiety Disorder,HTR2B
+DB01224,Schizophrenia,HTR2B
+DB01224,Bipolar Disorder,HTR2B
+DB01239,Schizophrenia,HTR2B
+DB01239,Bipolar Disorder,HTR2B
+DB01242,OCD & Tourette Syndrome,HTR2B
+DB06148,Major Depressive Disorder,HTR2B
+DB06216,Schizophrenia,HTR2B
+DB06216,Bipolar Disorder,HTR2B
+DB06594,Major Depressive Disorder,HTR2B
+DB00334,Bipolar Disorder,PRL
+DB00334,Major Depressive Disorder,PRL
+DB00334,Schizophrenia,PRL
+DB00391,Schizophrenia,PRL
+DB00391,Anxiety Disorder,PRL
+DB00734,Schizophrenia,PRL
+DB00734,Autism Spectrum Disorder,PRL
+DB00734,Bipolar Disorder,PRL
+DB00850,Schizophrenia,PRL
+DB00850,Anxiety Disorder,PRL
+DB01100,OCD & Tourette Syndrome,PRL
+DB01171,Major Depressive Disorder,PRL
+DB01171,Anxiety Disorder,PRL
+DB01956,Anxiety Disorder,PRL
+DB00344,Major Depressive Disorder,BACE1
+DB00363,Schizophrenia,CLCN4
+DB00363,Schizophrenia,TH
+DB00472,Major Depressive Disorder,TH
+DB00472,OCD & Tourette Syndrome,TH
+DB00472,Bipolar Disorder,TH
+DB00502,Schizophrenia,TH
+DB00502,OCD & Tourette Syndrome,TH
+DB00780,Major Depressive Disorder,TH
+DB08918,Major Depressive Disorder,TH
+DB00363,Schizophrenia,CALM2
+DB00502,Schizophrenia,CALM2
+DB00502,OCD & Tourette Syndrome,CALM2
+DB00623,Schizophrenia,CALM2
+DB00734,Schizophrenia,CALM2
+DB00734,Autism Spectrum Disorder,CALM2
+DB00734,Bipolar Disorder,CALM2
+DB00829,Anxiety Disorder,CALM2
+DB00831,Schizophrenia,CALM2
+DB00831,Anxiety Disorder,CALM2
+DB00850,Schizophrenia,CALM2
+DB00850,Anxiety Disorder,CALM2
+DB01100,OCD & Tourette Syndrome,CALM2
+DB00363,Schizophrenia,CALM1
+DB00502,Schizophrenia,CALM1
+DB00502,OCD & Tourette Syndrome,CALM1
+DB00623,Schizophrenia,CALM1
+DB00734,Schizophrenia,CALM1
+DB00734,Autism Spectrum Disorder,CALM1
+DB00734,Bipolar Disorder,CALM1
+DB00829,Anxiety Disorder,CALM1
+DB00831,Schizophrenia,CALM1
+DB00831,Anxiety Disorder,CALM1
+DB00850,Schizophrenia,CALM1
+DB00850,Anxiety Disorder,CALM1
+DB01100,OCD & Tourette Syndrome,CALM1
+DB00363,Schizophrenia,NR4A1
+DB00502,Schizophrenia,NR4A1
+DB00502,OCD & Tourette Syndrome,NR4A1
+DB01356,Bipolar Disorder,NR4A1
+DB00363,Schizophrenia,PDE4B
+DB00363,Schizophrenia,FOXA1
+DB00363,Schizophrenia,HMGCR
+DB00502,Schizophrenia,HMGCR
+DB00502,OCD & Tourette Syndrome,HMGCR
+DB00363,Schizophrenia,NPY
+DB00472,Major Depressive Disorder,NPY
+DB00472,OCD & Tourette Syndrome,NPY
+DB00472,Bipolar Disorder,NPY
+DB00502,Schizophrenia,NPY
+DB00502,OCD & Tourette Syndrome,NPY
+DB00575,Attention Deficit Hyperactivity Disorder,NPY
+DB01183,Major Depressive Disorder,NPY
+DB00363,Schizophrenia,SLC1A2
+DB00502,Schizophrenia,SLC1A2
+DB00502,OCD & Tourette Syndrome,SLC1A2
+DB00363,Schizophrenia,VAPA
+DB00363,Schizophrenia,EFS
+DB00363,Schizophrenia,AP2B1
+DB00363,Schizophrenia,SNAP91
+DB00363,Schizophrenia,ARRB1
+DB00363,Schizophrenia,NTS
+DB06288,Schizophrenia,NTS
+DB06288,Bipolar Disorder,NTS
+DB00363,Schizophrenia,ERBB4
+DB00370,Major Depressive Disorder,HRH3
+DB00382,Alzheimer’s Disease,HRH3
+DB00370,Major Depressive Disorder,RBP4
+DB00371,Anxiety Disorder,GABRA4
+DB00371,Anxiety Disorder,PDF
+DB00371,Anxiety Disorder,GABRA6
+DB00371,Anxiety Disorder,GABRA1
+DB00543,Major Depressive Disorder,GABRA1
+DB00801,Anxiety Disorder,GABRA1
+DB00849,Anxiety Disorder,GABRA1
+DB01588,Anxiety Disorder,GABRA1
+DB00371,Anxiety Disorder,PRKCE
+DB00371,Anxiety Disorder,GABRA2
+DB00371,Anxiety Disorder,GABRA5
+DB00391,Schizophrenia,CARS
+DB00391,Anxiety Disorder,CARS
+DB00408,Schizophrenia,IL1B
+DB00408,Bipolar Disorder,IL1B
+DB00502,Schizophrenia,IL1B
+DB00502,OCD & Tourette Syndrome,IL1B
+DB00420,Schizophrenia,BCHE
+DB00674,Alzheimer’s Disease,BCHE
+DB00843,Alzheimer’s Disease,BCHE
+DB00989,Alzheimer’s Disease,BCHE
+DB00382,Alzheimer’s Disease,BCHE
+DB00422,Attention Deficit Hyperactivity Disorder,UPP2
+DB01037,Major Depressive Disorder,UPP2
+DB01037,Alzheimer’s Disease,UPP2
+DB06701,Attention Deficit Hyperactivity Disorder,UPP2
+DB00458,Major Depressive Disorder,CREB1
+DB00472,Major Depressive Disorder,CREB1
+DB00472,OCD & Tourette Syndrome,CREB1
+DB00472,Bipolar Disorder,CREB1
+DB00458,Major Depressive Disorder,KCNH1
+DB00458,Major Depressive Disorder,ACHE
+DB00477,Schizophrenia,ACHE
+DB00477,Attention Deficit Hyperactivity Disorder,ACHE
+DB00674,Alzheimer’s Disease,ACHE
+DB00843,Alzheimer’s Disease,ACHE
+DB00981,Alzheimer’s Disease,ACHE
+DB00989,Alzheimer’s Disease,ACHE
+DB00382,Alzheimer’s Disease,ACHE
+DB00458,Major Depressive Disorder,SLC47A1
+DB00458,Major Depressive Disorder,PDLIM5
+DB00502,Schizophrenia,PDLIM5
+DB00502,OCD & Tourette Syndrome,PDLIM5
+DB00458,Major Depressive Disorder,ADORA1
+DB00458,Major Depressive Disorder,MAOB
+DB00752,Major Depressive Disorder,MAOB
+DB00780,Major Depressive Disorder,MAOB
+DB01037,Major Depressive Disorder,MAOB
+DB01037,Alzheimer’s Disease,MAOB
+DB01247,Major Depressive Disorder,MAOB
+DB01577,Attention Deficit Hyperactivity Disorder,MAOB
+DB00458,Major Depressive Disorder,GAPDH
+DB00472,Major Depressive Disorder,SLC17A7
+DB00472,OCD & Tourette Syndrome,SLC17A7
+DB00472,Bipolar Disorder,SLC17A7
+DB01151,Major Depressive Disorder,SLC17A7
+DB01356,Bipolar Disorder,SLC17A7
+DB00472,Major Depressive Disorder,KCNA3
+DB00472,OCD & Tourette Syndrome,KCNA3
+DB00472,Bipolar Disorder,KCNA3
+DB00472,Major Depressive Disorder,CORT
+DB00472,OCD & Tourette Syndrome,CORT
+DB00472,Bipolar Disorder,CORT
+DB00829,Anxiety Disorder,CORT
+DB00472,Major Depressive Disorder,EDN1
+DB00472,OCD & Tourette Syndrome,EDN1
+DB00472,Bipolar Disorder,EDN1
+DB00472,Major Depressive Disorder,WNT3A
+DB00472,OCD & Tourette Syndrome,WNT3A
+DB00472,Bipolar Disorder,WNT3A
+DB00472,Major Depressive Disorder,MMP9
+DB00472,OCD & Tourette Syndrome,MMP9
+DB00472,Bipolar Disorder,MMP9
+DB00472,Major Depressive Disorder,S100B
+DB00472,OCD & Tourette Syndrome,S100B
+DB00472,Bipolar Disorder,S100B
+DB00502,Schizophrenia,S100B
+DB00502,OCD & Tourette Syndrome,S100B
+DB00472,Major Depressive Disorder,CRH
+DB00472,OCD & Tourette Syndrome,CRH
+DB00472,Bipolar Disorder,CRH
+DB01183,Major Depressive Disorder,CRH
+DB00150,Anxiety Disorder,CRH
+DB00472,Major Depressive Disorder,CYP2C8
+DB00472,OCD & Tourette Syndrome,CYP2C8
+DB00472,Bipolar Disorder,CYP2C8
+DB00540,Major Depressive Disorder,CYP2C8
+DB00780,Major Depressive Disorder,CYP2C8
+DB00472,Major Depressive Disorder,ZNF326
+DB00472,OCD & Tourette Syndrome,ZNF326
+DB00472,Bipolar Disorder,ZNF326
+DB00472,Major Depressive Disorder,CCL5
+DB00472,OCD & Tourette Syndrome,CCL5
+DB00472,Bipolar Disorder,CCL5
+DB00472,Major Depressive Disorder,NR3C1
+DB00472,OCD & Tourette Syndrome,NR3C1
+DB00472,Bipolar Disorder,NR3C1
+DB00472,Major Depressive Disorder,KCNC1
+DB00472,OCD & Tourette Syndrome,KCNC1
+DB00472,Bipolar Disorder,KCNC1
+DB00472,Major Depressive Disorder,GRIK2
+DB00472,OCD & Tourette Syndrome,GRIK2
+DB00472,Bipolar Disorder,GRIK2
+DB00849,Anxiety Disorder,GRIK2
+DB00472,Major Depressive Disorder,SOX2
+DB00472,OCD & Tourette Syndrome,SOX2
+DB00472,Bipolar Disorder,SOX2
+DB00472,Major Depressive Disorder,SKP1
+DB00472,OCD & Tourette Syndrome,SKP1
+DB00472,Bipolar Disorder,SKP1
+DB00472,Major Depressive Disorder,PLA2G10
+DB00472,OCD & Tourette Syndrome,PLA2G10
+DB00472,Bipolar Disorder,PLA2G10
+DB00472,Major Depressive Disorder,TNF
+DB00472,OCD & Tourette Syndrome,TNF
+DB00472,Bipolar Disorder,TNF
+DB01151,Major Depressive Disorder,TNF
+DB00472,Major Depressive Disorder,PLA2G2A
+DB00472,OCD & Tourette Syndrome,PLA2G2A
+DB00472,Bipolar Disorder,PLA2G2A
+DB00472,Major Depressive Disorder,IL8
+DB00472,OCD & Tourette Syndrome,IL8
+DB00472,Bipolar Disorder,IL8
+DB00477,Schizophrenia,ATP8A1
+DB00477,Attention Deficit Hyperactivity Disorder,ATP8A1
+DB00831,Schizophrenia,ATP8A1
+DB00831,Anxiety Disorder,ATP8A1
+DB00477,Schizophrenia,SNAP25
+DB00477,Attention Deficit Hyperactivity Disorder,SNAP25
+DB00477,Schizophrenia,SOD3
+DB00477,Attention Deficit Hyperactivity Disorder,SOD3
+DB00477,Schizophrenia,TF
+DB00477,Attention Deficit Hyperactivity Disorder,TF
+DB00477,Schizophrenia,FKBP4
+DB00477,Attention Deficit Hyperactivity Disorder,FKBP4
+DB00477,Schizophrenia,FEN1
+DB00477,Attention Deficit Hyperactivity Disorder,FEN1
+DB00477,Schizophrenia,CYP2E1
+DB00477,Attention Deficit Hyperactivity Disorder,CYP2E1
+DB00623,Schizophrenia,CYP2E1
+DB00679,Schizophrenia,CYP2E1
+DB01151,Major Depressive Disorder,CYP2E1
+DB00118,Attention Deficit Hyperactivity Disorder,CYP2E1
+DB00477,Schizophrenia,DAO
+DB00477,Attention Deficit Hyperactivity Disorder,DAO
+DB00502,Schizophrenia,MLST8
+DB00502,OCD & Tourette Syndrome,MLST8
+DB00502,Schizophrenia,ABCG2
+DB00502,OCD & Tourette Syndrome,ABCG2
+DB00502,Schizophrenia,FOSB
+DB00502,OCD & Tourette Syndrome,FOSB
+DB00502,Schizophrenia,PCM1
+DB00502,OCD & Tourette Syndrome,PCM1
+DB00502,Schizophrenia,DUSP6
+DB00502,OCD & Tourette Syndrome,DUSP6
+DB00502,Schizophrenia,RTN4
+DB00502,OCD & Tourette Syndrome,RTN4
+DB00502,Schizophrenia,CPE
+DB00502,OCD & Tourette Syndrome,CPE
+DB00502,Schizophrenia,NPPA
+DB00502,OCD & Tourette Syndrome,NPPA
+DB00502,Schizophrenia,TAC1
+DB00502,OCD & Tourette Syndrome,TAC1
+DB01183,Major Depressive Disorder,TAC1
+DB01356,Bipolar Disorder,TAC1
+DB00502,Schizophrenia,DTNA
+DB00502,OCD & Tourette Syndrome,DTNA
+DB00502,Schizophrenia,BZRAP1
+DB00502,OCD & Tourette Syndrome,BZRAP1
+DB00502,Schizophrenia,PENK
+DB00502,OCD & Tourette Syndrome,PENK
+DB00502,Schizophrenia,HSP90AA1
+DB00502,OCD & Tourette Syndrome,HSP90AA1
+DB01238,Autism Spectrum Disorder,HSP90AA1
+DB01238,Schizophrenia,HSP90AA1
+DB01238,Bipolar Disorder,HSP90AA1
+DB00555,Bipolar Disorder,CYP17A1
+DB00555,Bipolar Disorder,HSPG2
+DB00555,Bipolar Disorder,SCN2A
+DB00555,Bipolar Disorder,KCNK18
+DB00561,Major Depressive Disorder,KCNK3
+DB00561,Major Depressive Disorder,KCNK9
+DB00575,Attention Deficit Hyperactivity Disorder,JUN
+DB01356,Bipolar Disorder,JUN
+DB01577,Attention Deficit Hyperactivity Disorder,JUN
+DB00575,Attention Deficit Hyperactivity Disorder,AOC3
+DB00780,Major Depressive Disorder,AOC3
+DB00575,Attention Deficit Hyperactivity Disorder,IKBKG
+DB00575,Attention Deficit Hyperactivity Disorder,LTF
+DB00623,Schizophrenia,CALM3
+DB00831,Schizophrenia,CALM3
+DB00831,Anxiety Disorder,CALM3
+DB00850,Schizophrenia,CALM3
+DB00850,Anxiety Disorder,CALM3
+DB01100,OCD & Tourette Syndrome,CALM3
+DB00674,Alzheimer’s Disease,CES2
+DB00981,Alzheimer’s Disease,CES2
+DB00989,Alzheimer’s Disease,CES2
+DB00382,Alzheimer’s Disease,CES2
+DB00674,Alzheimer’s Disease,KCNB1
+DB00843,Alzheimer’s Disease,KCNB1
+DB00683,Anxiety Disorder,VEGFA
+DB00843,Alzheimer’s Disease,VEGFA
+DB01356,Bipolar Disorder,VEGFA
+DB00683,Anxiety Disorder,NR1I2
+DB00715,Major Depressive Disorder,TPH1
+DB00715,OCD & Tourette Syndrome,TPH1
+DB00150,Anxiety Disorder,TPH1
+DB00715,Major Depressive Disorder,EFHD1
+DB00715,OCD & Tourette Syndrome,EFHD1
+DB00734,Schizophrenia,GLUL
+DB00734,Autism Spectrum Disorder,GLUL
+DB00734,Bipolar Disorder,GLUL
+DB00734,Schizophrenia,SLC17A6
+DB00734,Autism Spectrum Disorder,SLC17A6
+DB00734,Bipolar Disorder,SLC17A6
+DB00734,Schizophrenia,HSPA4
+DB00734,Autism Spectrum Disorder,HSPA4
+DB00734,Bipolar Disorder,HSPA4
+DB01356,Bipolar Disorder,HSPA4
+DB01043,Alzheimer’s Disease,HSPA4
+DB00752,Major Depressive Disorder,ATN1
+DB00752,Major Depressive Disorder,KDM1A
+DB00780,Major Depressive Disorder,GPT
+DB00780,Major Depressive Disorder,GPT2
+DB00829,Anxiety Disorder,AKR1C2
+DB00829,Anxiety Disorder,IL15
+DB00829,Anxiety Disorder,AKR1C3
+DB00829,Anxiety Disorder,AKR1C1
+DB00829,Anxiety Disorder,AKR1C4
+DB00831,Schizophrenia,DHCR24
+DB00831,Anxiety Disorder,DHCR24
+DB00831,Schizophrenia,SYP
+DB00831,Anxiety Disorder,SYP
+DB00831,Schizophrenia,KNG1
+DB00831,Anxiety Disorder,KNG1
+DB00831,Schizophrenia,CALY
+DB00831,Anxiety Disorder,CALY
+DB00831,Schizophrenia,S100A4
+DB00831,Anxiety Disorder,S100A4
+DB00843,Alzheimer’s Disease,CCL2
+DB00843,Alzheimer’s Disease,IGF1
+DB00849,Anxiety Disorder,GRIA2
+DB00849,Anxiety Disorder,CHRNA4
+DB00981,Alzheimer’s Disease,C10orf10
+DB00981,Alzheimer’s Disease,MPO
+DB00989,Alzheimer’s Disease,CES1
+DB00989,Alzheimer’s Disease,HSF1
+DB01037,Major Depressive Disorder,IL2
+DB01037,Alzheimer’s Disease,IL2
+DB01037,Major Depressive Disorder,TACR1
+DB01037,Alzheimer’s Disease,TACR1
+DB01037,Major Depressive Disorder,HMOX1
+DB01037,Alzheimer’s Disease,HMOX1
+DB01151,Major Depressive Disorder,HMOX1
+DB01956,Anxiety Disorder,HMOX1
+DB01037,Major Depressive Disorder,ADAM10
+DB01037,Alzheimer’s Disease,ADAM10
+DB01037,Major Depressive Disorder,DDC
+DB01037,Alzheimer’s Disease,DDC
+DB01356,Bipolar Disorder,DDC
+DB01100,OCD & Tourette Syndrome,STAT5A
+DB01100,OCD & Tourette Syndrome,PTH
+DB01100,OCD & Tourette Syndrome,STAT3
+DB01100,OCD & Tourette Syndrome,STAT5B
+DB01104,Major Depressive Disorder,TPT1
+DB01104,OCD & Tourette Syndrome,TPT1
+DB01149,Major Depressive Disorder,GSTM1
+DB01151,Major Depressive Disorder,NFE2L2
+DB01151,Major Depressive Disorder,MAPK14
+DB01156,Major Depressive Disorder,MAPK14
+DB01151,Major Depressive Disorder,ADRB2
+DB01580,Anxiety Disorder,ADRB2
+DB04842,Schizophrenia,ADRB2
+DB06216,Schizophrenia,ADRB2
+DB06216,Bipolar Disorder,ADRB2
+DB01151,Major Depressive Disorder,DDX4
+DB01151,Major Depressive Disorder,GAP43
+DB01151,Major Depressive Disorder,SMPD1
+DB01156,Major Depressive Disorder,PLA2G4A
+DB01156,Major Depressive Disorder,CHRNA3
+DB01183,Major Depressive Disorder,OPRL1
+DB01183,Major Depressive Disorder,LBR
+DB01183,Major Depressive Disorder,AVP
+DB01183,Major Depressive Disorder,CYLD
+DB01183,Major Depressive Disorder,VIP
+DB01183,Major Depressive Disorder,OXT
+DB01183,Major Depressive Disorder,TLR4
+DB01956,Anxiety Disorder,TLR4
+DB01183,Major Depressive Disorder,IL10
+DB01183,Major Depressive Disorder,ASPRV1
+DB01183,Major Depressive Disorder,GNRH1
+DB01224,Schizophrenia,PRDM16
+DB01224,Bipolar Disorder,PRDM16
+DB01356,Bipolar Disorder,CSF3
+DB01356,Bipolar Disorder,IMPA2
+DB01356,Bipolar Disorder,ZFYVE1
+DB01356,Bipolar Disorder,AQP2
+DB01356,Bipolar Disorder,PLAT
+DB01356,Bipolar Disorder,PIN1
+DB01356,Bipolar Disorder,EIF4A1
+DB01356,Bipolar Disorder,RELA
+DB01356,Bipolar Disorder,HSPA5
+DB01356,Bipolar Disorder,INPP1
+DB01356,Bipolar Disorder,CDK5
+DB01356,Bipolar Disorder,NR4A2
+DB01356,Bipolar Disorder,CTNNB1
+DB01356,Bipolar Disorder,IMPA1
+DB01356,Bipolar Disorder,MAP3K8
+DB01356,Bipolar Disorder,DNAJC5
+DB01356,Bipolar Disorder,EIF4A2
+DB01356,Bipolar Disorder,PON1
+DB01356,Bipolar Disorder,BCL2
+DB01356,Bipolar Disorder,GFAP
+DB01356,Bipolar Disorder,SNAI1
+DB01356,Bipolar Disorder,PCNA
+DB01577,Attention Deficit Hyperactivity Disorder,SOD1
+DB01577,Attention Deficit Hyperactivity Disorder,SLC18A1
+DB01580,Anxiety Disorder,ADRB3
+DB04842,Schizophrenia,CACNG1
+DB06594,Major Depressive Disorder,MTNR1B
+DB06594,Major Depressive Disorder,GPR50
+DB06594,Major Depressive Disorder,MTNR1A
+DB00504,Major Depressive Disorder,CHRNA2
+DB01043,Alzheimer’s Disease,GRIN2A
+DB01043,Alzheimer’s Disease,OPA1
+DB00157,Alzheimer’s Disease,PDHX
+DB00157,Alzheimer’s Disease,PDHB
+DB00157,Alzheimer’s Disease,PDHA1
+DB00157,Alzheimer’s Disease,DLD
+DB00157,Alzheimer’s Disease,DLAT
+DB08811,Anxiety Disorder,PDE2A
+DB08811,Anxiety Disorder,PDE4A
+DB08811,Anxiety Disorder,PDE10A
+DB08811,Anxiety Disorder,PDE3A
+DB00118,Attention Deficit Hyperactivity Disorder,MAT2A
+DB00118,Attention Deficit Hyperactivity Disorder,CBS
+DB00118,Attention Deficit Hyperactivity Disorder,COMT
+DB00118,Attention Deficit Hyperactivity Disorder,UBE2I
+DB00382,Alzheimer’s Disease,HNMT
+DB01956,Anxiety Disorder,CYP7A1
+DB01956,Anxiety Disorder,AXL
+DB01956,Anxiety Disorder,APOB
+DB01956,Anxiety Disorder,ANGPT2
+DB01956,Anxiety Disorder,SLC12A5
+DB01956,Anxiety Disorder,SLC2A4
+DB01956,Anxiety Disorder,FGF1
+DB01956,Anxiety Disorder,FN1
+DB01956,Anxiety Disorder,MMP2
+DB01956,Anxiety Disorder,GARS
+DB00150,Anxiety Disorder,WARS2
+DB00150,Anxiety Disorder,CCBL1
+DB00150,Anxiety Disorder,WARS

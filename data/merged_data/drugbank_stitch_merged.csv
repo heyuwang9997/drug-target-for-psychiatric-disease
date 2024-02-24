@@ -1,0 +1,2779 @@
+Drug_id,Disease,Gene_name
+DB00114,Eating Disorders,KMO
+DB00114,Eating Disorders,ABAT
+DB00119,Eating Disorders,ABAT
+DB00313,Bipolar Disorder,ABAT
+DB00780,Anxiety Disorder,ABAT
+DB00114,Eating Disorders,FDX1
+DB00114,Eating Disorders,FUT8
+DB00114,Eating Disorders,F2
+DB00668,Eating Disorders,F2
+DB01592,Eating Disorders,F2
+DB00114,Eating Disorders,GOT1
+DB00116,Eating Disorders,TYMS
+DB00118,Major Depressive Disorder,MAT2A
+DB00118,Major Depressive Disorder,CYP2E1
+DB00132,Eating Disorders,CYP2E1
+DB00477,Attention Deficit Hyperactivity Disorder,CYP2E1
+DB00679,Anxiety Disorder,CYP2E1
+DB01151,Attention Deficit Hyperactivity Disorder,CYP2E1
+DB00118,Major Depressive Disorder,CBS
+DB00118,Major Depressive Disorder,COMT
+DB00295,Substance Use Disorders,COMT
+DB00118,Major Depressive Disorder,UBE2I
+DB00119,Eating Disorders,DLD
+DB00157,Alzheimer’s Disease,DLD
+DB00119,Eating Disorders,PDHX
+DB00157,Alzheimer’s Disease,PDHX
+DB00119,Eating Disorders,PDHB
+DB00157,Alzheimer’s Disease,PDHB
+DB00119,Eating Disorders,DLAT
+DB00157,Alzheimer’s Disease,DLAT
+DB00119,Eating Disorders,PDHA1
+DB00157,Alzheimer’s Disease,PDHA1
+DB00668,Eating Disorders,PDHA1
+DB00119,Eating Disorders,VEGFA
+DB00201,Major Depressive Disorder,VEGFA
+DB00755,Eating Disorders,VEGFA
+DB00843,Alzheimer’s Disease,VEGFA
+DB01065,Anxiety Disorder,VEGFA
+DB01356,Bipolar Disorder,VEGFA
+DB00120,Major Depressive Disorder,PAH
+DB00668,Eating Disorders,PAH
+DB00120,Major Depressive Disorder,HMGA1
+DB00120,Major Depressive Disorder,SYK
+DB00120,Major Depressive Disorder,AK1
+DB00120,Major Depressive Disorder,CRH
+DB00150,Major Depressive Disorder,CRH
+DB00472,Bipolar Disorder,CRH
+DB00668,Eating Disorders,CRH
+DB01183,Major Depressive Disorder,CRH
+DB00120,Major Depressive Disorder,MMP9
+DB00137,Eating Disorders,MMP9
+DB00295,Substance Use Disorders,MMP9
+DB00472,Bipolar Disorder,MMP9
+DB00654,Substance Use Disorders,MMP9
+DB00668,Eating Disorders,MMP9
+DB00755,Eating Disorders,MMP9
+DB01065,Anxiety Disorder,MMP9
+DB01708,Eating Disorders,MMP9
+DB05289,Alzheimer’s Disease,MMP9
+DB08838,Anxiety Disorder,MMP9
+DB00120,Major Depressive Disorder,FOXP3
+DB00199,Eating Disorders,FOXP3
+DB00755,Eating Disorders,FOXP3
+DB01708,Eating Disorders,FOXP3
+DB00120,Major Depressive Disorder,MYL2
+DB00122,Eating Disorders,SUV39H1
+DB00122,Eating Disorders,GCG
+DB00125,Eating Disorders,GCG
+DB00130,Eating Disorders,GCG
+DB00132,Eating Disorders,GCG
+DB00142,Schizophrenia,GCG
+DB00154,Eating Disorders,GCG
+DB00171,Eating Disorders,GCG
+DB00222,Substance Use Disorders,GCG
+DB00502,Attention Deficit Hyperactivity Disorder,GCG
+DB00668,Eating Disorders,GCG
+DB01065,Anxiety Disorder,GCG
+DB01356,Bipolar Disorder,GCG
+DB05232,Substance Use Disorders,GCG
+DB00122,Eating Disorders,CLEC2B
+DB00122,Eating Disorders,TNF
+DB00125,Eating Disorders,TNF
+DB00295,Substance Use Disorders,TNF
+DB00472,Bipolar Disorder,TNF
+DB00668,Eating Disorders,TNF
+DB01151,Attention Deficit Hyperactivity Disorder,TNF
+DB01221,Major Depressive Disorder,TNF
+DB00122,Eating Disorders,ETNK1
+DB00122,Eating Disorders,REN
+DB00201,Major Depressive Disorder,REN
+DB00234,Major Depressive Disorder,REN
+DB00575,Attention Deficit Hyperactivity Disorder,REN
+DB00668,Eating Disorders,REN
+DB00831,Anxiety Disorder,REN
+DB01018,Attention Deficit Hyperactivity Disorder,REN
+DB01183,Major Depressive Disorder,REN
+DB01580,Anxiety Disorder,REN
+DB05232,Substance Use Disorders,REN
+DB00122,Eating Disorders,BDNF
+DB00137,Eating Disorders,BDNF
+DB00171,Eating Disorders,BDNF
+DB00215,Anxiety Disorder,BDNF
+DB00234,Major Depressive Disorder,BDNF
+DB00289,Attention Deficit Hyperactivity Disorder,BDNF
+DB00295,Substance Use Disorders,BDNF
+DB00313,Bipolar Disorder,BDNF
+DB00321,Major Depressive Disorder,BDNF
+DB00334,Bipolar Disorder,BDNF
+DB00363,Schizophrenia,BDNF
+DB00458,Attention Deficit Hyperactivity Disorder,BDNF
+DB00472,Bipolar Disorder,BDNF
+DB00476,Anxiety Disorder,BDNF
+DB00540,Major Depressive Disorder,BDNF
+DB00633,Bipolar Disorder,BDNF
+DB00715,Anxiety Disorder,BDNF
+DB00780,Anxiety Disorder,BDNF
+DB01037,Alzheimer’s Disease,BDNF
+DB01043,Alzheimer’s Disease,BDNF
+DB01104,Anxiety Disorder,BDNF
+DB01151,Attention Deficit Hyperactivity Disorder,BDNF
+DB01175,Anxiety Disorder,BDNF
+DB01221,Major Depressive Disorder,BDNF
+DB01356,Bipolar Disorder,BDNF
+DB01708,Eating Disorders,BDNF
+DB05232,Substance Use Disorders,BDNF
+DB06594,Major Depressive Disorder,BDNF
+DB08815,Bipolar Disorder,BDNF
+DB00122,Eating Disorders,BHMT
+DB00122,Eating Disorders,CHKA
+DB00122,Eating Disorders,CHRNA7
+DB01043,Alzheimer’s Disease,CHRNA7
+DB01454,Anxiety Disorder,CHRNA7
+DB00122,Eating Disorders,GRIN2A
+DB01043,Alzheimer’s Disease,GRIN2A
+DB01221,Major Depressive Disorder,GRIN2A
+DB00122,Eating Disorders,CHKB
+DB00125,Eating Disorders,ILK
+DB00125,Eating Disorders,PCNA
+DB00166,Eating Disorders,PCNA
+DB01356,Bipolar Disorder,PCNA
+DB00125,Eating Disorders,NAGS
+DB00125,Eating Disorders,NOS3
+DB00155,Eating Disorders,NOS3
+DB00166,Eating Disorders,NOS3
+DB00171,Eating Disorders,NOS3
+DB00201,Major Depressive Disorder,NOS3
+DB00222,Substance Use Disorders,NOS3
+DB01110,Eating Disorders,NOS3
+DB01708,Eating Disorders,NOS3
+DB05232,Substance Use Disorders,NOS3
+DB08838,Anxiety Disorder,NOS3
+DB00125,Eating Disorders,SLC6A3
+DB00201,Major Depressive Disorder,SLC6A3
+DB00215,Anxiety Disorder,SLC6A3
+DB00285,Anxiety Disorder,SLC6A3
+DB00422,Attention Deficit Hyperactivity Disorder,SLC6A3
+DB00476,Anxiety Disorder,SLC6A3
+DB00726,Anxiety Disorder,SLC6A3
+DB01104,Anxiety Disorder,SLC6A3
+DB01149,Major Depressive Disorder,SLC6A3
+DB01156,Attention Deficit Hyperactivity Disorder,SLC6A3
+DB01175,Anxiety Disorder,SLC6A3
+DB01255,Attention Deficit Hyperactivity Disorder,SLC6A3
+DB01454,Anxiety Disorder,SLC6A3
+DB01463,Major Depressive Disorder,SLC6A3
+DB01577,Attention Deficit Hyperactivity Disorder,SLC6A3
+DB01593,Eating Disorders,SLC6A3
+DB06701,Attention Deficit Hyperactivity Disorder,SLC6A3
+DB00125,Eating Disorders,IL6
+DB00127,Eating Disorders,IL6
+DB00166,Eating Disorders,IL6
+DB00171,Eating Disorders,IL6
+DB00215,Anxiety Disorder,IL6
+DB00285,Anxiety Disorder,IL6
+DB00633,Bipolar Disorder,IL6
+DB00668,Eating Disorders,IL6
+DB00755,Eating Disorders,IL6
+DB00989,Alzheimer’s Disease,IL6
+DB01065,Anxiety Disorder,IL6
+DB01175,Anxiety Disorder,IL6
+DB01708,Eating Disorders,IL6
+DB00125,Eating Disorders,JUN
+DB00295,Substance Use Disorders,JUN
+DB00575,Attention Deficit Hyperactivity Disorder,JUN
+DB00755,Eating Disorders,JUN
+DB01065,Anxiety Disorder,JUN
+DB01356,Bipolar Disorder,JUN
+DB01454,Anxiety Disorder,JUN
+DB01577,Attention Deficit Hyperactivity Disorder,JUN
+DB01593,Eating Disorders,JUN
+DB00125,Eating Disorders,SST
+DB00215,Anxiety Disorder,SST
+DB00295,Substance Use Disorders,SST
+DB00564,Bipolar Disorder,SST
+DB01175,Anxiety Disorder,SST
+DB00125,Eating Disorders,AKT1
+DB00166,Eating Disorders,AKT1
+DB00171,Eating Disorders,AKT1
+DB00222,Substance Use Disorders,AKT1
+DB00295,Substance Use Disorders,AKT1
+DB00334,Bipolar Disorder,AKT1
+DB00363,Schizophrenia,AKT1
+DB00502,Attention Deficit Hyperactivity Disorder,AKT1
+DB00633,Bipolar Disorder,AKT1
+DB00755,Eating Disorders,AKT1
+DB01065,Anxiety Disorder,AKT1
+DB01104,Anxiety Disorder,AKT1
+DB01356,Bipolar Disorder,AKT1
+DB01593,Eating Disorders,AKT1
+DB01708,Eating Disorders,AKT1
+DB08838,Anxiety Disorder,AKT1
+DB00125,Eating Disorders,GPRC6A
+DB00129,Eating Disorders,GPRC6A
+DB00130,Eating Disorders,GPRC6A
+DB00155,Eating Disorders,GPRC6A
+DB00127,Eating Disorders,NOS2
+DB00704,Substance Use Disorders,NOS2
+DB01110,Eating Disorders,NOS2
+DB00127,Eating Disorders,ODC1
+DB00131,Eating Disorders,ODC1
+DB00174,Eating Disorders,ODC1
+DB00755,Eating Disorders,ODC1
+DB00127,Eating Disorders,PIP5K1A
+DB00127,Eating Disorders,MAPK8
+DB00171,Eating Disorders,MAPK8
+DB00755,Eating Disorders,MAPK8
+DB01065,Anxiety Disorder,MAPK8
+DB01075,Eating Disorders,MAPK8
+DB01156,Attention Deficit Hyperactivity Disorder,MAPK8
+DB00127,Eating Disorders,GJA5
+DB00127,Eating Disorders,CASR
+DB00127,Eating Disorders,IL1B
+DB00171,Eating Disorders,IL1B
+DB00408,Schizophrenia,IL1B
+DB00502,Attention Deficit Hyperactivity Disorder,IL1B
+DB00127,Eating Disorders,HMGN1
+DB00127,Eating Disorders,KCNJ2
+DB00127,Eating Disorders,KRT3
+DB00129,Eating Disorders,AASS
+DB00142,Schizophrenia,AASS
+DB00129,Eating Disorders,ARG1
+DB00129,Eating Disorders,AUH
+DB00129,Eating Disorders,PYCR1
+DB00755,Eating Disorders,PYCR1
+DB00130,Eating Disorders,ATXN2
+DB00130,Eating Disorders,AR
+DB00755,Eating Disorders,AR
+DB00130,Eating Disorders,CTPS1
+DB00130,Eating Disorders,IFT57
+DB00131,Eating Disorders,CREB1
+DB00201,Major Depressive Disorder,CREB1
+DB00458,Attention Deficit Hyperactivity Disorder,CREB1
+DB00472,Bipolar Disorder,CREB1
+DB00755,Eating Disorders,CREB1
+DB01593,Eating Disorders,CREB1
+DB00131,Eating Disorders,F3
+DB00143,Eating Disorders,F3
+DB00182,Attention Deficit Hyperactivity Disorder,F3
+DB01454,Anxiety Disorder,F3
+DB01576,Attention Deficit Hyperactivity Disorder,F3
+DB01592,Eating Disorders,F3
+DB00131,Eating Disorders,GFPT1
+DB00131,Eating Disorders,PRKAA1
+DB00171,Eating Disorders,PRKAA1
+DB00131,Eating Disorders,PRKAA2
+DB00171,Eating Disorders,PRKAA2
+DB00131,Eating Disorders,PRKAG1
+DB00171,Eating Disorders,PRKAG1
+DB00131,Eating Disorders,PRKAG2
+DB00171,Eating Disorders,PRKAG2
+DB00131,Eating Disorders,FBP1
+DB00131,Eating Disorders,PRKAB2
+DB00131,Eating Disorders,PRKAB1
+DB00171,Eating Disorders,PRKAB1
+DB00131,Eating Disorders,PPAT
+DB00131,Eating Disorders,PRKAG3
+DB00171,Eating Disorders,PRKAG3
+DB00131,Eating Disorders,PYGL
+DB00132,Eating Disorders,APOA2
+DB00132,Eating Disorders,CPT1A
+DB00132,Eating Disorders,TNFRSF21
+DB00132,Eating Disorders,CYP4A11
+DB00132,Eating Disorders,G0S2
+DB00132,Eating Disorders,FADS1
+DB00132,Eating Disorders,TIAM2
+DB00132,Eating Disorders,HMGCS2
+DB00132,Eating Disorders,SCARB1
+DB00755,Eating Disorders,SCARB1
+DB00132,Eating Disorders,TRIB3
+DB00132,Eating Disorders,ABCB4
+DB00132,Eating Disorders,APOA1
+DB00132,Eating Disorders,NPAS2
+DB00132,Eating Disorders,CD36
+DB00755,Eating Disorders,CD36
+DB00132,Eating Disorders,CTGF
+DB00755,Eating Disorders,CTGF
+DB00132,Eating Disorders,HMGCR
+DB00363,Schizophrenia,HMGCR
+DB00502,Attention Deficit Hyperactivity Disorder,HMGCR
+DB00132,Eating Disorders,CPT2
+DB00132,Eating Disorders,TXNRD1
+DB00132,Eating Disorders,ANGPTL4
+DB00132,Eating Disorders,NRF1
+DB00132,Eating Disorders,ACADM
+DB00132,Eating Disorders,FHL2
+DB00132,Eating Disorders,AGT
+DB00132,Eating Disorders,SULT2A1
+DB01075,Eating Disorders,SULT2A1
+DB00132,Eating Disorders,FABP1
+DB00132,Eating Disorders,SP1
+DB00755,Eating Disorders,SP1
+DB01593,Eating Disorders,SP1
+DB00132,Eating Disorders,CYP2C19
+DB00176,Major Depressive Disorder,CYP2C19
+DB00215,Anxiety Disorder,CYP2C19
+DB00313,Bipolar Disorder,CYP2C19
+DB00472,Bipolar Disorder,CYP2C19
+DB00477,Attention Deficit Hyperactivity Disorder,CYP2C19
+DB00679,Anxiety Disorder,CYP2C19
+DB01110,Eating Disorders,CYP2C19
+DB01151,Attention Deficit Hyperactivity Disorder,CYP2C19
+DB01171,Bipolar Disorder,CYP2C19
+DB01175,Anxiety Disorder,CYP2C19
+DB00132,Eating Disorders,ABCA1
+DB00155,Eating Disorders,ABCA1
+DB00755,Eating Disorders,ABCA1
+DB00132,Eating Disorders,SLC27A1
+DB00132,Eating Disorders,UGT1A9
+DB00313,Bipolar Disorder,UGT1A9
+DB00132,Eating Disorders,GLIPR1
+DB00132,Eating Disorders,ACSL1
+DB00132,Eating Disorders,FDFT1
+DB00132,Eating Disorders,APOA5
+DB00132,Eating Disorders,SREBF2
+DB00215,Anxiety Disorder,SREBF2
+DB00321,Major Depressive Disorder,SREBF2
+DB00334,Bipolar Disorder,SREBF2
+DB00363,Schizophrenia,SREBF2
+DB00458,Attention Deficit Hyperactivity Disorder,SREBF2
+DB00477,Attention Deficit Hyperactivity Disorder,SREBF2
+DB00502,Attention Deficit Hyperactivity Disorder,SREBF2
+DB01175,Anxiety Disorder,SREBF2
+DB01242,Autism Spectrum Disorder,SREBF2
+DB00132,Eating Disorders,NFYA
+DB00132,Eating Disorders,NFYC
+DB00132,Eating Disorders,FFAR4
+DB00132,Eating Disorders,CYP1A2
+DB00176,Major Depressive Disorder,CYP1A2
+DB00201,Major Depressive Disorder,CYP1A2
+DB00564,Bipolar Disorder,CYP1A2
+DB00755,Eating Disorders,CYP1A2
+DB01065,Anxiety Disorder,CYP1A2
+DB01454,Anxiety Disorder,CYP1A2
+DB00132,Eating Disorders,ANKRD1
+DB00132,Eating Disorders,CYP3A4
+DB00199,Eating Disorders,CYP3A4
+DB00201,Major Depressive Disorder,CYP3A4
+DB00313,Bipolar Disorder,CYP3A4
+DB00477,Attention Deficit Hyperactivity Disorder,CYP3A4
+DB00564,Bipolar Disorder,CYP3A4
+DB00679,Anxiety Disorder,CYP3A4
+DB00755,Eating Disorders,CYP3A4
+DB00780,Anxiety Disorder,CYP3A4
+DB00921,Substance Use Disorders,CYP3A4
+DB01110,Eating Disorders,CYP3A4
+DB01149,Major Depressive Disorder,CYP3A4
+DB01151,Attention Deficit Hyperactivity Disorder,CYP3A4
+DB01454,Anxiety Disorder,CYP3A4
+DB01708,Eating Disorders,CYP3A4
+DB00132,Eating Disorders,PEX11A
+DB00132,Eating Disorders,PPARGC1B
+DB00132,Eating Disorders,CYP2C9
+DB00176,Major Depressive Disorder,CYP2C9
+DB00477,Attention Deficit Hyperactivity Disorder,CYP2C9
+DB00564,Bipolar Disorder,CYP2C9
+DB00679,Anxiety Disorder,CYP2C9
+DB00755,Eating Disorders,CYP2C9
+DB01110,Eating Disorders,CYP2C9
+DB01151,Attention Deficit Hyperactivity Disorder,CYP2C9
+DB00132,Eating Disorders,HMGCS1
+DB00132,Eating Disorders,NFYB
+DB00132,Eating Disorders,CYP1A1
+DB00176,Major Depressive Disorder,CYP1A1
+DB00201,Major Depressive Disorder,CYP1A1
+DB00564,Bipolar Disorder,CYP1A1
+DB01065,Anxiety Disorder,CYP1A1
+DB01708,Eating Disorders,CYP1A1
+DB00132,Eating Disorders,ALAS1
+DB00132,Eating Disorders,RGL1
+DB00132,Eating Disorders,PPARA
+DB00137,Eating Disorders,PPARA
+DB01065,Anxiety Disorder,PPARA
+DB01708,Eating Disorders,PPARA
+DB05289,Alzheimer’s Disease,PPARA
+DB00132,Eating Disorders,GRHL1
+DB00132,Eating Disorders,GCLC
+DB00143,Eating Disorders,GCLC
+DB00132,Eating Disorders,ME1
+DB00132,Eating Disorders,PPARG
+DB00755,Eating Disorders,PPARG
+DB01050,Alzheimer’s Disease,PPARG
+DB00132,Eating Disorders,CYP7A1
+DB00755,Eating Disorders,CYP7A1
+DB01050,Alzheimer’s Disease,CYP7A1
+DB00132,Eating Disorders,PLIN2
+DB00132,Eating Disorders,CRP
+DB00132,Eating Disorders,APOB
+DB00755,Eating Disorders,APOB
+DB00137,Eating Disorders,UCP1
+DB00171,Eating Disorders,UCP1
+DB00755,Eating Disorders,UCP1
+DB00137,Eating Disorders,MMP1
+DB00654,Substance Use Disorders,MMP1
+DB01708,Eating Disorders,MMP1
+DB00137,Eating Disorders,SYP
+DB00831,Anxiety Disorder,SYP
+DB00137,Eating Disorders,TRPA1
+DB00139,Eating Disorders,SUCNR1
+DB00139,Eating Disorders,CALM2
+DB00295,Substance Use Disorders,CALM2
+DB00363,Schizophrenia,CALM2
+DB00502,Attention Deficit Hyperactivity Disorder,CALM2
+DB00734,Alzheimer’s Disease,CALM2
+DB00829,Anxiety Disorder,CALM2
+DB00831,Anxiety Disorder,CALM2
+DB01100,OCD & Tourette Syndrome,CALM2
+DB00139,Eating Disorders,ALDH5A1
+DB00313,Bipolar Disorder,ALDH5A1
+DB01593,Eating Disorders,ALDH5A1
+DB00139,Eating Disorders,GDF15
+DB00139,Eating Disorders,CALM1
+DB00295,Substance Use Disorders,CALM1
+DB00363,Schizophrenia,CALM1
+DB00502,Attention Deficit Hyperactivity Disorder,CALM1
+DB00734,Alzheimer’s Disease,CALM1
+DB00829,Anxiety Disorder,CALM1
+DB00831,Anxiety Disorder,CALM1
+DB01100,OCD & Tourette Syndrome,CALM1
+DB00139,Eating Disorders,TGFB1
+DB00755,Eating Disorders,TGFB1
+DB01050,Alzheimer’s Disease,TGFB1
+DB01592,Eating Disorders,TGFB1
+DB00139,Eating Disorders,YME1L1
+DB00139,Eating Disorders,MT-CYB
+DB00142,Schizophrenia,CASP3
+DB00171,Eating Disorders,CASP3
+DB00176,Major Depressive Disorder,CASP3
+DB00201,Major Depressive Disorder,CASP3
+DB00215,Anxiety Disorder,CASP3
+DB00295,Substance Use Disorders,CASP3
+DB00313,Bipolar Disorder,CASP3
+DB00363,Schizophrenia,CASP3
+DB00458,Attention Deficit Hyperactivity Disorder,CASP3
+DB00472,Bipolar Disorder,CASP3
+DB00540,Major Depressive Disorder,CASP3
+DB00575,Attention Deficit Hyperactivity Disorder,CASP3
+DB00633,Bipolar Disorder,CASP3
+DB00668,Eating Disorders,CASP3
+DB00679,Anxiety Disorder,CASP3
+DB00715,Anxiety Disorder,CASP3
+DB00734,Alzheimer’s Disease,CASP3
+DB00755,Eating Disorders,CASP3
+DB00811,Eating Disorders,CASP3
+DB00843,Alzheimer’s Disease,CASP3
+DB01065,Anxiety Disorder,CASP3
+DB01104,Anxiety Disorder,CASP3
+DB01149,Major Depressive Disorder,CASP3
+DB01151,Attention Deficit Hyperactivity Disorder,CASP3
+DB01156,Attention Deficit Hyperactivity Disorder,CASP3
+DB01175,Anxiety Disorder,CASP3
+DB01221,Major Depressive Disorder,CASP3
+DB01242,Autism Spectrum Disorder,CASP3
+DB01593,Eating Disorders,CASP3
+DB00142,Schizophrenia,GRM3
+DB00142,Schizophrenia,GRM5
+DB00182,Attention Deficit Hyperactivity Disorder,GRM5
+DB00295,Substance Use Disorders,GRM5
+DB00659,Substance Use Disorders,GRM5
+DB01576,Attention Deficit Hyperactivity Disorder,GRM5
+DB00142,Schizophrenia,GRM8
+DB00142,Schizophrenia,GRM7
+DB00142,Schizophrenia,AVP
+DB00295,Substance Use Disorders,AVP
+DB01183,Major Depressive Disorder,AVP
+DB08838,Anxiety Disorder,AVP
+DB00142,Schizophrenia,LPL
+DB00142,Schizophrenia,SLC1A3
+DB00321,Major Depressive Disorder,SLC1A3
+DB00142,Schizophrenia,GRM6
+DB00142,Schizophrenia,IL10
+DB00166,Eating Disorders,IL10
+DB00755,Eating Disorders,IL10
+DB00811,Eating Disorders,IL10
+DB01065,Anxiety Disorder,IL10
+DB01183,Major Depressive Disorder,IL10
+DB01454,Anxiety Disorder,IL10
+DB00142,Schizophrenia,RHOA
+DB00142,Schizophrenia,GRM2
+DB00143,Eating Disorders,SOD1
+DB00668,Eating Disorders,SOD1
+DB01577,Attention Deficit Hyperactivity Disorder,SOD1
+DB00143,Eating Disorders,GAPDH
+DB00171,Eating Disorders,GAPDH
+DB00458,Attention Deficit Hyperactivity Disorder,GAPDH
+DB00143,Eating Disorders,GCLM
+DB00143,Eating Disorders,DBH
+DB00143,Eating Disorders,ESD
+DB00148,Eating Disorders,GATM
+DB00148,Eating Disorders,SLC2A4
+DB00201,Major Depressive Disorder,SLC2A4
+DB01708,Eating Disorders,SLC2A4
+DB00148,Eating Disorders,IGF1
+DB00201,Major Depressive Disorder,IGF1
+DB00843,Alzheimer’s Disease,IGF1
+DB01593,Eating Disorders,IGF1
+DB01708,Eating Disorders,IGF1
+DB00150,Major Depressive Disorder,WARS2
+DB00150,Major Depressive Disorder,TPH1
+DB00715,Anxiety Disorder,TPH1
+DB01454,Anxiety Disorder,TPH1
+DB01592,Eating Disorders,TPH1
+DB00150,Major Depressive Disorder,CHRM1
+DB00215,Anxiety Disorder,CHRM1
+DB00246,Bipolar Disorder,CHRM1
+DB00321,Major Depressive Disorder,CHRM1
+DB00334,Bipolar Disorder,CHRM1
+DB00363,Schizophrenia,CHRM1
+DB00408,Schizophrenia,CHRM1
+DB00458,Attention Deficit Hyperactivity Disorder,CHRM1
+DB00472,Bipolar Disorder,CHRM1
+DB00477,Attention Deficit Hyperactivity Disorder,CHRM1
+DB00540,Major Depressive Disorder,CHRM1
+DB00543,Anxiety Disorder,CHRM1
+DB00679,Anxiety Disorder,CHRM1
+DB00715,Anxiety Disorder,CHRM1
+DB00777,Eating Disorders,CHRM1
+DB00805,Major Depressive Disorder,CHRM1
+DB00875,Anxiety Disorder,CHRM1
+DB00933,Schizophrenia,CHRM1
+DB00934,Bipolar Disorder,CHRM1
+DB01075,Eating Disorders,CHRM1
+DB01104,Anxiety Disorder,CHRM1
+DB01142,Anxiety Disorder,CHRM1
+DB01151,Attention Deficit Hyperactivity Disorder,CHRM1
+DB01175,Anxiety Disorder,CHRM1
+DB01224,Anxiety Disorder,CHRM1
+DB01238,Autism Spectrum Disorder,CHRM1
+DB01239,Bipolar Disorder,CHRM1
+DB01403,Bipolar Disorder,CHRM1
+DB00150,Major Depressive Disorder,CCBL1
+DB00150,Major Depressive Disorder,CHRM4
+DB00246,Bipolar Disorder,CHRM4
+DB00321,Major Depressive Disorder,CHRM4
+DB00334,Bipolar Disorder,CHRM4
+DB00363,Schizophrenia,CHRM4
+DB00408,Schizophrenia,CHRM4
+DB00458,Attention Deficit Hyperactivity Disorder,CHRM4
+DB00477,Attention Deficit Hyperactivity Disorder,CHRM4
+DB00540,Major Depressive Disorder,CHRM4
+DB00679,Anxiety Disorder,CHRM4
+DB00715,Anxiety Disorder,CHRM4
+DB00777,Eating Disorders,CHRM4
+DB00933,Schizophrenia,CHRM4
+DB00934,Bipolar Disorder,CHRM4
+DB01075,Eating Disorders,CHRM4
+DB01142,Anxiety Disorder,CHRM4
+DB01151,Attention Deficit Hyperactivity Disorder,CHRM4
+DB01224,Anxiety Disorder,CHRM4
+DB01238,Autism Spectrum Disorder,CHRM4
+DB01239,Bipolar Disorder,CHRM4
+DB01403,Bipolar Disorder,CHRM4
+DB00150,Major Depressive Disorder,WARS
+DB00154,Eating Disorders,PTGS1
+DB00755,Eating Disorders,PTGS1
+DB01050,Alzheimer’s Disease,PTGS1
+DB05289,Alzheimer’s Disease,PTGS1
+DB00155,Eating Disorders,ARG2
+DB00166,Eating Disorders,GPX3
+DB00668,Eating Disorders,GPX3
+DB01593,Eating Disorders,GPX3
+DB00166,Eating Disorders,NQO1
+DB05289,Alzheimer’s Disease,NQO1
+DB00166,Eating Disorders,GPX4
+DB00668,Eating Disorders,GPX4
+DB00166,Eating Disorders,POR
+DB00166,Eating Disorders,GPX6
+DB00668,Eating Disorders,GPX6
+DB00166,Eating Disorders,GPX2
+DB00668,Eating Disorders,GPX2
+DB00755,Eating Disorders,GPX2
+DB00166,Eating Disorders,CASP9
+DB00295,Substance Use Disorders,CASP9
+DB00313,Bipolar Disorder,CASP9
+DB00633,Bipolar Disorder,CASP9
+DB00755,Eating Disorders,CASP9
+DB00843,Alzheimer’s Disease,CASP9
+DB01065,Anxiety Disorder,CASP9
+DB01104,Anxiety Disorder,CASP9
+DB01156,Attention Deficit Hyperactivity Disorder,CASP9
+DB01221,Major Depressive Disorder,CASP9
+DB00166,Eating Disorders,ICAM1
+DB00313,Bipolar Disorder,ICAM1
+DB00755,Eating Disorders,ICAM1
+DB00166,Eating Disorders,GPX1
+DB00668,Eating Disorders,GPX1
+DB00166,Eating Disorders,SIRT1
+DB01065,Anxiety Disorder,SIRT1
+DB00171,Eating Disorders,RYR2
+DB00201,Major Depressive Disorder,RYR2
+DB00171,Eating Disorders,RPS7
+DB00171,Eating Disorders,PANX1
+DB00171,Eating Disorders,RPS16
+DB00171,Eating Disorders,EIF3C
+DB00171,Eating Disorders,PLD3
+DB00171,Eating Disorders,EIF3A
+DB00171,Eating Disorders,RPS13
+DB00171,Eating Disorders,IL33
+DB00171,Eating Disorders,RPS4X
+DB00171,Eating Disorders,RPS28
+DB00171,Eating Disorders,RPS24
+DB00171,Eating Disorders,KCNJ11
+DB00222,Substance Use Disorders,KCNJ11
+DB00171,Eating Disorders,RPS5
+DB00171,Eating Disorders,EIF3D
+DB00171,Eating Disorders,MMP2
+DB00201,Major Depressive Disorder,MMP2
+DB00668,Eating Disorders,MMP2
+DB00755,Eating Disorders,MMP2
+DB08838,Anxiety Disorder,MMP2
+DB00171,Eating Disorders,EIF4E
+DB00171,Eating Disorders,EIF3I
+DB00171,Eating Disorders,ANO6
+DB00171,Eating Disorders,P2RY2
+DB00171,Eating Disorders,NT5C2
+DB00811,Eating Disorders,NT5C2
+DB00171,Eating Disorders,EIF4G1
+DB00171,Eating Disorders,TRPV3
+DB00171,Eating Disorders,ABCB1
+DB00295,Substance Use Disorders,ABCB1
+DB00313,Bipolar Disorder,ABCB1
+DB00333,Substance Use Disorders,ABCB1
+DB00334,Bipolar Disorder,ABCB1
+DB00363,Schizophrenia,ABCB1
+DB00477,Attention Deficit Hyperactivity Disorder,ABCB1
+DB00502,Attention Deficit Hyperactivity Disorder,ABCB1
+DB00555,Bipolar Disorder,ABCB1
+DB00564,Bipolar Disorder,ABCB1
+DB00734,Alzheimer’s Disease,ABCB1
+DB00831,Anxiety Disorder,ABCB1
+DB01104,Anxiety Disorder,ABCB1
+DB01224,Anxiety Disorder,ABCB1
+DB01242,Autism Spectrum Disorder,ABCB1
+DB01267,Schizophrenia,ABCB1
+DB01454,Anxiety Disorder,ABCB1
+DB00171,Eating Disorders,RPS20
+DB00171,Eating Disorders,TRPV6
+DB00171,Eating Disorders,EIF3J
+DB00171,Eating Disorders,EIF4A1
+DB01356,Bipolar Disorder,EIF4A1
+DB00171,Eating Disorders,EIF4A2
+DB01356,Bipolar Disorder,EIF4A2
+DB00171,Eating Disorders,P2RX1
+DB00171,Eating Disorders,P2RY4
+DB00171,Eating Disorders,TGM5
+DB00171,Eating Disorders,IL2
+DB00295,Substance Use Disorders,IL2
+DB00490,Anxiety Disorder,IL2
+DB00564,Bipolar Disorder,IL2
+DB00755,Eating Disorders,IL2
+DB00811,Eating Disorders,IL2
+DB01037,Alzheimer’s Disease,IL2
+DB01065,Anxiety Disorder,IL2
+DB01708,Eating Disorders,IL2
+DB00171,Eating Disorders,RPS4Y1
+DB00171,Eating Disorders,RPS25
+DB00171,Eating Disorders,HSPD1
+DB00171,Eating Disorders,SNCA
+DB00201,Major Depressive Disorder,SNCA
+DB00171,Eating Disorders,FGFR1
+DB00171,Eating Disorders,RPS11
+DB00171,Eating Disorders,EIF1AX
+DB00171,Eating Disorders,RYR3
+DB00201,Major Depressive Disorder,RYR3
+DB00171,Eating Disorders,CASP1
+DB00171,Eating Disorders,EGFR
+DB00755,Eating Disorders,EGFR
+DB01592,Eating Disorders,EGFR
+DB01593,Eating Disorders,EGFR
+DB00171,Eating Disorders,SRF
+DB00171,Eating Disorders,MAPK3
+DB00182,Attention Deficit Hyperactivity Disorder,MAPK3
+DB00295,Substance Use Disorders,MAPK3
+DB00755,Eating Disorders,MAPK3
+DB01151,Attention Deficit Hyperactivity Disorder,MAPK3
+DB01356,Bipolar Disorder,MAPK3
+DB01576,Attention Deficit Hyperactivity Disorder,MAPK3
+DB05289,Alzheimer’s Disease,MAPK3
+DB00171,Eating Disorders,RPS8
+DB00171,Eating Disorders,TXN
+DB00668,Eating Disorders,TXN
+DB00171,Eating Disorders,NCAM1
+DB00171,Eating Disorders,RPS10
+DB00171,Eating Disorders,EIF2S2
+DB00171,Eating Disorders,ABL1
+DB00171,Eating Disorders,SLC8A1
+DB00171,Eating Disorders,RPS29
+DB00171,Eating Disorders,EIF3F
+DB00171,Eating Disorders,RPS15
+DB00171,Eating Disorders,CCND1
+DB00201,Major Depressive Disorder,CCND1
+DB00755,Eating Disorders,CCND1
+DB00171,Eating Disorders,ABL2
+DB00171,Eating Disorders,EIF2S1
+DB00171,Eating Disorders,GMPS
+DB00171,Eating Disorders,RPS26
+DB00171,Eating Disorders,PLD1
+DB00171,Eating Disorders,PPAN-P2RY11
+DB00171,Eating Disorders,RPS15A
+DB00171,Eating Disorders,SUMO1
+DB00171,Eating Disorders,HMGB1
+DB01221,Major Depressive Disorder,HMGB1
+DB00171,Eating Disorders,MAPT
+DB00171,Eating Disorders,RPS6
+DB00171,Eating Disorders,CD38
+DB00755,Eating Disorders,CD38
+DB00811,Eating Disorders,CD38
+DB00171,Eating Disorders,GLRX
+DB00171,Eating Disorders,CDH2
+DB00171,Eating Disorders,EIF3H
+DB00171,Eating Disorders,GCH1
+DB00171,Eating Disorders,ELANE
+DB00171,Eating Disorders,PRKCG
+DB00295,Substance Use Disorders,PRKCG
+DB05232,Substance Use Disorders,PRKCG
+DB00171,Eating Disorders,RPS27
+DB00171,Eating Disorders,KCNT2
+DB00171,Eating Disorders,CCL2
+DB00633,Bipolar Disorder,CCL2
+DB00755,Eating Disorders,CCL2
+DB00843,Alzheimer’s Disease,CCL2
+DB01050,Alzheimer’s Disease,CCL2
+DB00171,Eating Disorders,EFS
+DB00363,Schizophrenia,EFS
+DB00171,Eating Disorders,KCNJ15
+DB00171,Eating Disorders,WRN
+DB00171,Eating Disorders,RPS14
+DB00171,Eating Disorders,PADI2
+DB00171,Eating Disorders,ANO1
+DB00171,Eating Disorders,MLH1
+DB00171,Eating Disorders,IL18
+DB00171,Eating Disorders,P2RX7
+DB00668,Eating Disorders,P2RX7
+DB00171,Eating Disorders,RPS21
+DB00171,Eating Disorders,EIF3E
+DB00171,Eating Disorders,P2RY12
+DB00171,Eating Disorders,NPY
+DB00363,Schizophrenia,NPY
+DB00472,Bipolar Disorder,NPY
+DB00502,Attention Deficit Hyperactivity Disorder,NPY
+DB00575,Attention Deficit Hyperactivity Disorder,NPY
+DB01183,Major Depressive Disorder,NPY
+DB05232,Substance Use Disorders,NPY
+DB08838,Anxiety Disorder,NPY
+DB00171,Eating Disorders,IMPDH1
+DB00811,Eating Disorders,IMPDH1
+DB00171,Eating Disorders,EIF3K
+DB00171,Eating Disorders,DARS2
+DB00171,Eating Disorders,DNA2
+DB00171,Eating Disorders,EIF2S3
+DB00171,Eating Disorders,NFATC3
+DB00171,Eating Disorders,RPS3A
+DB00171,Eating Disorders,GUCY2D
+DB00171,Eating Disorders,SLC2A1
+DB01708,Eating Disorders,SLC2A1
+DB00171,Eating Disorders,HBEGF
+DB00755,Eating Disorders,HBEGF
+DB00171,Eating Disorders,WDTC1
+DB00295,Substance Use Disorders,WDTC1
+DB00755,Eating Disorders,WDTC1
+DB01065,Anxiety Disorder,WDTC1
+DB00171,Eating Disorders,DECR1
+DB00171,Eating Disorders,PLAU
+DB00295,Substance Use Disorders,PLAU
+DB00755,Eating Disorders,PLAU
+DB00171,Eating Disorders,CFTR
+DB01050,Alzheimer’s Disease,CFTR
+DB00171,Eating Disorders,SPP1
+DB00171,Eating Disorders,AMPD2
+DB00171,Eating Disorders,RPS12
+DB00171,Eating Disorders,RPS23
+DB00171,Eating Disorders,RPS3
+DB00171,Eating Disorders,EIF3B
+DB00171,Eating Disorders,EIF3G
+DB00171,Eating Disorders,SOX9
+DB00755,Eating Disorders,SOX9
+DB00171,Eating Disorders,ENPP7
+DB01593,Eating Disorders,ENPP7
+DB00171,Eating Disorders,RPS2
+DB00171,Eating Disorders,IL8
+DB00295,Substance Use Disorders,IL8
+DB00472,Bipolar Disorder,IL8
+DB00668,Eating Disorders,IL8
+DB00755,Eating Disorders,IL8
+DB00811,Eating Disorders,IL8
+DB01065,Anxiety Disorder,IL8
+DB00171,Eating Disorders,FAU
+DB00171,Eating Disorders,EIF4B
+DB00171,Eating Disorders,TRPM7
+DB00171,Eating Disorders,GPLD1
+DB00171,Eating Disorders,PARP1
+DB01454,Anxiety Disorder,PARP1
+DB00171,Eating Disorders,NLRP3
+DB00171,Eating Disorders,P2RX4
+DB00321,Major Depressive Disorder,P2RX4
+DB00171,Eating Disorders,RPS19
+DB00171,Eating Disorders,MAPK1
+DB00295,Substance Use Disorders,MAPK1
+DB00755,Eating Disorders,MAPK1
+DB01151,Attention Deficit Hyperactivity Disorder,MAPK1
+DB01356,Bipolar Disorder,MAPK1
+DB05289,Alzheimer’s Disease,MAPK1
+DB00171,Eating Disorders,LIPE
+DB00668,Eating Disorders,LIPE
+DB00171,Eating Disorders,P2RY1
+DB00173,Eating Disorders,P2RY1
+DB00755,Eating Disorders,P2RY1
+DB00171,Eating Disorders,TF
+DB00477,Attention Deficit Hyperactivity Disorder,TF
+DB00171,Eating Disorders,VWF
+DB00668,Eating Disorders,VWF
+DB00171,Eating Disorders,MYLK3
+DB00171,Eating Disorders,RAC2
+DB00171,Eating Disorders,FOS
+DB00176,Major Depressive Disorder,FOS
+DB00182,Attention Deficit Hyperactivity Disorder,FOS
+DB00201,Major Depressive Disorder,FOS
+DB00295,Substance Use Disorders,FOS
+DB00334,Bipolar Disorder,FOS
+DB00363,Schizophrenia,FOS
+DB00391,Schizophrenia,FOS
+DB00422,Attention Deficit Hyperactivity Disorder,FOS
+DB00502,Attention Deficit Hyperactivity Disorder,FOS
+DB00555,Bipolar Disorder,FOS
+DB00575,Attention Deficit Hyperactivity Disorder,FOS
+DB00659,Substance Use Disorders,FOS
+DB00668,Eating Disorders,FOS
+DB00704,Substance Use Disorders,FOS
+DB00755,Eating Disorders,FOS
+DB00829,Anxiety Disorder,FOS
+DB01183,Major Depressive Disorder,FOS
+DB01221,Major Depressive Disorder,FOS
+DB01238,Autism Spectrum Disorder,FOS
+DB01356,Bipolar Disorder,FOS
+DB01454,Anxiety Disorder,FOS
+DB01576,Attention Deficit Hyperactivity Disorder,FOS
+DB01577,Attention Deficit Hyperactivity Disorder,FOS
+DB04896,Major Depressive Disorder,FOS
+DB06701,Attention Deficit Hyperactivity Disorder,FOS
+DB08918,Major Depressive Disorder,FOS
+DB00171,Eating Disorders,GLUD1
+DB00171,Eating Disorders,ABCC8
+DB00222,Substance Use Disorders,ABCC8
+DB00171,Eating Disorders,MBP
+DB00171,Eating Disorders,CLCN1
+DB00171,Eating Disorders,RPS27A
+DB00171,Eating Disorders,ENTPD1
+DB00171,Eating Disorders,PLD2
+DB00333,Substance Use Disorders,PLD2
+DB00171,Eating Disorders,HSPA4
+DB00734,Alzheimer’s Disease,HSPA4
+DB01043,Alzheimer’s Disease,HSPA4
+DB01221,Major Depressive Disorder,HSPA4
+DB01356,Bipolar Disorder,HSPA4
+DB08842,Bipolar Disorder,HSPA4
+DB00171,Eating Disorders,MUC5AC
+DB00199,Eating Disorders,MUC5AC
+DB01065,Anxiety Disorder,MUC5AC
+DB00171,Eating Disorders,SMPD2
+DB00171,Eating Disorders,CD44
+DB00171,Eating Disorders,GOLPH3
+DB00171,Eating Disorders,P2RX2
+DB00171,Eating Disorders,KRAS
+DB00171,Eating Disorders,TP53
+DB00201,Major Depressive Disorder,TP53
+DB00295,Substance Use Disorders,TP53
+DB00321,Major Depressive Disorder,TP53
+DB00382,Alzheimer’s Disease,TP53
+DB00472,Bipolar Disorder,TP53
+DB00679,Anxiety Disorder,TP53
+DB00755,Eating Disorders,TP53
+DB00811,Eating Disorders,TP53
+DB01065,Anxiety Disorder,TP53
+DB01356,Bipolar Disorder,TP53
+DB05289,Alzheimer’s Disease,TP53
+DB00171,Eating Disorders,PFKM
+DB00171,Eating Disorders,PYGM
+DB00171,Eating Disorders,RYR1
+DB00201,Major Depressive Disorder,RYR1
+DB00171,Eating Disorders,RPSA
+DB00755,Eating Disorders,RPSA
+DB00171,Eating Disorders,KIF5B
+DB00171,Eating Disorders,DDX4
+DB01151,Attention Deficit Hyperactivity Disorder,DDX4
+DB00171,Eating Disorders,PTEN
+DB00755,Eating Disorders,PTEN
+DB00171,Eating Disorders,MMP13
+DB00171,Eating Disorders,ATM
+DB00201,Major Depressive Disorder,ATM
+DB00755,Eating Disorders,ATM
+DB01592,Eating Disorders,ATM
+DB00171,Eating Disorders,IDE
+DB00755,Eating Disorders,IDE
+DB00171,Eating Disorders,PLD6
+DB00171,Eating Disorders,PRKCA
+DB05232,Substance Use Disorders,PRKCA
+DB00171,Eating Disorders,TNFSF11
+DB00171,Eating Disorders,PRKDC
+DB00171,Eating Disorders,THOP1
+DB00171,Eating Disorders,TUBB4B
+DB00173,Eating Disorders,PTGS2
+DB00295,Substance Use Disorders,PTGS2
+DB00755,Eating Disorders,PTGS2
+DB01050,Alzheimer’s Disease,PTGS2
+DB01065,Anxiety Disorder,PTGS2
+DB01356,Bipolar Disorder,PTGS2
+DB05289,Alzheimer’s Disease,PTGS2
+DB00173,Eating Disorders,XPNPEP1
+DB00173,Eating Disorders,KNTC1
+DB00173,Eating Disorders,HPRT1
+DB00176,Major Depressive Disorder,SCN5A
+DB00472,Bipolar Disorder,SCN5A
+DB00564,Bipolar Disorder,SCN5A
+DB05232,Substance Use Disorders,SCN5A
+DB00176,Major Depressive Disorder,KCNH2
+DB00199,Eating Disorders,KCNH2
+DB00215,Anxiety Disorder,KCNH2
+DB00285,Anxiety Disorder,KCNH2
+DB00289,Attention Deficit Hyperactivity Disorder,KCNH2
+DB00333,Substance Use Disorders,KCNH2
+DB00334,Bipolar Disorder,KCNH2
+DB00382,Alzheimer’s Disease,KCNH2
+DB00458,Attention Deficit Hyperactivity Disorder,KCNH2
+DB00472,Bipolar Disorder,KCNH2
+DB00477,Attention Deficit Hyperactivity Disorder,KCNH2
+DB00502,Attention Deficit Hyperactivity Disorder,KCNH2
+DB00555,Bipolar Disorder,KCNH2
+DB00557,Anxiety Disorder,KCNH2
+DB00656,Alzheimer’s Disease,KCNH2
+DB00679,Anxiety Disorder,KCNH2
+DB00933,Schizophrenia,KCNH2
+DB00934,Bipolar Disorder,KCNH2
+DB01100,OCD & Tourette Syndrome,KCNH2
+DB01110,Eating Disorders,KCNH2
+DB01149,Major Depressive Disorder,KCNH2
+DB01151,Attention Deficit Hyperactivity Disorder,KCNH2
+DB01162,Eating Disorders,KCNH2
+DB01175,Anxiety Disorder,KCNH2
+DB01267,Schizophrenia,KCNH2
+DB04842,Schizophrenia,KCNH2
+DB06144,Schizophrenia,KCNH2
+DB00176,Major Depressive Disorder,KCNA5
+DB00199,Eating Disorders,KCNA5
+DB00215,Anxiety Disorder,KCNA5
+DB01175,Anxiety Disorder,KCNA5
+DB00176,Major Depressive Disorder,CASP7
+DB00363,Schizophrenia,CASP7
+DB00458,Attention Deficit Hyperactivity Disorder,CASP7
+DB00472,Bipolar Disorder,CASP7
+DB00540,Major Depressive Disorder,CASP7
+DB00633,Bipolar Disorder,CASP7
+DB00734,Alzheimer’s Disease,CASP7
+DB00755,Eating Disorders,CASP7
+DB01104,Anxiety Disorder,CASP7
+DB01149,Major Depressive Disorder,CASP7
+DB01242,Autism Spectrum Disorder,CASP7
+DB00176,Major Depressive Disorder,SLC6A4
+DB00182,Attention Deficit Hyperactivity Disorder,SLC6A4
+DB00215,Anxiety Disorder,SLC6A4
+DB00285,Anxiety Disorder,SLC6A4
+DB00321,Major Depressive Disorder,SLC6A4
+DB00344,Major Depressive Disorder,SLC6A4
+DB00422,Attention Deficit Hyperactivity Disorder,SLC6A4
+DB00458,Attention Deficit Hyperactivity Disorder,SLC6A4
+DB00472,Bipolar Disorder,SLC6A4
+DB00476,Anxiety Disorder,SLC6A4
+DB00540,Major Depressive Disorder,SLC6A4
+DB00543,Anxiety Disorder,SLC6A4
+DB00656,Alzheimer’s Disease,SLC6A4
+DB00715,Anxiety Disorder,SLC6A4
+DB00726,Anxiety Disorder,SLC6A4
+DB00805,Major Depressive Disorder,SLC6A4
+DB01065,Anxiety Disorder,SLC6A4
+DB01104,Anxiety Disorder,SLC6A4
+DB01142,Anxiety Disorder,SLC6A4
+DB01149,Major Depressive Disorder,SLC6A4
+DB01151,Attention Deficit Hyperactivity Disorder,SLC6A4
+DB01175,Anxiety Disorder,SLC6A4
+DB01221,Major Depressive Disorder,SLC6A4
+DB01242,Autism Spectrum Disorder,SLC6A4
+DB01454,Anxiety Disorder,SLC6A4
+DB01576,Attention Deficit Hyperactivity Disorder,SLC6A4
+DB04896,Major Depressive Disorder,SLC6A4
+DB06148,Major Depressive Disorder,SLC6A4
+DB06204,Substance Use Disorders,SLC6A4
+DB06684,Major Depressive Disorder,SLC6A4
+DB06700,Major Depressive Disorder,SLC6A4
+DB06701,Attention Deficit Hyperactivity Disorder,SLC6A4
+DB08918,Major Depressive Disorder,SLC6A4
+DB00176,Major Depressive Disorder,ABCB11
+DB00199,Eating Disorders,ABCB11
+DB00222,Substance Use Disorders,ABCB11
+DB00334,Bipolar Disorder,ABCB11
+DB00363,Schizophrenia,ABCB11
+DB00654,Substance Use Disorders,ABCB11
+DB01149,Major Depressive Disorder,ABCB11
+DB04946,Schizophrenia,ABCB11
+DB00176,Major Depressive Disorder,LEP
+DB00313,Bipolar Disorder,LEP
+DB00363,Schizophrenia,LEP
+DB01065,Anxiety Disorder,LEP
+DB01593,Eating Disorders,LEP
+DB01708,Eating Disorders,LEP
+DB05289,Alzheimer’s Disease,LEP
+DB00182,Attention Deficit Hyperactivity Disorder,GJA1
+DB00755,Eating Disorders,GJA1
+DB01065,Anxiety Disorder,GJA1
+DB01576,Attention Deficit Hyperactivity Disorder,GJA1
+DB00182,Attention Deficit Hyperactivity Disorder,TLR3
+DB00755,Eating Disorders,TLR3
+DB01576,Attention Deficit Hyperactivity Disorder,TLR3
+DB00182,Attention Deficit Hyperactivity Disorder,ADRA1A
+DB00215,Anxiety Disorder,ADRA1A
+DB00246,Bipolar Disorder,ADRA1A
+DB00321,Major Depressive Disorder,ADRA1A
+DB00334,Bipolar Disorder,ADRA1A
+DB00363,Schizophrenia,ADRA1A
+DB00408,Schizophrenia,ADRA1A
+DB00458,Attention Deficit Hyperactivity Disorder,ADRA1A
+DB00477,Attention Deficit Hyperactivity Disorder,ADRA1A
+DB00502,Attention Deficit Hyperactivity Disorder,ADRA1A
+DB00540,Major Depressive Disorder,ADRA1A
+DB00543,Anxiety Disorder,ADRA1A
+DB00575,Attention Deficit Hyperactivity Disorder,ADRA1A
+DB00656,Alzheimer’s Disease,ADRA1A
+DB00668,Eating Disorders,ADRA1A
+DB00679,Anxiety Disorder,ADRA1A
+DB00726,Anxiety Disorder,ADRA1A
+DB00734,Alzheimer’s Disease,ADRA1A
+DB00777,Eating Disorders,ADRA1A
+DB00831,Anxiety Disorder,ADRA1A
+DB00875,Anxiety Disorder,ADRA1A
+DB00934,Bipolar Disorder,ADRA1A
+DB01100,OCD & Tourette Syndrome,ADRA1A
+DB01142,Anxiety Disorder,ADRA1A
+DB01149,Major Depressive Disorder,ADRA1A
+DB01151,Attention Deficit Hyperactivity Disorder,ADRA1A
+DB01162,Eating Disorders,ADRA1A
+DB01175,Anxiety Disorder,ADRA1A
+DB01224,Anxiety Disorder,ADRA1A
+DB01238,Autism Spectrum Disorder,ADRA1A
+DB01242,Autism Spectrum Disorder,ADRA1A
+DB01267,Schizophrenia,ADRA1A
+DB01403,Bipolar Disorder,ADRA1A
+DB01576,Attention Deficit Hyperactivity Disorder,ADRA1A
+DB01622,Schizophrenia,ADRA1A
+DB01623,Schizophrenia,ADRA1A
+DB01624,Schizophrenia,ADRA1A
+DB04946,Schizophrenia,ADRA1A
+DB06148,Major Depressive Disorder,ADRA1A
+DB06216,Bipolar Disorder,ADRA1A
+DB06706,Eating Disorders,ADRA1A
+DB00182,Attention Deficit Hyperactivity Disorder,ADRA2A
+DB00246,Bipolar Disorder,ADRA2A
+DB00321,Major Depressive Disorder,ADRA2A
+DB00334,Bipolar Disorder,ADRA2A
+DB00363,Schizophrenia,ADRA2A
+DB00370,Anxiety Disorder,ADRA2A
+DB00408,Schizophrenia,ADRA2A
+DB00477,Attention Deficit Hyperactivity Disorder,ADRA2A
+DB00502,Attention Deficit Hyperactivity Disorder,ADRA2A
+DB00540,Major Depressive Disorder,ADRA2A
+DB00543,Anxiety Disorder,ADRA2A
+DB00575,Attention Deficit Hyperactivity Disorder,ADRA2A
+DB00633,Bipolar Disorder,ADRA2A
+DB00656,Alzheimer’s Disease,ADRA2A
+DB00668,Eating Disorders,ADRA2A
+DB00679,Anxiety Disorder,ADRA2A
+DB00734,Alzheimer’s Disease,ADRA2A
+DB00831,Anxiety Disorder,ADRA2A
+DB00934,Bipolar Disorder,ADRA2A
+DB01018,Attention Deficit Hyperactivity Disorder,ADRA2A
+DB01142,Anxiety Disorder,ADRA2A
+DB01149,Major Depressive Disorder,ADRA2A
+DB01224,Anxiety Disorder,ADRA2A
+DB01238,Autism Spectrum Disorder,ADRA2A
+DB01242,Autism Spectrum Disorder,ADRA2A
+DB01267,Schizophrenia,ADRA2A
+DB01403,Bipolar Disorder,ADRA2A
+DB01576,Attention Deficit Hyperactivity Disorder,ADRA2A
+DB01577,Attention Deficit Hyperactivity Disorder,ADRA2A
+DB01623,Schizophrenia,ADRA2A
+DB01624,Schizophrenia,ADRA2A
+DB04842,Schizophrenia,ADRA2A
+DB04946,Schizophrenia,ADRA2A
+DB04948,Substance Use Disorders,ADRA2A
+DB06148,Major Depressive Disorder,ADRA2A
+DB06216,Bipolar Disorder,ADRA2A
+DB00182,Attention Deficit Hyperactivity Disorder,ADCYAP1
+DB01576,Attention Deficit Hyperactivity Disorder,ADCYAP1
+DB00182,Attention Deficit Hyperactivity Disorder,STK11
+DB01576,Attention Deficit Hyperactivity Disorder,STK11
+DB00182,Attention Deficit Hyperactivity Disorder,HTR7
+DB00246,Bipolar Disorder,HTR7
+DB00321,Major Depressive Disorder,HTR7
+DB00334,Bipolar Disorder,HTR7
+DB00363,Schizophrenia,HTR7
+DB00370,Anxiety Disorder,HTR7
+DB00408,Schizophrenia,HTR7
+DB00458,Attention Deficit Hyperactivity Disorder,HTR7
+DB00490,Anxiety Disorder,HTR7
+DB00502,Attention Deficit Hyperactivity Disorder,HTR7
+DB00543,Anxiety Disorder,HTR7
+DB00831,Anxiety Disorder,HTR7
+DB00843,Alzheimer’s Disease,HTR7
+DB00934,Bipolar Disorder,HTR7
+DB01100,OCD & Tourette Syndrome,HTR7
+DB01151,Attention Deficit Hyperactivity Disorder,HTR7
+DB01224,Anxiety Disorder,HTR7
+DB01238,Autism Spectrum Disorder,HTR7
+DB01576,Attention Deficit Hyperactivity Disorder,HTR7
+DB01623,Schizophrenia,HTR7
+DB04946,Schizophrenia,HTR7
+DB06148,Major Depressive Disorder,HTR7
+DB06216,Bipolar Disorder,HTR7
+DB06288,Major Depressive Disorder,HTR7
+DB08815,Bipolar Disorder,HTR7
+DB00182,Attention Deficit Hyperactivity Disorder,SLC6A2
+DB00215,Anxiety Disorder,SLC6A2
+DB00234,Major Depressive Disorder,SLC6A2
+DB00285,Anxiety Disorder,SLC6A2
+DB00321,Major Depressive Disorder,SLC6A2
+DB00344,Major Depressive Disorder,SLC6A2
+DB00422,Attention Deficit Hyperactivity Disorder,SLC6A2
+DB00458,Attention Deficit Hyperactivity Disorder,SLC6A2
+DB00476,Anxiety Disorder,SLC6A2
+DB00540,Major Depressive Disorder,SLC6A2
+DB00543,Anxiety Disorder,SLC6A2
+DB00715,Anxiety Disorder,SLC6A2
+DB00726,Anxiety Disorder,SLC6A2
+DB00934,Bipolar Disorder,SLC6A2
+DB01142,Anxiety Disorder,SLC6A2
+DB01149,Major Depressive Disorder,SLC6A2
+DB01151,Attention Deficit Hyperactivity Disorder,SLC6A2
+DB01156,Attention Deficit Hyperactivity Disorder,SLC6A2
+DB01175,Anxiety Disorder,SLC6A2
+DB01242,Autism Spectrum Disorder,SLC6A2
+DB01576,Attention Deficit Hyperactivity Disorder,SLC6A2
+DB04896,Major Depressive Disorder,SLC6A2
+DB06148,Major Depressive Disorder,SLC6A2
+DB06204,Substance Use Disorders,SLC6A2
+DB06700,Major Depressive Disorder,SLC6A2
+DB06701,Attention Deficit Hyperactivity Disorder,SLC6A2
+DB08918,Major Depressive Disorder,SLC6A2
+DB00182,Attention Deficit Hyperactivity Disorder,CREM
+DB00755,Eating Disorders,CREM
+DB01576,Attention Deficit Hyperactivity Disorder,CREM
+DB00182,Attention Deficit Hyperactivity Disorder,CAT
+DB01162,Eating Disorders,CAT
+DB01576,Attention Deficit Hyperactivity Disorder,CAT
+DB01593,Eating Disorders,CAT
+DB00182,Attention Deficit Hyperactivity Disorder,TAAR1
+DB01576,Attention Deficit Hyperactivity Disorder,TAAR1
+DB01577,Attention Deficit Hyperactivity Disorder,TAAR1
+DB00182,Attention Deficit Hyperactivity Disorder,FGF2
+DB00321,Major Depressive Disorder,FGF2
+DB00829,Anxiety Disorder,FGF2
+DB01224,Anxiety Disorder,FGF2
+DB01576,Attention Deficit Hyperactivity Disorder,FGF2
+DB00182,Attention Deficit Hyperactivity Disorder,RGS4
+DB01576,Attention Deficit Hyperactivity Disorder,RGS4
+DB00182,Attention Deficit Hyperactivity Disorder,H3F3A
+DB01576,Attention Deficit Hyperactivity Disorder,H3F3A
+DB00182,Attention Deficit Hyperactivity Disorder,PDYN
+DB00295,Substance Use Disorders,PDYN
+DB00472,Bipolar Disorder,PDYN
+DB00575,Attention Deficit Hyperactivity Disorder,PDYN
+DB01183,Major Depressive Disorder,PDYN
+DB01454,Anxiety Disorder,PDYN
+DB01576,Attention Deficit Hyperactivity Disorder,PDYN
+DB00182,Attention Deficit Hyperactivity Disorder,GAD2
+DB00234,Major Depressive Disorder,GAD2
+DB00780,Anxiety Disorder,GAD2
+DB01065,Anxiety Disorder,GAD2
+DB01576,Attention Deficit Hyperactivity Disorder,GAD2
+DB00182,Attention Deficit Hyperactivity Disorder,MAOA
+DB00313,Bipolar Disorder,MAOA
+DB00752,Major Depressive Disorder,MAOA
+DB00780,Anxiety Disorder,MAOA
+DB00805,Major Depressive Disorder,MAOA
+DB01037,Alzheimer’s Disease,MAOA
+DB01171,Bipolar Disorder,MAOA
+DB01247,Major Depressive Disorder,MAOA
+DB01576,Attention Deficit Hyperactivity Disorder,MAOA
+DB01577,Attention Deficit Hyperactivity Disorder,MAOA
+DB04832,Major Depressive Disorder,MAOA
+DB00182,Attention Deficit Hyperactivity Disorder,WNT3
+DB01576,Attention Deficit Hyperactivity Disorder,WNT3
+DB00182,Attention Deficit Hyperactivity Disorder,ATF4
+DB01576,Attention Deficit Hyperactivity Disorder,ATF4
+DB00182,Attention Deficit Hyperactivity Disorder,ADRA1B
+DB00246,Bipolar Disorder,ADRA1B
+DB00321,Major Depressive Disorder,ADRA1B
+DB00334,Bipolar Disorder,ADRA1B
+DB00363,Schizophrenia,ADRA1B
+DB00408,Schizophrenia,ADRA1B
+DB00458,Attention Deficit Hyperactivity Disorder,ADRA1B
+DB00477,Attention Deficit Hyperactivity Disorder,ADRA1B
+DB00502,Attention Deficit Hyperactivity Disorder,ADRA1B
+DB00540,Major Depressive Disorder,ADRA1B
+DB00575,Attention Deficit Hyperactivity Disorder,ADRA1B
+DB00668,Eating Disorders,ADRA1B
+DB00679,Anxiety Disorder,ADRA1B
+DB00726,Anxiety Disorder,ADRA1B
+DB00734,Alzheimer’s Disease,ADRA1B
+DB00777,Eating Disorders,ADRA1B
+DB01142,Anxiety Disorder,ADRA1B
+DB01162,Eating Disorders,ADRA1B
+DB01224,Anxiety Disorder,ADRA1B
+DB01238,Autism Spectrum Disorder,ADRA1B
+DB01255,Attention Deficit Hyperactivity Disorder,ADRA1B
+DB01267,Schizophrenia,ADRA1B
+DB01403,Bipolar Disorder,ADRA1B
+DB01576,Attention Deficit Hyperactivity Disorder,ADRA1B
+DB01577,Attention Deficit Hyperactivity Disorder,ADRA1B
+DB01622,Schizophrenia,ADRA1B
+DB01623,Schizophrenia,ADRA1B
+DB00182,Attention Deficit Hyperactivity Disorder,CARTPT
+DB01576,Attention Deficit Hyperactivity Disorder,CARTPT
+DB00182,Attention Deficit Hyperactivity Disorder,KCNJ1
+DB00222,Substance Use Disorders,KCNJ1
+DB01576,Attention Deficit Hyperactivity Disorder,KCNJ1
+DB08838,Anxiety Disorder,KCNJ1
+DB00182,Attention Deficit Hyperactivity Disorder,HTR2A
+DB00215,Anxiety Disorder,HTR2A
+DB00246,Bipolar Disorder,HTR2A
+DB00285,Anxiety Disorder,HTR2A
+DB00295,Substance Use Disorders,HTR2A
+DB00321,Major Depressive Disorder,HTR2A
+DB00333,Substance Use Disorders,HTR2A
+DB00334,Bipolar Disorder,HTR2A
+DB00363,Schizophrenia,HTR2A
+DB00370,Anxiety Disorder,HTR2A
+DB00408,Schizophrenia,HTR2A
+DB00433,Anxiety Disorder,HTR2A
+DB00458,Attention Deficit Hyperactivity Disorder,HTR2A
+DB00472,Bipolar Disorder,HTR2A
+DB00476,Anxiety Disorder,HTR2A
+DB00477,Attention Deficit Hyperactivity Disorder,HTR2A
+DB00490,Anxiety Disorder,HTR2A
+DB00502,Attention Deficit Hyperactivity Disorder,HTR2A
+DB00540,Major Depressive Disorder,HTR2A
+DB00543,Anxiety Disorder,HTR2A
+DB00555,Bipolar Disorder,HTR2A
+DB00564,Bipolar Disorder,HTR2A
+DB00575,Attention Deficit Hyperactivity Disorder,HTR2A
+DB00656,Alzheimer’s Disease,HTR2A
+DB00679,Anxiety Disorder,HTR2A
+DB00704,Substance Use Disorders,HTR2A
+DB00715,Anxiety Disorder,HTR2A
+DB00726,Anxiety Disorder,HTR2A
+DB00734,Alzheimer’s Disease,HTR2A
+DB00777,Eating Disorders,HTR2A
+DB00805,Major Depressive Disorder,HTR2A
+DB00831,Anxiety Disorder,HTR2A
+DB00849,Anxiety Disorder,HTR2A
+DB00875,Anxiety Disorder,HTR2A
+DB00933,Schizophrenia,HTR2A
+DB01037,Alzheimer’s Disease,HTR2A
+DB01043,Alzheimer’s Disease,HTR2A
+DB01065,Anxiety Disorder,HTR2A
+DB01100,OCD & Tourette Syndrome,HTR2A
+DB01104,Anxiety Disorder,HTR2A
+DB01142,Anxiety Disorder,HTR2A
+DB01149,Major Depressive Disorder,HTR2A
+DB01151,Attention Deficit Hyperactivity Disorder,HTR2A
+DB01175,Anxiety Disorder,HTR2A
+DB01221,Major Depressive Disorder,HTR2A
+DB01224,Anxiety Disorder,HTR2A
+DB01238,Autism Spectrum Disorder,HTR2A
+DB01239,Bipolar Disorder,HTR2A
+DB01242,Autism Spectrum Disorder,HTR2A
+DB01267,Schizophrenia,HTR2A
+DB01356,Bipolar Disorder,HTR2A
+DB01403,Bipolar Disorder,HTR2A
+DB01454,Anxiety Disorder,HTR2A
+DB01576,Attention Deficit Hyperactivity Disorder,HTR2A
+DB01622,Schizophrenia,HTR2A
+DB01623,Schizophrenia,HTR2A
+DB01624,Schizophrenia,HTR2A
+DB04842,Schizophrenia,HTR2A
+DB04896,Major Depressive Disorder,HTR2A
+DB04946,Schizophrenia,HTR2A
+DB05232,Substance Use Disorders,HTR2A
+DB06144,Schizophrenia,HTR2A
+DB06148,Major Depressive Disorder,HTR2A
+DB06216,Bipolar Disorder,HTR2A
+DB06288,Major Depressive Disorder,HTR2A
+DB06594,Major Depressive Disorder,HTR2A
+DB06684,Major Depressive Disorder,HTR2A
+DB08815,Bipolar Disorder,HTR2A
+DB08918,Major Depressive Disorder,HTR2A
+DB00182,Attention Deficit Hyperactivity Disorder,SLC18A2
+DB01454,Anxiety Disorder,SLC18A2
+DB01576,Attention Deficit Hyperactivity Disorder,SLC18A2
+DB01577,Attention Deficit Hyperactivity Disorder,SLC18A2
+DB04844,OCD & Tourette Syndrome,SLC18A2
+DB06706,Eating Disorders,SLC18A2
+DB00182,Attention Deficit Hyperactivity Disorder,NGF
+DB00502,Attention Deficit Hyperactivity Disorder,NGF
+DB01576,Attention Deficit Hyperactivity Disorder,NGF
+DB00182,Attention Deficit Hyperactivity Disorder,ADRB1
+DB00246,Bipolar Disorder,ADRB1
+DB00540,Major Depressive Disorder,ADRB1
+DB00668,Eating Disorders,ADRB1
+DB00734,Alzheimer’s Disease,ADRB1
+DB01151,Attention Deficit Hyperactivity Disorder,ADRB1
+DB01576,Attention Deficit Hyperactivity Disorder,ADRB1
+DB01580,Anxiety Disorder,ADRB1
+DB04842,Schizophrenia,ADRB1
+DB06216,Bipolar Disorder,ADRB1
+DB00182,Attention Deficit Hyperactivity Disorder,DRD2
+DB00246,Bipolar Disorder,DRD2
+DB00334,Bipolar Disorder,DRD2
+DB00363,Schizophrenia,DRD2
+DB00391,Schizophrenia,DRD2
+DB00408,Schizophrenia,DRD2
+DB00409,Schizophrenia,DRD2
+DB00433,Anxiety Disorder,DRD2
+DB00458,Attention Deficit Hyperactivity Disorder,DRD2
+DB00477,Attention Deficit Hyperactivity Disorder,DRD2
+DB00490,Anxiety Disorder,DRD2
+DB00502,Attention Deficit Hyperactivity Disorder,DRD2
+DB00540,Major Depressive Disorder,DRD2
+DB00543,Anxiety Disorder,DRD2
+DB00679,Anxiety Disorder,DRD2
+DB00734,Alzheimer’s Disease,DRD2
+DB00777,Eating Disorders,DRD2
+DB00805,Major Depressive Disorder,DRD2
+DB00831,Anxiety Disorder,DRD2
+DB00875,Anxiety Disorder,DRD2
+DB00933,Schizophrenia,DRD2
+DB01043,Alzheimer’s Disease,DRD2
+DB01100,OCD & Tourette Syndrome,DRD2
+DB01142,Anxiety Disorder,DRD2
+DB01149,Major Depressive Disorder,DRD2
+DB01221,Major Depressive Disorder,DRD2
+DB01224,Anxiety Disorder,DRD2
+DB01238,Autism Spectrum Disorder,DRD2
+DB01239,Bipolar Disorder,DRD2
+DB01242,Autism Spectrum Disorder,DRD2
+DB01267,Schizophrenia,DRD2
+DB01403,Bipolar Disorder,DRD2
+DB01576,Attention Deficit Hyperactivity Disorder,DRD2
+DB01577,Attention Deficit Hyperactivity Disorder,DRD2
+DB01622,Schizophrenia,DRD2
+DB01623,Schizophrenia,DRD2
+DB01624,Schizophrenia,DRD2
+DB04842,Schizophrenia,DRD2
+DB04844,OCD & Tourette Syndrome,DRD2
+DB04888,Schizophrenia,DRD2
+DB04946,Schizophrenia,DRD2
+DB06144,Schizophrenia,DRD2
+DB06148,Major Depressive Disorder,DRD2
+DB06216,Bipolar Disorder,DRD2
+DB06288,Major Depressive Disorder,DRD2
+DB08815,Bipolar Disorder,DRD2
+DB00182,Attention Deficit Hyperactivity Disorder,GRIN1
+DB00289,Attention Deficit Hyperactivity Disorder,GRIN1
+DB00659,Substance Use Disorders,GRIN1
+DB01576,Attention Deficit Hyperactivity Disorder,GRIN1
+DB01708,Eating Disorders,GRIN1
+DB04896,Major Depressive Disorder,GRIN1
+DB08838,Anxiety Disorder,GRIN1
+DB08918,Major Depressive Disorder,GRIN1
+DB00182,Attention Deficit Hyperactivity Disorder,RASD1
+DB01576,Attention Deficit Hyperactivity Disorder,RASD1
+DB00182,Attention Deficit Hyperactivity Disorder,GRIA1
+DB00295,Substance Use Disorders,GRIA1
+DB00363,Schizophrenia,GRIA1
+DB01576,Attention Deficit Hyperactivity Disorder,GRIA1
+DB00182,Attention Deficit Hyperactivity Disorder,H3F3B
+DB01576,Attention Deficit Hyperactivity Disorder,H3F3B
+DB00199,Eating Disorders,MLN
+DB00199,Eating Disorders,ELN
+DB00199,Eating Disorders,UCN2
+DB00201,Major Depressive Disorder,SFTPB
+DB00201,Major Depressive Disorder,PPP1R1B
+DB00201,Major Depressive Disorder,POMC
+DB00295,Substance Use Disorders,POMC
+DB00313,Bipolar Disorder,POMC
+DB00334,Bipolar Disorder,POMC
+DB00404,Anxiety Disorder,POMC
+DB00472,Bipolar Disorder,POMC
+DB00490,Anxiety Disorder,POMC
+DB00575,Attention Deficit Hyperactivity Disorder,POMC
+DB00704,Substance Use Disorders,POMC
+DB01018,Attention Deficit Hyperactivity Disorder,POMC
+DB01065,Anxiety Disorder,POMC
+DB01104,Anxiety Disorder,POMC
+DB01183,Major Depressive Disorder,POMC
+DB01221,Major Depressive Disorder,POMC
+DB01356,Bipolar Disorder,POMC
+DB01558,Anxiety Disorder,POMC
+DB00201,Major Depressive Disorder,PAK2
+DB00201,Major Depressive Disorder,ADORA2A
+DB00201,Major Depressive Disorder,RAET1E
+DB00201,Major Depressive Disorder,MITF
+DB00201,Major Depressive Disorder,ADORA2B
+DB00201,Major Depressive Disorder,ADA
+DB00201,Major Depressive Disorder,CDK1
+DB00755,Eating Disorders,CDK1
+DB01708,Eating Disorders,CDK1
+DB00201,Major Depressive Disorder,TAGLN
+DB00201,Major Depressive Disorder,VDR
+DB01593,Eating Disorders,VDR
+DB00201,Major Depressive Disorder,PRSS27
+DB00201,Major Depressive Disorder,ITPR3
+DB00201,Major Depressive Disorder,UCP3
+DB00201,Major Depressive Disorder,SND1
+DB00201,Major Depressive Disorder,SLC1A1
+DB00295,Substance Use Disorders,SLC1A1
+DB00201,Major Depressive Disorder,NTRK2
+DB00321,Major Depressive Disorder,NTRK2
+DB00755,Eating Disorders,NTRK2
+DB01593,Eating Disorders,NTRK2
+DB06148,Major Depressive Disorder,NTRK2
+DB00201,Major Depressive Disorder,PTH
+DB00755,Eating Disorders,PTH
+DB01100,OCD & Tourette Syndrome,PTH
+DB00201,Major Depressive Disorder,DUSP8
+DB00201,Major Depressive Disorder,LGALS1
+DB00201,Major Depressive Disorder,CHEK2
+DB00201,Major Depressive Disorder,ITPR1
+DB00201,Major Depressive Disorder,PDE4B
+DB00363,Schizophrenia,PDE4B
+DB00201,Major Depressive Disorder,CDK2
+DB00201,Major Depressive Disorder,CHEK1
+DB00201,Major Depressive Disorder,MTOR
+DB00811,Eating Disorders,MTOR
+DB01065,Anxiety Disorder,MTOR
+DB01708,Eating Disorders,MTOR
+DB00201,Major Depressive Disorder,ADORA1
+DB00458,Attention Deficit Hyperactivity Disorder,ADORA1
+DB00215,Anxiety Disorder,CNR1
+DB00295,Substance Use Disorders,CNR1
+DB00334,Bipolar Disorder,CNR1
+DB00472,Bipolar Disorder,CNR1
+DB00502,Attention Deficit Hyperactivity Disorder,CNR1
+DB00752,Major Depressive Disorder,CNR1
+DB01151,Attention Deficit Hyperactivity Disorder,CNR1
+DB01175,Anxiety Disorder,CNR1
+DB01238,Autism Spectrum Disorder,CNR1
+DB00215,Anxiety Disorder,HTR2C
+DB00246,Bipolar Disorder,HTR2C
+DB00334,Bipolar Disorder,HTR2C
+DB00363,Schizophrenia,HTR2C
+DB00370,Anxiety Disorder,HTR2C
+DB00408,Schizophrenia,HTR2C
+DB00433,Anxiety Disorder,HTR2C
+DB00458,Attention Deficit Hyperactivity Disorder,HTR2C
+DB00472,Bipolar Disorder,HTR2C
+DB00476,Anxiety Disorder,HTR2C
+DB00477,Attention Deficit Hyperactivity Disorder,HTR2C
+DB00490,Anxiety Disorder,HTR2C
+DB00540,Major Depressive Disorder,HTR2C
+DB00543,Anxiety Disorder,HTR2C
+DB00656,Alzheimer’s Disease,HTR2C
+DB00679,Anxiety Disorder,HTR2C
+DB00726,Anxiety Disorder,HTR2C
+DB00734,Alzheimer’s Disease,HTR2C
+DB00777,Eating Disorders,HTR2C
+DB00805,Major Depressive Disorder,HTR2C
+DB00831,Anxiety Disorder,HTR2C
+DB00933,Schizophrenia,HTR2C
+DB01100,OCD & Tourette Syndrome,HTR2C
+DB01142,Anxiety Disorder,HTR2C
+DB01149,Major Depressive Disorder,HTR2C
+DB01175,Anxiety Disorder,HTR2C
+DB01224,Anxiety Disorder,HTR2C
+DB01238,Autism Spectrum Disorder,HTR2C
+DB01239,Bipolar Disorder,HTR2C
+DB01242,Autism Spectrum Disorder,HTR2C
+DB01267,Schizophrenia,HTR2C
+DB01403,Bipolar Disorder,HTR2C
+DB01454,Anxiety Disorder,HTR2C
+DB04946,Schizophrenia,HTR2C
+DB06144,Schizophrenia,HTR2C
+DB06148,Major Depressive Disorder,HTR2C
+DB06216,Bipolar Disorder,HTR2C
+DB06594,Major Depressive Disorder,HTR2C
+DB00215,Anxiety Disorder,HRH1
+DB00246,Bipolar Disorder,HRH1
+DB00321,Major Depressive Disorder,HRH1
+DB00334,Bipolar Disorder,HRH1
+DB00363,Schizophrenia,HRH1
+DB00370,Anxiety Disorder,HRH1
+DB00408,Schizophrenia,HRH1
+DB00433,Anxiety Disorder,HRH1
+DB00458,Attention Deficit Hyperactivity Disorder,HRH1
+DB00477,Attention Deficit Hyperactivity Disorder,HRH1
+DB00502,Attention Deficit Hyperactivity Disorder,HRH1
+DB00540,Major Depressive Disorder,HRH1
+DB00543,Anxiety Disorder,HRH1
+DB00557,Anxiety Disorder,HRH1
+DB00656,Alzheimer’s Disease,HRH1
+DB00679,Anxiety Disorder,HRH1
+DB00726,Anxiety Disorder,HRH1
+DB00734,Alzheimer’s Disease,HRH1
+DB00777,Eating Disorders,HRH1
+DB00831,Anxiety Disorder,HRH1
+DB00933,Schizophrenia,HRH1
+DB00934,Bipolar Disorder,HRH1
+DB01075,Eating Disorders,HRH1
+DB01100,OCD & Tourette Syndrome,HRH1
+DB01142,Anxiety Disorder,HRH1
+DB01151,Attention Deficit Hyperactivity Disorder,HRH1
+DB01175,Anxiety Disorder,HRH1
+DB01224,Anxiety Disorder,HRH1
+DB01238,Autism Spectrum Disorder,HRH1
+DB01239,Bipolar Disorder,HRH1
+DB01267,Schizophrenia,HRH1
+DB01403,Bipolar Disorder,HRH1
+DB01623,Schizophrenia,HRH1
+DB01624,Schizophrenia,HRH1
+DB04842,Schizophrenia,HRH1
+DB04946,Schizophrenia,HRH1
+DB06148,Major Depressive Disorder,HRH1
+DB06216,Bipolar Disorder,HRH1
+DB00215,Anxiety Disorder,IL17A
+DB00755,Eating Disorders,IL17A
+DB01175,Anxiety Disorder,IL17A
+DB00215,Anxiety Disorder,SREBF1
+DB00313,Bipolar Disorder,SREBF1
+DB00321,Major Depressive Disorder,SREBF1
+DB00370,Anxiety Disorder,SREBF1
+DB00458,Attention Deficit Hyperactivity Disorder,SREBF1
+DB01175,Anxiety Disorder,SREBF1
+DB01242,Autism Spectrum Disorder,SREBF1
+DB00222,Substance Use Disorders,UGT1A6
+DB00222,Substance Use Disorders,UGT1A3
+DB00222,Substance Use Disorders,UGT1A5
+DB00222,Substance Use Disorders,CAV1
+DB00222,Substance Use Disorders,NR1I2
+DB00564,Bipolar Disorder,NR1I2
+DB00755,Eating Disorders,NR1I2
+DB01708,Eating Disorders,NR1I2
+DB00234,Major Depressive Disorder,BCL2L1
+DB00370,Anxiety Disorder,BCL2L1
+DB00472,Bipolar Disorder,BCL2L1
+DB00246,Bipolar Disorder,CHRM3
+DB00321,Major Depressive Disorder,CHRM3
+DB00334,Bipolar Disorder,CHRM3
+DB00363,Schizophrenia,CHRM3
+DB00408,Schizophrenia,CHRM3
+DB00458,Attention Deficit Hyperactivity Disorder,CHRM3
+DB00472,Bipolar Disorder,CHRM3
+DB00477,Attention Deficit Hyperactivity Disorder,CHRM3
+DB00540,Major Depressive Disorder,CHRM3
+DB00679,Anxiety Disorder,CHRM3
+DB00715,Anxiety Disorder,CHRM3
+DB00777,Eating Disorders,CHRM3
+DB00933,Schizophrenia,CHRM3
+DB00934,Bipolar Disorder,CHRM3
+DB01075,Eating Disorders,CHRM3
+DB01142,Anxiety Disorder,CHRM3
+DB01151,Attention Deficit Hyperactivity Disorder,CHRM3
+DB01224,Anxiety Disorder,CHRM3
+DB01238,Autism Spectrum Disorder,CHRM3
+DB01239,Bipolar Disorder,CHRM3
+DB01403,Bipolar Disorder,CHRM3
+DB00246,Bipolar Disorder,DRD3
+DB00334,Bipolar Disorder,DRD3
+DB00363,Schizophrenia,DRD3
+DB00391,Schizophrenia,DRD3
+DB00408,Schizophrenia,DRD3
+DB00409,Schizophrenia,DRD3
+DB00433,Anxiety Disorder,DRD3
+DB00458,Attention Deficit Hyperactivity Disorder,DRD3
+DB00477,Attention Deficit Hyperactivity Disorder,DRD3
+DB00502,Attention Deficit Hyperactivity Disorder,DRD3
+DB00543,Anxiety Disorder,DRD3
+DB00679,Anxiety Disorder,DRD3
+DB00734,Alzheimer’s Disease,DRD3
+DB00831,Anxiety Disorder,DRD3
+DB00933,Schizophrenia,DRD3
+DB01100,OCD & Tourette Syndrome,DRD3
+DB01224,Anxiety Disorder,DRD3
+DB01238,Autism Spectrum Disorder,DRD3
+DB01239,Bipolar Disorder,DRD3
+DB01242,Autism Spectrum Disorder,DRD3
+DB01267,Schizophrenia,DRD3
+DB01403,Bipolar Disorder,DRD3
+DB01622,Schizophrenia,DRD3
+DB01623,Schizophrenia,DRD3
+DB04842,Schizophrenia,DRD3
+DB04946,Schizophrenia,DRD3
+DB06216,Bipolar Disorder,DRD3
+DB06288,Major Depressive Disorder,DRD3
+DB00246,Bipolar Disorder,HTR1D
+DB00334,Bipolar Disorder,HTR1D
+DB00363,Schizophrenia,HTR1D
+DB00477,Attention Deficit Hyperactivity Disorder,HTR1D
+DB00502,Attention Deficit Hyperactivity Disorder,HTR1D
+DB00679,Anxiety Disorder,HTR1D
+DB00734,Alzheimer’s Disease,HTR1D
+DB01224,Anxiety Disorder,HTR1D
+DB01238,Autism Spectrum Disorder,HTR1D
+DB01267,Schizophrenia,HTR1D
+DB01623,Schizophrenia,HTR1D
+DB04842,Schizophrenia,HTR1D
+DB04946,Schizophrenia,HTR1D
+DB06148,Major Depressive Disorder,HTR1D
+DB06216,Bipolar Disorder,HTR1D
+DB00246,Bipolar Disorder,ADRA2C
+DB00334,Bipolar Disorder,ADRA2C
+DB00363,Schizophrenia,ADRA2C
+DB00370,Anxiety Disorder,ADRA2C
+DB00408,Schizophrenia,ADRA2C
+DB00422,Attention Deficit Hyperactivity Disorder,ADRA2C
+DB00477,Attention Deficit Hyperactivity Disorder,ADRA2C
+DB00502,Attention Deficit Hyperactivity Disorder,ADRA2C
+DB00575,Attention Deficit Hyperactivity Disorder,ADRA2C
+DB00633,Bipolar Disorder,ADRA2C
+DB00656,Alzheimer’s Disease,ADRA2C
+DB00668,Eating Disorders,ADRA2C
+DB00679,Anxiety Disorder,ADRA2C
+DB00734,Alzheimer’s Disease,ADRA2C
+DB00831,Anxiety Disorder,ADRA2C
+DB01018,Attention Deficit Hyperactivity Disorder,ADRA2C
+DB01100,OCD & Tourette Syndrome,ADRA2C
+DB01142,Anxiety Disorder,ADRA2C
+DB01224,Anxiety Disorder,ADRA2C
+DB01238,Autism Spectrum Disorder,ADRA2C
+DB01267,Schizophrenia,ADRA2C
+DB01403,Bipolar Disorder,ADRA2C
+DB01577,Attention Deficit Hyperactivity Disorder,ADRA2C
+DB01623,Schizophrenia,ADRA2C
+DB04842,Schizophrenia,ADRA2C
+DB04946,Schizophrenia,ADRA2C
+DB06148,Major Depressive Disorder,ADRA2C
+DB06216,Bipolar Disorder,ADRA2C
+DB06701,Attention Deficit Hyperactivity Disorder,ADRA2C
+DB08815,Bipolar Disorder,ADRA2C
+DB08838,Anxiety Disorder,ADRA2C
+DB00246,Bipolar Disorder,CHRM2
+DB00321,Major Depressive Disorder,CHRM2
+DB00334,Bipolar Disorder,CHRM2
+DB00363,Schizophrenia,CHRM2
+DB00408,Schizophrenia,CHRM2
+DB00458,Attention Deficit Hyperactivity Disorder,CHRM2
+DB00477,Attention Deficit Hyperactivity Disorder,CHRM2
+DB00540,Major Depressive Disorder,CHRM2
+DB00679,Anxiety Disorder,CHRM2
+DB00715,Anxiety Disorder,CHRM2
+DB00777,Eating Disorders,CHRM2
+DB00933,Schizophrenia,CHRM2
+DB00934,Bipolar Disorder,CHRM2
+DB01075,Eating Disorders,CHRM2
+DB01142,Anxiety Disorder,CHRM2
+DB01151,Attention Deficit Hyperactivity Disorder,CHRM2
+DB01224,Anxiety Disorder,CHRM2
+DB01238,Autism Spectrum Disorder,CHRM2
+DB01239,Bipolar Disorder,CHRM2
+DB01403,Bipolar Disorder,CHRM2
+DB00246,Bipolar Disorder,ADRA2B
+DB00334,Bipolar Disorder,ADRA2B
+DB00363,Schizophrenia,ADRA2B
+DB00370,Anxiety Disorder,ADRA2B
+DB00408,Schizophrenia,ADRA2B
+DB00477,Attention Deficit Hyperactivity Disorder,ADRA2B
+DB00502,Attention Deficit Hyperactivity Disorder,ADRA2B
+DB00575,Attention Deficit Hyperactivity Disorder,ADRA2B
+DB00633,Bipolar Disorder,ADRA2B
+DB00656,Alzheimer’s Disease,ADRA2B
+DB00668,Eating Disorders,ADRA2B
+DB00679,Anxiety Disorder,ADRA2B
+DB00734,Alzheimer’s Disease,ADRA2B
+DB00831,Anxiety Disorder,ADRA2B
+DB01018,Attention Deficit Hyperactivity Disorder,ADRA2B
+DB01100,OCD & Tourette Syndrome,ADRA2B
+DB01142,Anxiety Disorder,ADRA2B
+DB01224,Anxiety Disorder,ADRA2B
+DB01238,Autism Spectrum Disorder,ADRA2B
+DB01267,Schizophrenia,ADRA2B
+DB01403,Bipolar Disorder,ADRA2B
+DB01577,Attention Deficit Hyperactivity Disorder,ADRA2B
+DB01623,Schizophrenia,ADRA2B
+DB04842,Schizophrenia,ADRA2B
+DB04946,Schizophrenia,ADRA2B
+DB06148,Major Depressive Disorder,ADRA2B
+DB06216,Bipolar Disorder,ADRA2B
+DB00246,Bipolar Disorder,CHAT
+DB00755,Eating Disorders,CHAT
+DB01577,Attention Deficit Hyperactivity Disorder,CHAT
+DB00246,Bipolar Disorder,HTR1B
+DB00334,Bipolar Disorder,HTR1B
+DB00363,Schizophrenia,HTR1B
+DB00408,Schizophrenia,HTR1B
+DB00502,Attention Deficit Hyperactivity Disorder,HTR1B
+DB00543,Anxiety Disorder,HTR1B
+DB00679,Anxiety Disorder,HTR1B
+DB00734,Alzheimer’s Disease,HTR1B
+DB01238,Autism Spectrum Disorder,HTR1B
+DB01267,Schizophrenia,HTR1B
+DB01623,Schizophrenia,HTR1B
+DB04946,Schizophrenia,HTR1B
+DB06216,Bipolar Disorder,HTR1B
+DB00246,Bipolar Disorder,DRD5
+DB00334,Bipolar Disorder,DRD5
+DB00363,Schizophrenia,DRD5
+DB00408,Schizophrenia,DRD5
+DB00477,Attention Deficit Hyperactivity Disorder,DRD5
+DB00502,Attention Deficit Hyperactivity Disorder,DRD5
+DB00679,Anxiety Disorder,DRD5
+DB00734,Alzheimer’s Disease,DRD5
+DB01224,Anxiety Disorder,DRD5
+DB01238,Autism Spectrum Disorder,DRD5
+DB01403,Bipolar Disorder,DRD5
+DB01623,Schizophrenia,DRD5
+DB01624,Schizophrenia,DRD5
+DB04946,Schizophrenia,DRD5
+DB00246,Bipolar Disorder,HTR6
+DB00321,Major Depressive Disorder,HTR6
+DB00334,Bipolar Disorder,HTR6
+DB00363,Schizophrenia,HTR6
+DB00476,Anxiety Disorder,HTR6
+DB00543,Anxiety Disorder,HTR6
+DB00734,Alzheimer’s Disease,HTR6
+DB00831,Anxiety Disorder,HTR6
+DB00933,Schizophrenia,HTR6
+DB01100,OCD & Tourette Syndrome,HTR6
+DB01238,Autism Spectrum Disorder,HTR6
+DB01623,Schizophrenia,HTR6
+DB04946,Schizophrenia,HTR6
+DB06144,Schizophrenia,HTR6
+DB06148,Major Depressive Disorder,HTR6
+DB06216,Bipolar Disorder,HTR6
+DB00246,Bipolar Disorder,DRD4
+DB00334,Bipolar Disorder,DRD4
+DB00363,Schizophrenia,DRD4
+DB00409,Schizophrenia,DRD4
+DB00543,Anxiety Disorder,DRD4
+DB00734,Alzheimer’s Disease,DRD4
+DB00777,Eating Disorders,DRD4
+DB01224,Anxiety Disorder,DRD4
+DB01238,Autism Spectrum Disorder,DRD4
+DB01267,Schizophrenia,DRD4
+DB01403,Bipolar Disorder,DRD4
+DB04946,Schizophrenia,DRD4
+DB06216,Bipolar Disorder,DRD4
+DB00246,Bipolar Disorder,CHRM5
+DB00321,Major Depressive Disorder,CHRM5
+DB00334,Bipolar Disorder,CHRM5
+DB00363,Schizophrenia,CHRM5
+DB00408,Schizophrenia,CHRM5
+DB00458,Attention Deficit Hyperactivity Disorder,CHRM5
+DB00477,Attention Deficit Hyperactivity Disorder,CHRM5
+DB00502,Attention Deficit Hyperactivity Disorder,CHRM5
+DB00540,Major Depressive Disorder,CHRM5
+DB00679,Anxiety Disorder,CHRM5
+DB00715,Anxiety Disorder,CHRM5
+DB00777,Eating Disorders,CHRM5
+DB00933,Schizophrenia,CHRM5
+DB00934,Bipolar Disorder,CHRM5
+DB01075,Eating Disorders,CHRM5
+DB01142,Anxiety Disorder,CHRM5
+DB01151,Attention Deficit Hyperactivity Disorder,CHRM5
+DB01224,Anxiety Disorder,CHRM5
+DB01238,Autism Spectrum Disorder,CHRM5
+DB01239,Bipolar Disorder,CHRM5
+DB01403,Bipolar Disorder,CHRM5
+DB00246,Bipolar Disorder,HTR1E
+DB00334,Bipolar Disorder,HTR1E
+DB00363,Schizophrenia,HTR1E
+DB00477,Attention Deficit Hyperactivity Disorder,HTR1E
+DB00679,Anxiety Disorder,HTR1E
+DB00734,Alzheimer’s Disease,HTR1E
+DB01224,Anxiety Disorder,HTR1E
+DB01238,Autism Spectrum Disorder,HTR1E
+DB01267,Schizophrenia,HTR1E
+DB04842,Schizophrenia,HTR1E
+DB06216,Bipolar Disorder,HTR1E
+DB00246,Bipolar Disorder,HOMER1
+DB00363,Schizophrenia,HOMER1
+DB00422,Attention Deficit Hyperactivity Disorder,HOMER1
+DB00502,Attention Deficit Hyperactivity Disorder,HOMER1
+DB06148,Major Depressive Disorder,HOMER1
+DB06701,Attention Deficit Hyperactivity Disorder,HOMER1
+DB00246,Bipolar Disorder,HTR3A
+DB00333,Substance Use Disorders,HTR3A
+DB00334,Bipolar Disorder,HTR3A
+DB00363,Schizophrenia,HTR3A
+DB00370,Anxiety Disorder,HTR3A
+DB00543,Anxiety Disorder,HTR3A
+DB01043,Alzheimer’s Disease,HTR3A
+DB01238,Autism Spectrum Disorder,HTR3A
+DB00246,Bipolar Disorder,HTR1A
+DB00321,Major Depressive Disorder,HTR1A
+DB00334,Bipolar Disorder,HTR1A
+DB00363,Schizophrenia,HTR1A
+DB00458,Attention Deficit Hyperactivity Disorder,HTR1A
+DB00472,Bipolar Disorder,HTR1A
+DB00477,Attention Deficit Hyperactivity Disorder,HTR1A
+DB00490,Anxiety Disorder,HTR1A
+DB00502,Attention Deficit Hyperactivity Disorder,HTR1A
+DB00540,Major Depressive Disorder,HTR1A
+DB00543,Anxiety Disorder,HTR1A
+DB00656,Alzheimer’s Disease,HTR1A
+DB00679,Anxiety Disorder,HTR1A
+DB00726,Anxiety Disorder,HTR1A
+DB00734,Alzheimer’s Disease,HTR1A
+DB00831,Anxiety Disorder,HTR1A
+DB01100,OCD & Tourette Syndrome,HTR1A
+DB01142,Anxiety Disorder,HTR1A
+DB01149,Major Depressive Disorder,HTR1A
+DB01221,Major Depressive Disorder,HTR1A
+DB01224,Anxiety Disorder,HTR1A
+DB01238,Autism Spectrum Disorder,HTR1A
+DB01267,Schizophrenia,HTR1A
+DB01356,Bipolar Disorder,HTR1A
+DB01616,Eating Disorders,HTR1A
+DB01622,Schizophrenia,HTR1A
+DB01623,Schizophrenia,HTR1A
+DB04842,Schizophrenia,HTR1A
+DB04888,Schizophrenia,HTR1A
+DB04946,Schizophrenia,HTR1A
+DB04970,Anxiety Disorder,HTR1A
+DB05339,Anxiety Disorder,HTR1A
+DB06148,Major Depressive Disorder,HTR1A
+DB06216,Bipolar Disorder,HTR1A
+DB06684,Major Depressive Disorder,HTR1A
+DB08815,Bipolar Disorder,HTR1A
+DB00285,Anxiety Disorder,CYP2D6
+DB00321,Major Depressive Disorder,CYP2D6
+DB00333,Substance Use Disorders,CYP2D6
+DB00472,Bipolar Disorder,CYP2D6
+DB00476,Anxiety Disorder,CYP2D6
+DB00502,Attention Deficit Hyperactivity Disorder,CYP2D6
+DB00679,Anxiety Disorder,CYP2D6
+DB00715,Anxiety Disorder,CYP2D6
+DB00755,Eating Disorders,CYP2D6
+DB00921,Substance Use Disorders,CYP2D6
+DB01075,Eating Disorders,CYP2D6
+DB01454,Anxiety Disorder,CYP2D6
+DB00285,Anxiety Disorder,ENO1
+DB00294,Eating Disorders,PGR
+DB00294,Eating Disorders,ESR1
+DB00313,Bipolar Disorder,ESR1
+DB00811,Eating Disorders,ESR1
+DB01065,Anxiety Disorder,ESR1
+DB01183,Major Depressive Disorder,ESR1
+DB01708,Eating Disorders,ESR1
+DB04575,Eating Disorders,ESR1
+DB00295,Substance Use Disorders,PLCG1
+DB00295,Substance Use Disorders,TJP1
+DB00295,Substance Use Disorders,HNRNPK
+DB00295,Substance Use Disorders,FAM20C
+DB00295,Substance Use Disorders,TLR4
+DB01183,Major Depressive Disorder,TLR4
+DB05708,Alzheimer’s Disease,TLR4
+DB00295,Substance Use Disorders,TH
+DB00363,Schizophrenia,TH
+DB00472,Bipolar Disorder,TH
+DB00502,Attention Deficit Hyperactivity Disorder,TH
+DB00780,Anxiety Disorder,TH
+DB04896,Major Depressive Disorder,TH
+DB08918,Major Depressive Disorder,TH
+DB00295,Substance Use Disorders,UPP2
+DB00422,Attention Deficit Hyperactivity Disorder,UPP2
+DB01037,Alzheimer’s Disease,UPP2
+DB01050,Alzheimer’s Disease,UPP2
+DB06701,Attention Deficit Hyperactivity Disorder,UPP2
+DB00295,Substance Use Disorders,TACR1
+DB01037,Alzheimer’s Disease,TACR1
+DB01221,Major Depressive Disorder,TACR1
+DB05232,Substance Use Disorders,TACR1
+DB00295,Substance Use Disorders,BECN1
+DB00295,Substance Use Disorders,CASP8
+DB00313,Bipolar Disorder,CASP8
+DB00633,Bipolar Disorder,CASP8
+DB00755,Eating Disorders,CASP8
+DB00843,Alzheimer’s Disease,CASP8
+DB01065,Anxiety Disorder,CASP8
+DB01156,Attention Deficit Hyperactivity Disorder,CASP8
+DB00295,Substance Use Disorders,SELL
+DB00295,Substance Use Disorders,CX3CR1
+DB00295,Substance Use Disorders,HSPA8
+DB01050,Alzheimer’s Disease,HSPA8
+DB00295,Substance Use Disorders,GLUL
+DB00734,Alzheimer’s Disease,GLUL
+DB00295,Substance Use Disorders,CCK
+DB01454,Anxiety Disorder,CCK
+DB00295,Substance Use Disorders,DDX58
+DB00755,Eating Disorders,DDX58
+DB00295,Substance Use Disorders,DDB2
+DB00295,Substance Use Disorders,MAPK14
+DB01151,Attention Deficit Hyperactivity Disorder,MAPK14
+DB01156,Attention Deficit Hyperactivity Disorder,MAPK14
+DB01592,Eating Disorders,MAPK14
+DB00295,Substance Use Disorders,TRPV1
+DB00295,Substance Use Disorders,CALB1
+DB00295,Substance Use Disorders,GSTM1
+DB01149,Major Depressive Disorder,GSTM1
+DB00295,Substance Use Disorders,OXT
+DB01183,Major Depressive Disorder,OXT
+DB01454,Anxiety Disorder,OXT
+DB00295,Substance Use Disorders,IFNG
+DB00295,Substance Use Disorders,EHMT2
+DB00295,Substance Use Disorders,NEUROD1
+DB00295,Substance Use Disorders,GAST
+DB00295,Substance Use Disorders,TAC1
+DB00502,Attention Deficit Hyperactivity Disorder,TAC1
+DB01183,Major Depressive Disorder,TAC1
+DB01356,Bipolar Disorder,TAC1
+DB01454,Anxiety Disorder,TAC1
+DB00295,Substance Use Disorders,PRL
+DB00334,Bipolar Disorder,PRL
+DB00391,Schizophrenia,PRL
+DB00490,Anxiety Disorder,PRL
+DB00734,Alzheimer’s Disease,PRL
+DB01065,Anxiety Disorder,PRL
+DB01100,OCD & Tourette Syndrome,PRL
+DB01171,Bipolar Disorder,PRL
+DB01454,Anxiety Disorder,PRL
+DB04575,Eating Disorders,PRL
+DB00295,Substance Use Disorders,MME
+DB00313,Bipolar Disorder,MME
+DB00295,Substance Use Disorders,OPRM1
+DB00333,Substance Use Disorders,OPRM1
+DB00504,Major Depressive Disorder,OPRM1
+DB00704,Substance Use Disorders,OPRM1
+DB00921,Substance Use Disorders,OPRM1
+DB01183,Major Depressive Disorder,OPRM1
+DB06204,Substance Use Disorders,OPRM1
+DB00295,Substance Use Disorders,GFAP
+DB01356,Bipolar Disorder,GFAP
+DB00295,Substance Use Disorders,OPRK1
+DB00321,Major Depressive Disorder,OPRK1
+DB00333,Substance Use Disorders,OPRK1
+DB00370,Anxiety Disorder,OPRK1
+DB00704,Substance Use Disorders,OPRK1
+DB00921,Substance Use Disorders,OPRK1
+DB01183,Major Depressive Disorder,OPRK1
+DB01221,Major Depressive Disorder,OPRK1
+DB06148,Major Depressive Disorder,OPRK1
+DB00295,Substance Use Disorders,VIP
+DB01183,Major Depressive Disorder,VIP
+DB05232,Substance Use Disorders,VIP
+DB00295,Substance Use Disorders,IFNA1
+DB00295,Substance Use Disorders,PDGFB
+DB00295,Substance Use Disorders,KNG1
+DB00831,Anxiety Disorder,KNG1
+DB01593,Eating Disorders,KNG1
+DB00295,Substance Use Disorders,AQP3
+DB00668,Eating Disorders,AQP3
+DB00755,Eating Disorders,AQP3
+DB00295,Substance Use Disorders,OPRD1
+DB00321,Major Depressive Disorder,OPRD1
+DB00333,Substance Use Disorders,OPRD1
+DB00704,Substance Use Disorders,OPRD1
+DB00921,Substance Use Disorders,OPRD1
+DB01100,OCD & Tourette Syndrome,OPRD1
+DB01183,Major Depressive Disorder,OPRD1
+DB00295,Substance Use Disorders,
+DB00313,Bipolar Disorder,WFS1
+DB00313,Bipolar Disorder,CDKN1A
+DB00313,Bipolar Disorder,GSTA1
+DB01708,Eating Disorders,GSTA1
+DB00313,Bipolar Disorder,OGDH
+DB00313,Bipolar Disorder,BGLAP
+DB00755,Eating Disorders,BGLAP
+DB00313,Bipolar Disorder,HDAC2
+DB01065,Anxiety Disorder,HDAC2
+DB00313,Bipolar Disorder,GSTA3
+DB01708,Eating Disorders,GSTA3
+DB00313,Bipolar Disorder,CYP19A1
+DB00555,Bipolar Disorder,CYP19A1
+DB00755,Eating Disorders,CYP19A1
+DB01050,Alzheimer’s Disease,CYP19A1
+DB01065,Anxiety Disorder,CYP19A1
+DB01110,Eating Disorders,CYP19A1
+DB01708,Eating Disorders,CYP19A1
+DB00313,Bipolar Disorder,SMN1
+DB00313,Bipolar Disorder,ELK1
+DB00313,Bipolar Disorder,GSK3B
+DB01356,Bipolar Disorder,GSK3B
+DB00313,Bipolar Disorder,HBG2
+DB00313,Bipolar Disorder,CALR
+DB01356,Bipolar Disorder,CALR
+DB00313,Bipolar Disorder,HPGDS
+DB01708,Eating Disorders,HPGDS
+DB00313,Bipolar Disorder,HDAC1
+DB00313,Bipolar Disorder,CYP2A6
+DB00477,Attention Deficit Hyperactivity Disorder,CYP2A6
+DB00679,Anxiety Disorder,CYP2A6
+DB00752,Major Depressive Disorder,CYP2A6
+DB01151,Attention Deficit Hyperactivity Disorder,CYP2A6
+DB00313,Bipolar Disorder,MYCN
+DB00755,Eating Disorders,MYCN
+DB00313,Bipolar Disorder,HSD3B2
+DB00555,Bipolar Disorder,HSD3B2
+DB00564,Bipolar Disorder,HSD3B2
+DB00313,Bipolar Disorder,ESR2
+DB00811,Eating Disorders,ESR2
+DB01708,Eating Disorders,ESR2
+DB00313,Bipolar Disorder,THBS1
+DB00755,Eating Disorders,THBS1
+DB00313,Bipolar Disorder,HDAC3
+DB00564,Bipolar Disorder,HDAC3
+DB00313,Bipolar Disorder,ACADSB
+DB00313,Bipolar Disorder,GSTA4
+DB01708,Eating Disorders,GSTA4
+DB00313,Bipolar Disorder,SMN2
+DB00313,Bipolar Disorder,HDAC9
+DB00313,Bipolar Disorder,RELN
+DB00313,Bipolar Disorder,MTHFR
+DB01356,Bipolar Disorder,MTHFR
+DB00313,Bipolar Disorder,GSTA2
+DB01708,Eating Disorders,GSTA2
+DB00313,Bipolar Disorder,TSPO
+DB00546,Anxiety Disorder,TSPO
+DB00628,Anxiety Disorder,TSPO
+DB01178,Anxiety Disorder,TSPO
+DB01587,Anxiety Disorder,TSPO
+DB08811,Anxiety Disorder,TSPO
+DB00321,Major Depressive Disorder,CRHR1
+DB00321,Major Depressive Disorder,GSTP1
+DB00458,Attention Deficit Hyperactivity Disorder,GSTP1
+DB01142,Anxiety Disorder,GSTP1
+DB01242,Autism Spectrum Disorder,GSTP1
+DB00321,Major Depressive Disorder,SIGMAR1
+DB00409,Schizophrenia,SIGMAR1
+DB00704,Substance Use Disorders,SIGMAR1
+DB01708,Eating Disorders,SIGMAR1
+DB00321,Major Depressive Disorder,ADRA1D
+DB00363,Schizophrenia,ADRA1D
+DB00458,Attention Deficit Hyperactivity Disorder,ADRA1D
+DB00540,Major Depressive Disorder,ADRA1D
+DB00575,Attention Deficit Hyperactivity Disorder,ADRA1D
+DB00668,Eating Disorders,ADRA1D
+DB00734,Alzheimer’s Disease,ADRA1D
+DB00777,Eating Disorders,ADRA1D
+DB01142,Anxiety Disorder,ADRA1D
+DB01162,Eating Disorders,ADRA1D
+DB01224,Anxiety Disorder,ADRA1D
+DB01403,Bipolar Disorder,ADRA1D
+DB06148,Major Depressive Disorder,ADRA1D
+DB00321,Major Depressive Disorder,KCNA1
+DB00321,Major Depressive Disorder,HRH2
+DB00334,Bipolar Disorder,HRH2
+DB00363,Schizophrenia,HRH2
+DB00408,Schizophrenia,HRH2
+DB00477,Attention Deficit Hyperactivity Disorder,HRH2
+DB00679,Anxiety Disorder,HRH2
+DB00734,Alzheimer’s Disease,HRH2
+DB00863,Eating Disorders,HRH2
+DB01142,Anxiety Disorder,HRH2
+DB01623,Schizophrenia,HRH2
+DB06216,Bipolar Disorder,HRH2
+DB00321,Major Depressive Disorder,DGCR14
+DB00321,Major Depressive Disorder,KCND2
+DB00458,Attention Deficit Hyperactivity Disorder,KCND2
+DB00321,Major Depressive Disorder,FGF13
+DB00829,Anxiety Disorder,FGF13
+DB01224,Anxiety Disorder,FGF13
+DB00321,Major Depressive Disorder,KCND3
+DB00458,Attention Deficit Hyperactivity Disorder,KCND3
+DB00472,Bipolar Disorder,KCND3
+DB00502,Attention Deficit Hyperactivity Disorder,KCND3
+DB00831,Anxiety Disorder,KCND3
+DB00321,Major Depressive Disorder,HRH4
+DB00334,Bipolar Disorder,HRH4
+DB00363,Schizophrenia,HRH4
+DB00477,Attention Deficit Hyperactivity Disorder,HRH4
+DB01142,Anxiety Disorder,HRH4
+DB06148,Major Depressive Disorder,HRH4
+DB00321,Major Depressive Disorder,KCNQ2
+DB00321,Major Depressive Disorder,NTRK1
+DB00321,Major Depressive Disorder,EGR1
+DB00363,Schizophrenia,EGR1
+DB00458,Attention Deficit Hyperactivity Disorder,EGR1
+DB00502,Attention Deficit Hyperactivity Disorder,EGR1
+DB00755,Eating Disorders,EGR1
+DB00333,Substance Use Disorders,GRIN3A
+DB01043,Alzheimer’s Disease,GRIN3A
+DB01221,Major Depressive Disorder,GRIN3A
+DB00333,Substance Use Disorders,CYP2B6
+DB00477,Attention Deficit Hyperactivity Disorder,CYP2B6
+DB00780,Anxiety Disorder,CYP2B6
+DB00842,Anxiety Disorder,CYP2B6
+DB01037,Alzheimer’s Disease,CYP2B6
+DB01043,Alzheimer’s Disease,CYP2B6
+DB01221,Major Depressive Disorder,CYP2B6
+DB00333,Substance Use Disorders,CHRNA10
+DB00333,Substance Use Disorders,OPRL1
+DB01183,Major Depressive Disorder,OPRL1
+DB00334,Bipolar Disorder,CPB2
+DB00334,Bipolar Disorder,HTR1F
+DB00363,Schizophrenia,HTR1F
+DB00734,Alzheimer’s Disease,HTR1F
+DB01224,Anxiety Disorder,HTR1F
+DB06148,Major Depressive Disorder,HTR1F
+DB00334,Bipolar Disorder,SOAT1
+DB00334,Bipolar Disorder,IRS2
+DB00755,Eating Disorders,IRS2
+DB00334,Bipolar Disorder,HTR5A
+DB00363,Schizophrenia,HTR5A
+DB06216,Bipolar Disorder,HTR5A
+DB00334,Bipolar Disorder,CFP
+DB00334,Bipolar Disorder,RGS7
+DB00334,Bipolar Disorder,HTR2B
+DB00363,Schizophrenia,HTR2B
+DB00472,Bipolar Disorder,HTR2B
+DB00490,Anxiety Disorder,HTR2B
+DB00502,Attention Deficit Hyperactivity Disorder,HTR2B
+DB00543,Anxiety Disorder,HTR2B
+DB00656,Alzheimer’s Disease,HTR2B
+DB00734,Alzheimer’s Disease,HTR2B
+DB00805,Major Depressive Disorder,HTR2B
+DB01065,Anxiety Disorder,HTR2B
+DB01142,Anxiety Disorder,HTR2B
+DB01224,Anxiety Disorder,HTR2B
+DB01239,Bipolar Disorder,HTR2B
+DB01242,Autism Spectrum Disorder,HTR2B
+DB01454,Anxiety Disorder,HTR2B
+DB06148,Major Depressive Disorder,HTR2B
+DB06216,Bipolar Disorder,HTR2B
+DB06594,Major Depressive Disorder,HTR2B
+DB00344,Major Depressive Disorder,BACE1
+DB01050,Alzheimer’s Disease,BACE1
+DB00363,Schizophrenia,CLCN4
+DB00363,Schizophrenia,NR4A1
+DB00502,Attention Deficit Hyperactivity Disorder,NR4A1
+DB01356,Bipolar Disorder,NR4A1
+DB00363,Schizophrenia,FOXA1
+DB00755,Eating Disorders,FOXA1
+DB00363,Schizophrenia,SLC1A2
+DB00502,Attention Deficit Hyperactivity Disorder,SLC1A2
+DB00363,Schizophrenia,VAPA
+DB00363,Schizophrenia,AP2B1
+DB00363,Schizophrenia,SNAP91
+DB00363,Schizophrenia,ARRB1
+DB00363,Schizophrenia,NTS
+DB05232,Substance Use Disorders,NTS
+DB06288,Major Depressive Disorder,NTS
+DB00363,Schizophrenia,ERBB4
+DB00370,Anxiety Disorder,HRH3
+DB00382,Alzheimer’s Disease,HRH3
+DB00370,Anxiety Disorder,RBP4
+DB00755,Eating Disorders,RBP4
+DB00371,Anxiety Disorder,GABRA4
+DB00371,Anxiety Disorder,PDF
+DB08878,Eating Disorders,PDF
+DB00371,Anxiety Disorder,GABRA6
+DB00371,Anxiety Disorder,GABRA1
+DB00543,Anxiety Disorder,GABRA1
+DB00801,Anxiety Disorder,GABRA1
+DB00849,Anxiety Disorder,GABRA1
+DB01588,Anxiety Disorder,GABRA1
+DB01708,Eating Disorders,GABRA1
+DB00371,Anxiety Disorder,PRKCE
+DB00371,Anxiety Disorder,GABRA2
+DB00371,Anxiety Disorder,GABRA5
+DB00382,Alzheimer’s Disease,ACHE
+DB00458,Attention Deficit Hyperactivity Disorder,ACHE
+DB00477,Attention Deficit Hyperactivity Disorder,ACHE
+DB00674,Alzheimer’s Disease,ACHE
+DB00805,Major Depressive Disorder,ACHE
+DB00843,Alzheimer’s Disease,ACHE
+DB00989,Alzheimer’s Disease,ACHE
+DB04859,Alzheimer’s Disease,ACHE
+DB04864,Alzheimer’s Disease,ACHE
+DB00382,Alzheimer’s Disease,HNMT
+DB01075,Eating Disorders,HNMT
+DB00382,Alzheimer’s Disease,PSEN1
+DB00382,Alzheimer’s Disease,BCHE
+DB00674,Alzheimer’s Disease,BCHE
+DB00755,Eating Disorders,BCHE
+DB00843,Alzheimer’s Disease,BCHE
+DB00863,Eating Disorders,BCHE
+DB00989,Alzheimer’s Disease,BCHE
+DB01075,Eating Disorders,BCHE
+DB01221,Major Depressive Disorder,BCHE
+DB04892,Alzheimer’s Disease,BCHE
+DB00382,Alzheimer’s Disease,CES2
+DB00674,Alzheimer’s Disease,CES2
+DB00989,Alzheimer’s Disease,CES2
+DB00391,Schizophrenia,CARS
+DB00458,Attention Deficit Hyperactivity Disorder,KCNH1
+DB00458,Attention Deficit Hyperactivity Disorder,SLC47A1
+DB00458,Attention Deficit Hyperactivity Disorder,PDLIM5
+DB00502,Attention Deficit Hyperactivity Disorder,PDLIM5
+DB00458,Attention Deficit Hyperactivity Disorder,MAOB
+DB00752,Major Depressive Disorder,MAOB
+DB00780,Anxiety Disorder,MAOB
+DB01037,Alzheimer’s Disease,MAOB
+DB01247,Major Depressive Disorder,MAOB
+DB01577,Attention Deficit Hyperactivity Disorder,MAOB
+DB04832,Major Depressive Disorder,MAOB
+DB00472,Bipolar Disorder,SLC17A7
+DB01151,Attention Deficit Hyperactivity Disorder,SLC17A7
+DB01356,Bipolar Disorder,SLC17A7
+DB00472,Bipolar Disorder,KCNA3
+DB00472,Bipolar Disorder,CORT
+DB00829,Anxiety Disorder,CORT
+DB00472,Bipolar Disorder,EDN1
+DB00668,Eating Disorders,EDN1
+DB01065,Anxiety Disorder,EDN1
+DB00472,Bipolar Disorder,WNT3A
+DB00472,Bipolar Disorder,S100B
+DB00502,Attention Deficit Hyperactivity Disorder,S100B
+DB00472,Bipolar Disorder,CYP2C8
+DB00540,Major Depressive Disorder,CYP2C8
+DB00780,Anxiety Disorder,CYP2C8
+DB00472,Bipolar Disorder,ZNF326
+DB00472,Bipolar Disorder,CCL5
+DB01065,Anxiety Disorder,CCL5
+DB00472,Bipolar Disorder,NR3C1
+DB01454,Anxiety Disorder,NR3C1
+DB00472,Bipolar Disorder,KCNC1
+DB00472,Bipolar Disorder,GRIK2
+DB00849,Anxiety Disorder,GRIK2
+DB00472,Bipolar Disorder,SOX2
+DB00755,Eating Disorders,SOX2
+DB00472,Bipolar Disorder,SKP1
+DB00472,Bipolar Disorder,PLA2G10
+DB00472,Bipolar Disorder,PLA2G2A
+DB00477,Attention Deficit Hyperactivity Disorder,ATP8A1
+DB00831,Anxiety Disorder,ATP8A1
+DB00477,Attention Deficit Hyperactivity Disorder,SNAP25
+DB00477,Attention Deficit Hyperactivity Disorder,SOD3
+DB00477,Attention Deficit Hyperactivity Disorder,FKBP4
+DB00477,Attention Deficit Hyperactivity Disorder,FEN1
+DB00477,Attention Deficit Hyperactivity Disorder,DAO
+DB00490,Anxiety Disorder,OXTR
+DB01065,Anxiety Disorder,OXTR
+DB00492,Eating Disorders,ACE
+DB01340,Substance Use Disorders,ACE
+DB01348,Substance Use Disorders,ACE
+DB01593,Eating Disorders,ACE
+DB00492,Eating Disorders,KL
+DB00502,Attention Deficit Hyperactivity Disorder,MLST8
+DB00502,Attention Deficit Hyperactivity Disorder,ABCG2
+DB00502,Attention Deficit Hyperactivity Disorder,FOSB
+DB00502,Attention Deficit Hyperactivity Disorder,PCM1
+DB00502,Attention Deficit Hyperactivity Disorder,DUSP6
+DB00502,Attention Deficit Hyperactivity Disorder,RTN4
+DB00502,Attention Deficit Hyperactivity Disorder,CPE
+DB00502,Attention Deficit Hyperactivity Disorder,NPPA
+DB00502,Attention Deficit Hyperactivity Disorder,DTNA
+DB00502,Attention Deficit Hyperactivity Disorder,BZRAP1
+DB00502,Attention Deficit Hyperactivity Disorder,PENK
+DB00502,Attention Deficit Hyperactivity Disorder,HSP90AA1
+DB01238,Autism Spectrum Disorder,HSP90AA1
+DB00504,Major Depressive Disorder,CHRNA2
+DB00555,Bipolar Disorder,CYP17A1
+DB00564,Bipolar Disorder,CYP17A1
+DB00555,Bipolar Disorder,HSPG2
+DB00555,Bipolar Disorder,SCN2A
+DB00555,Bipolar Disorder,KCNK18
+DB00564,Bipolar Disorder,MYL9
+DB00564,Bipolar Disorder,PPP1R12A
+DB00564,Bipolar Disorder,PPIG
+DB00564,Bipolar Disorder,EIF2AK3
+DB00668,Eating Disorders,EIF2AK3
+DB08912,Eating Disorders,EIF2AK3
+DB00564,Bipolar Disorder,HMBS
+DB00564,Bipolar Disorder,NFE2L2
+DB01065,Anxiety Disorder,NFE2L2
+DB01151,Attention Deficit Hyperactivity Disorder,NFE2L2
+DB01592,Eating Disorders,NFE2L2
+DB01593,Eating Disorders,NFE2L2
+DB00564,Bipolar Disorder,PTK2
+DB00564,Bipolar Disorder,RRM1
+DB00564,Bipolar Disorder,ERBB2
+DB01065,Anxiety Disorder,ERBB2
+DB00564,Bipolar Disorder,CD40LG
+DB00564,Bipolar Disorder,HDAC7
+DB00575,Attention Deficit Hyperactivity Disorder,AOC3
+DB00780,Anxiety Disorder,AOC3
+DB00575,Attention Deficit Hyperactivity Disorder,IKBKG
+DB00575,Attention Deficit Hyperactivity Disorder,LTF
+DB00633,Bipolar Disorder,LTF
+DB00633,Bipolar Disorder,CXCL10
+DB00755,Eating Disorders,CXCL10
+DB00633,Bipolar Disorder,IL15
+DB00755,Eating Disorders,IL15
+DB00829,Anxiety Disorder,IL15
+DB01065,Anxiety Disorder,IL15
+DB00633,Bipolar Disorder,UCP2
+DB00755,Eating Disorders,UCP2
+DB00654,Substance Use Disorders,PTGFR
+DB00654,Substance Use Disorders,TYR
+DB00654,Substance Use Disorders,MMP3
+DB01065,Anxiety Disorder,MMP3
+DB01454,Anxiety Disorder,MMP3
+DB00668,Eating Disorders,SOD2
+DB00668,Eating Disorders,IAPP
+DB00668,Eating Disorders,SLC9A1
+DB00668,Eating Disorders,SCT
+DB00668,Eating Disorders,COLQ
+DB00668,Eating Disorders,ADRB3
+DB01580,Anxiety Disorder,ADRB3
+DB00668,Eating Disorders,ANGPTL2
+DB00668,Eating Disorders,ADRB2
+DB01151,Attention Deficit Hyperactivity Disorder,ADRB2
+DB01580,Anxiety Disorder,ADRB2
+DB04842,Schizophrenia,ADRB2
+DB06216,Bipolar Disorder,ADRB2
+DB00668,Eating Disorders,FOXO3
+DB01065,Anxiety Disorder,FOXO3
+DB00668,Eating Disorders,PNKD
+DB00668,Eating Disorders,KLK4
+DB00674,Alzheimer’s Disease,KCNB1
+DB00843,Alzheimer’s Disease,KCNB1
+DB00715,Anxiety Disorder,EFHD1
+DB04832,Major Depressive Disorder,EFHD1
+DB00734,Alzheimer’s Disease,SLC17A6
+DB00752,Major Depressive Disorder,ATN1
+DB00752,Major Depressive Disorder,KDM1A
+DB00755,Eating Disorders,RXRA
+DB00755,Eating Disorders,SIRT2
+DB00755,Eating Disorders,GDNF
+DB01065,Anxiety Disorder,GDNF
+DB00755,Eating Disorders,RARS
+DB00755,Eating Disorders,GJB1
+DB00755,Eating Disorders,DUSP1
+DB00755,Eating Disorders,ADAM15
+DB00755,Eating Disorders,RARA
+DB00755,Eating Disorders,CEBPA
+DB00755,Eating Disorders,RARB
+DB00755,Eating Disorders,MAP2K1
+DB00755,Eating Disorders,AKAP12
+DB00755,Eating Disorders,RAE1
+DB00755,Eating Disorders,CCNH
+DB00755,Eating Disorders,TGM4
+DB00755,Eating Disorders,S100A10
+DB00755,Eating Disorders,FLG
+DB00755,Eating Disorders,NCF1
+DB00755,Eating Disorders,NEFM
+DB00755,Eating Disorders,DIO3
+DB01065,Anxiety Disorder,DIO3
+DB00755,Eating Disorders,KRT14
+DB00755,Eating Disorders,RARRES3
+DB00755,Eating Disorders,MECOM
+DB00755,Eating Disorders,KIT
+DB00755,Eating Disorders,ARL6IP5
+DB00755,Eating Disorders,CCR1
+DB00755,Eating Disorders,PLAT
+DB01356,Bipolar Disorder,PLAT
+DB00755,Eating Disorders,RBFOX3
+DB00755,Eating Disorders,MNX1
+DB00755,Eating Disorders,ALDH1A1
+DB00755,Eating Disorders,OTX2
+DB00755,Eating Disorders,KLF4
+DB00755,Eating Disorders,FOXO1
+DB00755,Eating Disorders,CCR9
+DB00755,Eating Disorders,MEF2C
+DB00755,Eating Disorders,ALDH3A1
+DB05289,Alzheimer’s Disease,ALDH3A1
+DB00755,Eating Disorders,APOE
+DB00755,Eating Disorders,IGFBP5
+DB00755,Eating Disorders,BMP2
+DB00755,Eating Disorders,S100P
+DB00755,Eating Disorders,NR1H4
+DB00755,Eating Disorders,RB1
+DB00755,Eating Disorders,CTSD
+DB00755,Eating Disorders,ADAMTS5
+DB00755,Eating Disorders,HOXB13
+DB00755,Eating Disorders,CA2
+DB00755,Eating Disorders,PTGES
+DB00755,Eating Disorders,CDH1
+DB01221,Major Depressive Disorder,CDH1
+DB00755,Eating Disorders,PDCD4
+DB00755,Eating Disorders,GATA5
+DB00755,Eating Disorders,RAF1
+DB08912,Eating Disorders,RAF1
+DB00755,Eating Disorders,MST1
+DB00755,Eating Disorders,ITGAX
+DB00755,Eating Disorders,KLK5
+DB01593,Eating Disorders,KLK5
+DB00755,Eating Disorders,CYSLTR2
+DB00755,Eating Disorders,ISG15
+DB00755,Eating Disorders,SHH
+DB00755,Eating Disorders,IRS1
+DB00755,Eating Disorders,AQP9
+DB00755,Eating Disorders,EPO
+DB00755,Eating Disorders,RARG
+DB00755,Eating Disorders,PAX6
+DB00755,Eating Disorders,CD79A
+DB00755,Eating Disorders,CDK4
+DB00755,Eating Disorders,NR6A1
+DB00755,Eating Disorders,AZU1
+DB00755,Eating Disorders,STAT1
+DB00755,Eating Disorders,SCARB2
+DB00755,Eating Disorders,PELP1
+DB00755,Eating Disorders,RBP2
+DB00755,Eating Disorders,MAP2K2
+DB00755,Eating Disorders,RXRB
+DB00755,Eating Disorders,CRABP1
+DB00755,Eating Disorders,FABP5
+DB00755,Eating Disorders,ALPL
+DB00755,Eating Disorders,SERPINE1
+DB00755,Eating Disorders,IRF1
+DB00755,Eating Disorders,SRC
+DB01593,Eating Disorders,SRC
+DB00755,Eating Disorders,FUT4
+DB00755,Eating Disorders,ADIG
+DB00755,Eating Disorders,MYC
+DB01356,Bipolar Disorder,MYC
+DB00755,Eating Disorders,RXRG
+DB00755,Eating Disorders,TFAP2A
+DB00755,Eating Disorders,STS
+DB00755,Eating Disorders,RARRES1
+DB00755,Eating Disorders,SH3GLB2
+DB00755,Eating Disorders,LCN2
+DB00755,Eating Disorders,FBLN1
+DB00755,Eating Disorders,FN1
+DB00755,Eating Disorders,MMP7
+DB00755,Eating Disorders,ANK1
+DB00755,Eating Disorders,CRABP2
+DB00755,Eating Disorders,NPHS1
+DB00755,Eating Disorders,LECT1
+DB00755,Eating Disorders,NRTN
+DB00755,Eating Disorders,CEBPB
+DB00755,Eating Disorders,SMPD3
+DB00755,Eating Disorders,OLFM4
+DB00755,Eating Disorders,CSF3
+DB01356,Bipolar Disorder,CSF3
+DB00755,Eating Disorders,ATP7A
+DB00755,Eating Disorders,CTNNB1
+DB01356,Bipolar Disorder,CTNNB1
+DB00755,Eating Disorders,MMP11
+DB00755,Eating Disorders,DHRS3
+DB00755,Eating Disorders,CBR3
+DB00755,Eating Disorders,ALK
+DB00755,Eating Disorders,IL13
+DB00755,Eating Disorders,SPN
+DB00755,Eating Disorders,TGFB3
+DB00755,Eating Disorders,ITGAM
+DB00755,Eating Disorders,NEDD9
+DB00755,Eating Disorders,COL6A3
+DB00755,Eating Disorders,MSX1
+DB00755,Eating Disorders,DHRS9
+DB00755,Eating Disorders,LCP2
+DB00755,Eating Disorders,INS
+DB00755,Eating Disorders,WNT5A
+DB00755,Eating Disorders,RAI1
+DB00755,Eating Disorders,ANPEP
+DB00755,Eating Disorders,ALPP
+DB00755,Eating Disorders,NME1
+DB00755,Eating Disorders,EZH2
+DB00811,Eating Disorders,EZH2
+DB00755,Eating Disorders,GPRC5A
+DB00755,Eating Disorders,HSPA5
+DB01356,Bipolar Disorder,HSPA5
+DB00755,Eating Disorders,AQP5
+DB00755,Eating Disorders,BMP7
+DB00755,Eating Disorders,SNAI2
+DB01221,Major Depressive Disorder,SNAI2
+DB00755,Eating Disorders,HSD17B1
+DB01708,Eating Disorders,HSD17B1
+DB00755,Eating Disorders,TFRC
+DB00755,Eating Disorders,MYOG
+DB00755,Eating Disorders,NR0B2
+DB05232,Substance Use Disorders,NR0B2
+DB00755,Eating Disorders,TGFB2
+DB00755,Eating Disorders,TRPC3
+DB00755,Eating Disorders,PTHLH
+DB00755,Eating Disorders,CYP26A1
+DB00755,Eating Disorders,TAL2
+DB00755,Eating Disorders,CCND2
+DB00755,Eating Disorders,CUBN
+DB00755,Eating Disorders,CD40
+DB00755,Eating Disorders,HDX
+DB00755,Eating Disorders,LTBP1
+DB00755,Eating Disorders,HGF
+DB00755,Eating Disorders,GATA6
+DB00755,Eating Disorders,IFIT5
+DB00755,Eating Disorders,BIRC3
+DB00755,Eating Disorders,TGM2
+DB00755,Eating Disorders,NTF3
+DB00755,Eating Disorders,MFN2
+DB00755,Eating Disorders,IL4
+DB01221,Major Depressive Disorder,IL4
+DB01708,Eating Disorders,IL4
+DB00755,Eating Disorders,LYN
+DB00755,Eating Disorders,PODXL
+DB00755,Eating Disorders,SOST
+DB00755,Eating Disorders,CERK
+DB00755,Eating Disorders,IL5
+DB00755,Eating Disorders,PTGDS
+DB00755,Eating Disorders,CDX2
+DB00755,Eating Disorders,MGAT1
+DB00755,Eating Disorders,TLR2
+DB05708,Alzheimer’s Disease,TLR2
+DB00755,Eating Disorders,IVL
+DB00755,Eating Disorders,LXN
+DB00755,Eating Disorders,TERT
+DB00755,Eating Disorders,IGFBP6
+DB00755,Eating Disorders,CEBPE
+DB00755,Eating Disorders,BMP4
+DB00755,Eating Disorders,THBD
+DB00755,Eating Disorders,PLG
+DB01593,Eating Disorders,PLG
+DB00755,Eating Disorders,CYP26B1
+DB00755,Eating Disorders,PRDM2
+DB00755,Eating Disorders,NDUFAF4
+DB00755,Eating Disorders,MEIS1
+DB00755,Eating Disorders,ACKR2
+DB00755,Eating Disorders,CYBB
+DB00755,Eating Disorders,NR2F2
+DB00755,Eating Disorders,TBX21
+DB00755,Eating Disorders,CDX1
+DB00755,Eating Disorders,ELF3
+DB00755,Eating Disorders,ALPPL2
+DB00755,Eating Disorders,SPI1
+DB00755,Eating Disorders,NCOR1
+DB00755,Eating Disorders,CSNK1E
+DB00755,Eating Disorders,ADAM28
+DB00755,Eating Disorders,IL6R
+DB00755,Eating Disorders,IGF2
+DB00755,Eating Disorders,IGFBP3
+DB00755,Eating Disorders,PHB
+DB00780,Anxiety Disorder,GPT
+DB00780,Anxiety Disorder,GPT2
+DB00811,Eating Disorders,IL12A
+DB00811,Eating Disorders,ENPP1
+DB00811,Eating Disorders,ADK
+DB00811,Eating Disorders,ELL3
+DB00811,Eating Disorders,IL12B
+DB00829,Anxiety Disorder,AKR1C2
+DB01050,Alzheimer’s Disease,AKR1C2
+DB01553,Anxiety Disorder,AKR1C2
+DB05289,Alzheimer’s Disease,AKR1C2
+DB00829,Anxiety Disorder,AKR1C3
+DB01050,Alzheimer’s Disease,AKR1C3
+DB01553,Anxiety Disorder,AKR1C3
+DB01558,Anxiety Disorder,AKR1C3
+DB05289,Alzheimer’s Disease,AKR1C3
+DB00829,Anxiety Disorder,AKR1C1
+DB01050,Alzheimer’s Disease,AKR1C1
+DB01553,Anxiety Disorder,AKR1C1
+DB05289,Alzheimer’s Disease,AKR1C1
+DB00829,Anxiety Disorder,AKR1C4
+DB01553,Anxiety Disorder,AKR1C4
+DB00831,Anxiety Disorder,DHCR24
+DB00831,Anxiety Disorder,CALY
+DB00831,Anxiety Disorder,S100A4
+DB00831,Anxiety Disorder,CALM3
+DB01100,OCD & Tourette Syndrome,CALM3
+DB00849,Anxiety Disorder,GRIA2
+DB05232,Substance Use Disorders,GRIA2
+DB00849,Anxiety Disorder,CHRNA4
+DB00849,Anxiety Disorder,CHRFAM7A
+DB01043,Alzheimer’s Disease,CHRFAM7A
+DB05708,Alzheimer’s Disease,CHRFAM7A
+DB00989,Alzheimer’s Disease,CES1
+DB00989,Alzheimer’s Disease,HSF1
+DB01050,Alzheimer’s Disease,HSF1
+DB01593,Eating Disorders,HSF1
+DB01037,Alzheimer’s Disease,HMOX1
+DB01065,Anxiety Disorder,HMOX1
+DB01151,Attention Deficit Hyperactivity Disorder,HMOX1
+DB01221,Major Depressive Disorder,HMOX1
+DB08842,Bipolar Disorder,HMOX1
+DB01037,Alzheimer’s Disease,ADAM10
+DB01065,Anxiety Disorder,ADAM10
+DB01037,Alzheimer’s Disease,DDC
+DB01356,Bipolar Disorder,DDC
+DB01043,Alzheimer’s Disease,OPA1
+DB01050,Alzheimer’s Disease,SLC22A7
+DB01050,Alzheimer’s Disease,SLC5A8
+DB01050,Alzheimer’s Disease,MAPKAPK2
+DB05289,Alzheimer’s Disease,MAPKAPK2
+DB01050,Alzheimer’s Disease,HPGD
+DB05289,Alzheimer’s Disease,HPGD
+DB01050,Alzheimer’s Disease,SLC22A6
+DB01050,Alzheimer’s Disease,SLC22A1
+DB01050,Alzheimer’s Disease,SLC22A9
+DB01050,Alzheimer’s Disease,CHUK
+DB01050,Alzheimer’s Disease,SLC22A11
+DB01050,Alzheimer’s Disease,PABPN1
+DB01050,Alzheimer’s Disease,SULT1E1
+DB01065,Anxiety Disorder,CFLAR
+DB01065,Anxiety Disorder,NPAS4
+DB01065,Anxiety Disorder,TSHB
+DB01065,Anxiety Disorder,EPX
+DB01065,Anxiety Disorder,S100G
+DB01065,Anxiety Disorder,HIF1A
+DB01592,Eating Disorders,HIF1A
+DB01593,Eating Disorders,HIF1A
+DB01708,Eating Disorders,HIF1A
+DB01065,Anxiety Disorder,ALAS2
+DB01065,Anxiety Disorder,KISS1
+DB01065,Anxiety Disorder,FLT1
+DB01065,Anxiety Disorder,MPO
+DB01065,Anxiety Disorder,MTNR1B
+DB06594,Major Depressive Disorder,MTNR1B
+DB01065,Anxiety Disorder,HSPB1
+DB01065,Anxiety Disorder,HSPB2-C11orf52
+DB01065,Anxiety Disorder,MTNR1A
+DB06594,Major Depressive Disorder,MTNR1A
+DB01065,Anxiety Disorder,CREBBP
+DB01065,Anxiety Disorder,GNRH1
+DB01183,Major Depressive Disorder,GNRH1
+DB01065,Anxiety Disorder,CYP1B1
+DB01065,Anxiety Disorder,ALOX5
+DB04864,Alzheimer’s Disease,ALOX5
+DB01065,Anxiety Disorder,OCLN
+DB01065,Anxiety Disorder,GSR
+DB01065,Anxiety Disorder,CYCS
+DB08842,Bipolar Disorder,CYCS
+DB01065,Anxiety Disorder,APAF1
+DB01065,Anxiety Disorder,PDE1A
+DB01065,Anxiety Disorder,CRY1
+DB01065,Anxiety Disorder,SPHK1
+DB01065,Anxiety Disorder,DIO2
+DB01065,Anxiety Disorder,HSPB3
+DB01065,Anxiety Disorder,EYA3
+DB01065,Anxiety Disorder,GPC3
+DB01065,Anxiety Disorder,PRNP
+DB01065,Anxiety Disorder,BCL2L11
+DB01065,Anxiety Disorder,NOS1
+DB01065,Anxiety Disorder,NQO2
+DB01065,Anxiety Disorder,TSHR
+DB01065,Anxiety Disorder,ID1
+DB01065,Anxiety Disorder,PER1
+DB01065,Anxiety Disorder,RORB
+DB01075,Eating Disorders,KCNJ4
+DB01100,OCD & Tourette Syndrome,STAT5A
+DB01100,OCD & Tourette Syndrome,STAT3
+DB01100,OCD & Tourette Syndrome,STAT5B
+DB01104,Anxiety Disorder,TPT1
+DB01110,Eating Disorders,KCNMB3
+DB01110,Eating Disorders,CDR1
+DB01110,Eating Disorders,KCNMB2
+DB01110,Eating Disorders,KCNH7
+DB01162,Eating Disorders,KCNH7
+DB01110,Eating Disorders,KCNN2
+DB01110,Eating Disorders,KCNMA1
+DB01110,Eating Disorders,KCNH6
+DB01162,Eating Disorders,KCNH6
+DB01110,Eating Disorders,KCNMB1
+DB01110,Eating Disorders,KCNN3
+DB01110,Eating Disorders,KCNMB4
+DB01110,Eating Disorders,CYP51A1
+DB01110,Eating Disorders,KCNN4
+DB01134,Eating Disorders,NR3C2
+DB01151,Attention Deficit Hyperactivity Disorder,GAP43
+DB01151,Attention Deficit Hyperactivity Disorder,SMPD1
+DB01156,Attention Deficit Hyperactivity Disorder,PLA2G4A
+DB01156,Attention Deficit Hyperactivity Disorder,CHRNA3
+DB01162,Eating Disorders,EDNRA
+DB01162,Eating Disorders,EDNRB
+DB01162,Eating Disorders,PGK1
+DB01183,Major Depressive Disorder,LBR
+DB01183,Major Depressive Disorder,CYLD
+DB01183,Major Depressive Disorder,ASPRV1
+DB01221,Major Depressive Disorder,GRIN2C
+DB01221,Major Depressive Disorder,ALB
+DB01593,Eating Disorders,ALB
+DB01221,Major Depressive Disorder,ADNP
+DB01221,Major Depressive Disorder,GRIN2D
+DB01221,Major Depressive Disorder,CSN3
+DB01221,Major Depressive Disorder,GRIN3B
+DB01221,Major Depressive Disorder,SLC2A3
+DB01221,Major Depressive Disorder,CASP6
+DB01221,Major Depressive Disorder,CDC42
+DB01221,Major Depressive Disorder,SLC2A14
+DB01221,Major Depressive Disorder,SNAI1
+DB01356,Bipolar Disorder,SNAI1
+DB01224,Anxiety Disorder,PRDM16
+DB01340,Substance Use Disorders,
+DB01356,Bipolar Disorder,IMPA2
+DB01356,Bipolar Disorder,ZFYVE1
+DB01356,Bipolar Disorder,AQP2
+DB01356,Bipolar Disorder,PIN1
+DB01356,Bipolar Disorder,RELA
+DB01593,Eating Disorders,RELA
+DB01356,Bipolar Disorder,INPP1
+DB01356,Bipolar Disorder,CDK5
+DB08842,Bipolar Disorder,CDK5
+DB01356,Bipolar Disorder,NR4A2
+DB05232,Substance Use Disorders,NR4A2
+DB01356,Bipolar Disorder,IMPA1
+DB01356,Bipolar Disorder,MAP3K8
+DB01356,Bipolar Disorder,DNAJC5
+DB01356,Bipolar Disorder,PON1
+DB01356,Bipolar Disorder,BCL2
+DB01440,Major Depressive Disorder,SLC52A2
+DB01440,Major Depressive Disorder,GABRB1
+DB01454,Anxiety Disorder,ALDH2
+DB01454,Anxiety Disorder,ATG5
+DB01577,Attention Deficit Hyperactivity Disorder,NFKB1
+DB01593,Eating Disorders,NFKB1
+DB01577,Attention Deficit Hyperactivity Disorder,SLC18A1
+DB01592,Eating Disorders,ALKBH2
+DB01592,Eating Disorders,CDKN2A
+DB01592,Eating Disorders,CP
+DB01592,Eating Disorders,HBB
+DB01592,Eating Disorders,LIG3
+DB01592,Eating Disorders,PNMT
+DB01592,Eating Disorders,ACMSD
+DB01593,Eating Disorders,ACMSD
+DB01592,Eating Disorders,G6PD
+DB01708,Eating Disorders,G6PD
+DB01592,Eating Disorders,ALKBH3
+DB01592,Eating Disorders,UROD
+DB01592,Eating Disorders,MAPK7
+DB01593,Eating Disorders,PTPN1
+DB01593,Eating Disorders,CDIPT
+DB01593,Eating Disorders,PDE4A
+DB08811,Anxiety Disorder,PDE4A
+DB01593,Eating Disorders,SLC30A2
+DB01593,Eating Disorders,C1QBP
+DB01593,Eating Disorders,HAAO
+DB01593,Eating Disorders,HSD11B2
+DB01593,Eating Disorders,CLPP
+DB01593,Eating Disorders,PRDX4
+DB01593,Eating Disorders,FOXH1
+DB01593,Eating Disorders,STAT4
+DB01593,Eating Disorders,HRG
+DB01593,Eating Disorders,PTS
+DB01593,Eating Disorders,OTC
+DB01593,Eating Disorders,KLK8
+DB01593,Eating Disorders,MYB
+DB01593,Eating Disorders,TPO
+DB01593,Eating Disorders,SLC15A1
+DB01593,Eating Disorders,GLRA1
+DB01593,Eating Disorders,ZACN
+DB01593,Eating Disorders,MTF1
+DB01593,Eating Disorders,ETV4
+DB01593,Eating Disorders,CUX1
+DB01606,Eating Disorders,RNF123
+DB01708,Eating Disorders,CRISP3
+DB01708,Eating Disorders,TNFRSF11B
+DB01708,Eating Disorders,CCR2
+DB01708,Eating Disorders,TXNIP
+DB01708,Eating Disorders,NR1I3
+DB01708,Eating Disorders,H6PD
+DB01708,Eating Disorders,IMMT
+DB04842,Schizophrenia,CACNG1
+DB04864,Alzheimer’s Disease,AMY2A
+DB04872,Major Depressive Disorder,TACR3
+DB05232,Substance Use Disorders,LGI1
+DB05232,Substance Use Disorders,CACNA1I
+DB05232,Substance Use Disorders,GRP
+DB05232,Substance Use Disorders,SENP1
+DB05232,Substance Use Disorders,NFKBIZ
+DB05232,Substance Use Disorders,ASIC1
+DB05289,Alzheimer’s Disease,ALDH3A2
+DB05289,Alzheimer’s Disease,FAAH
+DB05708,Alzheimer’s Disease,TLR10
+DB05708,Alzheimer’s Disease,TLR6
+DB05708,Alzheimer’s Disease,TLR1
+DB06594,Major Depressive Disorder,GPR50
+DB08811,Anxiety Disorder,PDE2A
+DB08811,Anxiety Disorder,PDE10A
+DB08811,Anxiety Disorder,PDE3A
+DB08838,Anxiety Disorder,NISCH
+DB08838,Anxiety Disorder,CHRNA1
+DB08838,Anxiety Disorder,CACNA1B
+DB08838,Anxiety Disorder,ASIC3
+DB08912,Eating Disorders,BRAF
+DB08912,Eating Disorders,NEK11
+DB08912,Eating Disorders,SIK1
+DB08912,Eating Disorders,LIMK1

@@ -1,0 +1,2433 @@
+Drug_id,Disease,Gene_name
+CLONIDINE,Attention Deficit Hyperactivity Disorder,ADRA2A
+CLONIDINE,Autism Spectrum Disorder,ADRA2A
+CLONIDINE,Substance Use Disorders,ADRA2A
+CLONIDINE,Post Traumatic Stress Disorder,ADRA2A
+CLONIDINE,Anxiety Disorder,ADRA2A
+DEXMEDETOMIDINE,Schizophrenia,ADRA2A
+DEXMEDETOMIDINE,Autism Spectrum Disorder,ADRA2A
+DEXMEDETOMIDINE,Substance Use Disorders,ADRA2A
+DEXMEDETOMIDINE,Alzheimer’s Disease,ADRA2A
+DEXMEDETOMIDINE,Anxiety Disorder,ADRA2A
+IDAZOXAN,Major Depressive Disorder,ADRA2A
+IDAZOXAN,Alzheimer’s Disease,ADRA2A
+GUANFACINE,OCD & Tourette Syndrome,ADRA2A
+GUANFACINE,Attention Deficit Hyperactivity Disorder,ADRA2A
+GUANFACINE,Alzheimer’s Disease,ADRA2A
+GUANFACINE,Post Traumatic Stress Disorder,ADRA2A
+GUANFACINE,Substance Use Disorders,ADRA2A
+MIRTAZAPINE,Major Depressive Disorder,ADRA2A
+MIRTAZAPINE,Substance Use Disorders,ADRA2A
+MIRTAZAPINE,Schizophrenia,ADRA2A
+MIRTAZAPINE,Autism Spectrum Disorder,ADRA2A
+MIRTAZAPINE,Anxiety Disorder,ADRA2A
+LOFEXIDINE,Substance Use Disorders,ADRA2A
+DROXIDOPA,Attention Deficit Hyperactivity Disorder,ADRA2A
+NOREPINEPHRINE,Major Depressive Disorder,ADRA2A
+EPINEPHRINE,Substance Use Disorders,ADRA2A
+EPINEPHRINE,Major Depressive Disorder,ADRA2A
+CLONIDINE,Attention Deficit Hyperactivity Disorder,ADRA2C
+CLONIDINE,Autism Spectrum Disorder,ADRA2C
+CLONIDINE,Substance Use Disorders,ADRA2C
+CLONIDINE,Post Traumatic Stress Disorder,ADRA2C
+CLONIDINE,Anxiety Disorder,ADRA2C
+DEXMEDETOMIDINE,Schizophrenia,ADRA2C
+DEXMEDETOMIDINE,Autism Spectrum Disorder,ADRA2C
+DEXMEDETOMIDINE,Substance Use Disorders,ADRA2C
+DEXMEDETOMIDINE,Alzheimer’s Disease,ADRA2C
+DEXMEDETOMIDINE,Anxiety Disorder,ADRA2C
+IDAZOXAN,Major Depressive Disorder,ADRA2C
+IDAZOXAN,Alzheimer’s Disease,ADRA2C
+GUANFACINE,OCD & Tourette Syndrome,ADRA2C
+GUANFACINE,Attention Deficit Hyperactivity Disorder,ADRA2C
+GUANFACINE,Alzheimer’s Disease,ADRA2C
+GUANFACINE,Post Traumatic Stress Disorder,ADRA2C
+GUANFACINE,Substance Use Disorders,ADRA2C
+MIRTAZAPINE,Major Depressive Disorder,ADRA2C
+MIRTAZAPINE,Substance Use Disorders,ADRA2C
+MIRTAZAPINE,Schizophrenia,ADRA2C
+MIRTAZAPINE,Autism Spectrum Disorder,ADRA2C
+MIRTAZAPINE,Anxiety Disorder,ADRA2C
+LOFEXIDINE,Substance Use Disorders,ADRA2C
+DROXIDOPA,Attention Deficit Hyperactivity Disorder,ADRA2C
+NOREPINEPHRINE,Major Depressive Disorder,ADRA2C
+EPINEPHRINE,Substance Use Disorders,ADRA2C
+EPINEPHRINE,Major Depressive Disorder,ADRA2C
+ORM-12741,Alzheimer’s Disease,ADRA2C
+PHENYLEPHRINE,Post Traumatic Stress Disorder,ADRA1A
+DOXAZOSIN,Post Traumatic Stress Disorder,ADRA1A
+DOXAZOSIN,Substance Use Disorders,ADRA1A
+CARVEDILOL,Post Traumatic Stress Disorder,ADRA1A
+SERTINDOLE,Schizophrenia,ADRA1A
+SERTINDOLE,Anxiety Disorder,ADRA1A
+SERTINDOLE,Major Depressive Disorder,ADRA1A
+TRIMIPRAMINE,Major Depressive Disorder,ADRA1A
+TRIMIPRAMINE,Schizophrenia,ADRA1A
+TRIMIPRAMINE,Anxiety Disorder,ADRA1A
+PRAZOSIN,Anxiety Disorder,ADRA1A
+PRAZOSIN,Substance Use Disorders,ADRA1A
+PRAZOSIN,Post Traumatic Stress Disorder,ADRA1A
+DROXIDOPA,Attention Deficit Hyperactivity Disorder,ADRA1A
+NOREPINEPHRINE,Major Depressive Disorder,ADRA1A
+EPINEPHRINE,Substance Use Disorders,ADRA1A
+EPINEPHRINE,Major Depressive Disorder,ADRA1A
+TEDATIOXETINE,Major Depressive Disorder,ADRA1A
+PHENYLEPHRINE,Post Traumatic Stress Disorder,ADRA1D
+DOXAZOSIN,Post Traumatic Stress Disorder,ADRA1D
+DOXAZOSIN,Substance Use Disorders,ADRA1D
+CARVEDILOL,Post Traumatic Stress Disorder,ADRA1D
+SERTINDOLE,Schizophrenia,ADRA1D
+SERTINDOLE,Anxiety Disorder,ADRA1D
+SERTINDOLE,Major Depressive Disorder,ADRA1D
+TRIMIPRAMINE,Major Depressive Disorder,ADRA1D
+TRIMIPRAMINE,Schizophrenia,ADRA1D
+TRIMIPRAMINE,Anxiety Disorder,ADRA1D
+PRAZOSIN,Anxiety Disorder,ADRA1D
+PRAZOSIN,Substance Use Disorders,ADRA1D
+PRAZOSIN,Post Traumatic Stress Disorder,ADRA1D
+DROXIDOPA,Attention Deficit Hyperactivity Disorder,ADRA1D
+NOREPINEPHRINE,Major Depressive Disorder,ADRA1D
+EPINEPHRINE,Substance Use Disorders,ADRA1D
+EPINEPHRINE,Major Depressive Disorder,ADRA1D
+PHENYLEPHRINE,Post Traumatic Stress Disorder,ADRA1B
+DOXAZOSIN,Post Traumatic Stress Disorder,ADRA1B
+DOXAZOSIN,Substance Use Disorders,ADRA1B
+CARVEDILOL,Post Traumatic Stress Disorder,ADRA1B
+SERTINDOLE,Schizophrenia,ADRA1B
+SERTINDOLE,Anxiety Disorder,ADRA1B
+SERTINDOLE,Major Depressive Disorder,ADRA1B
+TRIMIPRAMINE,Major Depressive Disorder,ADRA1B
+TRIMIPRAMINE,Schizophrenia,ADRA1B
+TRIMIPRAMINE,Anxiety Disorder,ADRA1B
+PRAZOSIN,Anxiety Disorder,ADRA1B
+PRAZOSIN,Substance Use Disorders,ADRA1B
+PRAZOSIN,Post Traumatic Stress Disorder,ADRA1B
+DROXIDOPA,Attention Deficit Hyperactivity Disorder,ADRA1B
+NOREPINEPHRINE,Major Depressive Disorder,ADRA1B
+EPINEPHRINE,Substance Use Disorders,ADRA1B
+EPINEPHRINE,Major Depressive Disorder,ADRA1B
+LITHIUM CARBONATE,Major Depressive Disorder,IMPA1
+LITHIUM CARBONATE,Anxiety Disorder,IMPA1
+LITHIUM CARBONATE,Substance Use Disorders,IMPA1
+LITHIUM CARBONATE,Bipolar Disorder,IMPA1
+LITHIUM CARBONATE,Schizophrenia,IMPA1
+LITHIUM CARBONATE,Autism Spectrum Disorder,IMPA1
+LITHIUM CARBONATE,Alzheimer’s Disease,IMPA1
+LITHIUM CITRATE,Bipolar Disorder,IMPA1
+LITHIUM CARBONATE,Major Depressive Disorder,GSK3A
+LITHIUM CARBONATE,Anxiety Disorder,GSK3A
+LITHIUM CARBONATE,Substance Use Disorders,GSK3A
+LITHIUM CARBONATE,Bipolar Disorder,GSK3A
+LITHIUM CARBONATE,Schizophrenia,GSK3A
+LITHIUM CARBONATE,Autism Spectrum Disorder,GSK3A
+LITHIUM CARBONATE,Alzheimer’s Disease,GSK3A
+LITHIUM CITRATE,Bipolar Disorder,GSK3A
+LITHIUM CARBONATE,Major Depressive Disorder,GSK3B
+LITHIUM CARBONATE,Anxiety Disorder,GSK3B
+LITHIUM CARBONATE,Substance Use Disorders,GSK3B
+LITHIUM CARBONATE,Bipolar Disorder,GSK3B
+LITHIUM CARBONATE,Schizophrenia,GSK3B
+LITHIUM CARBONATE,Autism Spectrum Disorder,GSK3B
+LITHIUM CARBONATE,Alzheimer’s Disease,GSK3B
+LITHIUM CITRATE,Bipolar Disorder,GSK3B
+TIDEGLUSIB,Autism Spectrum Disorder,GSK3B
+TIDEGLUSIB,Alzheimer’s Disease,GSK3B
+NAPROXEN,Alzheimer’s Disease,PTGS2
+ACETAMINOPHEN,Anxiety Disorder,PTGS2
+DICLOFENAC,Major Depressive Disorder,PTGS2
+LORNOXICAM,Alzheimer’s Disease,PTGS2
+ASPIRIN,Major Depressive Disorder,PTGS2
+ASPIRIN,Schizophrenia,PTGS2
+ASPIRIN,Bipolar Disorder,PTGS2
+INDOMETHACIN,Alzheimer’s Disease,PTGS2
+IBUPROFEN,Alzheimer’s Disease,PTGS2
+IBUPROFEN,Major Depressive Disorder,PTGS2
+CIMICOXIB,Major Depressive Disorder,PTGS2
+CELECOXIB,Schizophrenia,PTGS2
+CELECOXIB,Alzheimer’s Disease,PTGS2
+CELECOXIB,Bipolar Disorder,PTGS2
+CELECOXIB,Major Depressive Disorder,PTGS2
+CELECOXIB,OCD & Tourette Syndrome,PTGS2
+ROFECOXIB,Alzheimer’s Disease,PTGS2
+NAPROXEN,Alzheimer’s Disease,PTGS1
+ACETAMINOPHEN,Anxiety Disorder,PTGS1
+DICLOFENAC,Major Depressive Disorder,PTGS1
+LORNOXICAM,Alzheimer’s Disease,PTGS1
+ASPIRIN,Major Depressive Disorder,PTGS1
+ASPIRIN,Schizophrenia,PTGS1
+ASPIRIN,Bipolar Disorder,PTGS1
+INDOMETHACIN,Alzheimer’s Disease,PTGS1
+IBUPROFEN,Alzheimer’s Disease,PTGS1
+IBUPROFEN,Major Depressive Disorder,PTGS1
+SUVOREXANT,Alzheimer’s Disease,HCRTR2
+SUVOREXANT,Substance Use Disorders,HCRTR2
+FILOREXANT,Major Depressive Disorder,HCRTR2
+SELTOREXANT,Major Depressive Disorder,HCRTR2
+SELTOREXANT,Alzheimer’s Disease,HCRTR2
+LEMBOREXANT,Substance Use Disorders,HCRTR2
+SUVOREXANT,Alzheimer’s Disease,HCRTR1
+SUVOREXANT,Substance Use Disorders,HCRTR1
+FILOREXANT,Major Depressive Disorder,HCRTR1
+LEMBOREXANT,Substance Use Disorders,HCRTR1
+METHOTREXATE,Schizophrenia,DHFR
+PITOLISANT,Schizophrenia,HRH3
+PITOLISANT,Substance Use Disorders,HRH3
+ABT-288,Schizophrenia,HRH3
+ABT-288,Alzheimer’s Disease,HRH3
+BETAHISTINE,Major Depressive Disorder,HRH3
+BETAHISTINE,Attention Deficit Hyperactivity Disorder,HRH3
+GSK239512,Alzheimer’s Disease,HRH3
+GSK239512,Schizophrenia,HRH3
+BAVISANT,Attention Deficit Hyperactivity Disorder,HRH3
+BAVISANT,Substance Use Disorders,HRH3
+PF-03654746,Attention Deficit Hyperactivity Disorder,HRH3
+PF-03654746,Alzheimer’s Disease,HRH3
+PF-03654746,OCD & Tourette Syndrome,HRH3
+PF-03654746,Schizophrenia,HRH3
+MK-0249,Attention Deficit Hyperactivity Disorder,HRH3
+MK-0249,Alzheimer’s Disease,HRH3
+MK-0249,Schizophrenia,HRH3
+CARVEDILOL,Post Traumatic Stress Disorder,ADRB1
+DROXIDOPA,Attention Deficit Hyperactivity Disorder,ADRB1
+NOREPINEPHRINE,Major Depressive Disorder,ADRB1
+EPINEPHRINE,Substance Use Disorders,ADRB1
+EPINEPHRINE,Major Depressive Disorder,ADRB1
+PROPAFENONE,Substance Use Disorders,ADRB1
+SOTALOL,Substance Use Disorders,ADRB1
+PINDOLOL,Major Depressive Disorder,ADRB1
+PROPRANOLOL,Major Depressive Disorder,ADRB1
+PROPRANOLOL,Substance Use Disorders,ADRB1
+PROPRANOLOL,Post Traumatic Stress Disorder,ADRB1
+PROPRANOLOL,Autism Spectrum Disorder,ADRB1
+PROPRANOLOL,Anxiety Disorder,ADRB1
+ATENOLOL,Post Traumatic Stress Disorder,ADRB1
+METOPROLOL,Substance Use Disorders,ADRB1
+DOPAMINE,Major Depressive Disorder,ADRB1
+CARVEDILOL,Post Traumatic Stress Disorder,ADRB2
+DROXIDOPA,Attention Deficit Hyperactivity Disorder,ADRB2
+NOREPINEPHRINE,Major Depressive Disorder,ADRB2
+EPINEPHRINE,Substance Use Disorders,ADRB2
+EPINEPHRINE,Major Depressive Disorder,ADRB2
+PROPAFENONE,Substance Use Disorders,ADRB2
+SOTALOL,Substance Use Disorders,ADRB2
+PINDOLOL,Major Depressive Disorder,ADRB2
+FORMOTEROL,Alzheimer’s Disease,ADRB2
+ALBUTEROL,Major Depressive Disorder,ADRB2
+PROPRANOLOL,Major Depressive Disorder,ADRB2
+PROPRANOLOL,Substance Use Disorders,ADRB2
+PROPRANOLOL,Post Traumatic Stress Disorder,ADRB2
+PROPRANOLOL,Autism Spectrum Disorder,ADRB2
+PROPRANOLOL,Anxiety Disorder,ADRB2
+CARVEDILOL,Post Traumatic Stress Disorder,ADRB3
+DROXIDOPA,Attention Deficit Hyperactivity Disorder,ADRB3
+NOREPINEPHRINE,Major Depressive Disorder,ADRB3
+EPINEPHRINE,Substance Use Disorders,ADRB3
+EPINEPHRINE,Major Depressive Disorder,ADRB3
+AMIBEGRON,Anxiety Disorder,ADRB3
+AMIBEGRON,Major Depressive Disorder,ADRB3
+ACETAMINOPHEN,Anxiety Disorder,TRPV1
+ACETAMINOPHEN,Anxiety Disorder,FAAH
+JNJ-42165279,Autism Spectrum Disorder,FAAH
+PF-04457845,OCD & Tourette Syndrome,FAAH
+PF-04457845,Post Traumatic Stress Disorder,FAAH
+DESVENLAFAXINE,Major Depressive Disorder,SLC6A4
+GSK163090,Major Depressive Disorder,SLC6A4
+VORTIOXETINE,Eating Disorders,SLC6A4
+VORTIOXETINE,Attention Deficit Hyperactivity Disorder,SLC6A4
+VORTIOXETINE,Major Depressive Disorder,SLC6A4
+VORTIOXETINE,Anxiety Disorder,SLC6A4
+VORTIOXETINE,Bipolar Disorder,SLC6A4
+ESCITALOPRAM,Anxiety Disorder,SLC6A4
+ESCITALOPRAM,Major Depressive Disorder,SLC6A4
+ESCITALOPRAM,Alzheimer’s Disease,SLC6A4
+ESCITALOPRAM,Bipolar Disorder,SLC6A4
+ESCITALOPRAM,Schizophrenia,SLC6A4
+ESCITALOPRAM,OCD & Tourette Syndrome,SLC6A4
+ESCITALOPRAM,Post Traumatic Stress Disorder,SLC6A4
+CITALOPRAM,Schizophrenia,SLC6A4
+CITALOPRAM,Autism Spectrum Disorder,SLC6A4
+CITALOPRAM,Substance Use Disorders,SLC6A4
+CITALOPRAM,Major Depressive Disorder,SLC6A4
+CITALOPRAM,OCD & Tourette Syndrome,SLC6A4
+CITALOPRAM,Bipolar Disorder,SLC6A4
+CITALOPRAM,Anxiety Disorder,SLC6A4
+PROTRIPTYLINE,Major Depressive Disorder,SLC6A4
+NEFAZODONE,Major Depressive Disorder,SLC6A4
+AMOXAPINE,Major Depressive Disorder,SLC6A4
+DOTHIEPIN,Major Depressive Disorder,SLC6A4
+NORTRIPTYLINE,Major Depressive Disorder,SLC6A4
+NORTRIPTYLINE,Schizophrenia,SLC6A4
+NORTRIPTYLINE,Anxiety Disorder,SLC6A4
+VILAZODONE,Major Depressive Disorder,SLC6A4
+VILAZODONE,Anxiety Disorder,SLC6A4
+VILAZODONE,Post Traumatic Stress Disorder,SLC6A4
+VENLAFAXINE,Major Depressive Disorder,SLC6A4
+VENLAFAXINE,Schizophrenia,SLC6A4
+VENLAFAXINE,Anxiety Disorder,SLC6A4
+VENLAFAXINE,Bipolar Disorder,SLC6A4
+VENLAFAXINE,Alzheimer’s Disease,SLC6A4
+VENLAFAXINE,OCD & Tourette Syndrome,SLC6A4
+LEVOMILNACIPRAN,Major Depressive Disorder,SLC6A4
+CLOMIPRAMINE,Major Depressive Disorder,SLC6A4
+CLOMIPRAMINE,OCD & Tourette Syndrome,SLC6A4
+CLOMIPRAMINE,Schizophrenia,SLC6A4
+CLOMIPRAMINE,Anxiety Disorder,SLC6A4
+MILNACIPRAN,Major Depressive Disorder,SLC6A4
+TEDATIOXETINE,Major Depressive Disorder,SLC6A4
+DULOXETINE,Attention Deficit Hyperactivity Disorder,SLC6A4
+DULOXETINE,Anxiety Disorder,SLC6A4
+DULOXETINE,Substance Use Disorders,SLC6A4
+DULOXETINE,Schizophrenia,SLC6A4
+DULOXETINE,Major Depressive Disorder,SLC6A4
+DULOXETINE,Post Traumatic Stress Disorder,SLC6A4
+SERTRALINE,Major Depressive Disorder,SLC6A4
+SERTRALINE,Post Traumatic Stress Disorder,SLC6A4
+SERTRALINE,Anxiety Disorder,SLC6A4
+SERTRALINE,Substance Use Disorders,SLC6A4
+SERTRALINE,Bipolar Disorder,SLC6A4
+SERTRALINE,Autism Spectrum Disorder,SLC6A4
+SERTRALINE,OCD & Tourette Syndrome,SLC6A4
+SERTRALINE,Schizophrenia,SLC6A4
+PAROXETINE,Major Depressive Disorder,SLC6A4
+PAROXETINE,OCD & Tourette Syndrome,SLC6A4
+PAROXETINE,Anxiety Disorder,SLC6A4
+PAROXETINE,Post Traumatic Stress Disorder,SLC6A4
+PAROXETINE,Substance Use Disorders,SLC6A4
+PAROXETINE,Schizophrenia,SLC6A4
+PAROXETINE,Bipolar Disorder,SLC6A4
+IMIPRAMINE,Anxiety Disorder,SLC6A4
+IMIPRAMINE,Major Depressive Disorder,SLC6A4
+IMIPRAMINE,Substance Use Disorders,SLC6A4
+IMIPRAMINE,Schizophrenia,SLC6A4
+PAROXETINE HYDROCHLORIDE HEMIHYDRATE,Anxiety Disorder,SLC6A4
+LUMATEPERONE,Major Depressive Disorder,SLC6A4
+LUMATEPERONE,Bipolar Disorder,SLC6A4
+LUMATEPERONE,Alzheimer’s Disease,SLC6A4
+LUMATEPERONE,Schizophrenia,SLC6A4
+FLUOXETINE,OCD & Tourette Syndrome,SLC6A4
+FLUOXETINE,Major Depressive Disorder,SLC6A4
+FLUOXETINE,Anxiety Disorder,SLC6A4
+FLUOXETINE,Bipolar Disorder,SLC6A4
+FLUOXETINE,Autism Spectrum Disorder,SLC6A4
+FLUOXETINE,Schizophrenia,SLC6A4
+FLUOXETINE,Post Traumatic Stress Disorder,SLC6A4
+AMITRIPTYLINE,Major Depressive Disorder,SLC6A4
+AMITRIPTYLINE,Schizophrenia,SLC6A4
+AMITRIPTYLINE,Anxiety Disorder,SLC6A4
+TRAZODONE,Alzheimer’s Disease,SLC6A4
+TRAZODONE,Schizophrenia,SLC6A4
+TRAZODONE,Substance Use Disorders,SLC6A4
+TRAZODONE,Major Depressive Disorder,SLC6A4
+TRAZODONE,Anxiety Disorder,SLC6A4
+FLUVOXAMINE,Anxiety Disorder,SLC6A4
+FLUVOXAMINE,Autism Spectrum Disorder,SLC6A4
+FLUVOXAMINE,Major Depressive Disorder,SLC6A4
+FLUVOXAMINE,Schizophrenia,SLC6A4
+FLUVOXAMINE,OCD & Tourette Syndrome,SLC6A4
+AMITIFADINE,Major Depressive Disorder,SLC6A4
+NS-2359,Attention Deficit Hyperactivity Disorder,SLC6A4
+NS-2359,Major Depressive Disorder,SLC6A4
+DASOTRALINE,Major Depressive Disorder,SLC6A4
+DASOTRALINE,Eating Disorders,SLC6A4
+DASOTRALINE,Attention Deficit Hyperactivity Disorder,SLC6A4
+CENTANAFADINE,Attention Deficit Hyperactivity Disorder,SLC6A4
+CENTANAFADINE,Eating Disorders,SLC6A4
+NOMIFENSINE,Major Depressive Disorder,SLC6A4
+MAZINDOL,Attention Deficit Hyperactivity Disorder,SLC6A4
+TESOFENSINE,Alzheimer’s Disease,SLC6A4
+METHAMPHETAMINE,Attention Deficit Hyperactivity Disorder,SLC6A4
+LIAFENSINE,Major Depressive Disorder,SLC6A4
+DESVENLAFAXINE,Major Depressive Disorder,SLC6A2
+DEXMETHYLPHENIDATE,Attention Deficit Hyperactivity Disorder,SLC6A2
+DOXEPIN,Major Depressive Disorder,SLC6A2
+DOXEPIN,Substance Use Disorders,SLC6A2
+DOXEPIN,Bipolar Disorder,SLC6A2
+DOXEPIN,Schizophrenia,SLC6A2
+DOXEPIN,Anxiety Disorder,SLC6A2
+ATOMOXETINE,Alzheimer’s Disease,SLC6A2
+ATOMOXETINE,Autism Spectrum Disorder,SLC6A2
+ATOMOXETINE,Attention Deficit Hyperactivity Disorder,SLC6A2
+ATOMOXETINE,Schizophrenia,SLC6A2
+ATOMOXETINE,Substance Use Disorders,SLC6A2
+ATOMOXETINE,Anxiety Disorder,SLC6A2
+ATOMOXETINE,OCD & Tourette Syndrome,SLC6A2
+METHYLPHENIDATE,Anxiety Disorder,SLC6A2
+METHYLPHENIDATE,Bipolar Disorder,SLC6A2
+METHYLPHENIDATE,Major Depressive Disorder,SLC6A2
+METHYLPHENIDATE,Attention Deficit Hyperactivity Disorder,SLC6A2
+METHYLPHENIDATE,Alzheimer’s Disease,SLC6A2
+METHYLPHENIDATE,Substance Use Disorders,SLC6A2
+METHYLPHENIDATE,Schizophrenia,SLC6A2
+METHYLPHENIDATE,Post Traumatic Stress Disorder,SLC6A2
+METHYLPHENIDATE,Eating Disorders,SLC6A2
+TRIMIPRAMINE,Major Depressive Disorder,SLC6A2
+TRIMIPRAMINE,Schizophrenia,SLC6A2
+TRIMIPRAMINE,Anxiety Disorder,SLC6A2
+PROTRIPTYLINE,Major Depressive Disorder,SLC6A2
+LISDEXAMFETAMINE,Attention Deficit Hyperactivity Disorder,SLC6A2
+LISDEXAMFETAMINE,Major Depressive Disorder,SLC6A2
+LISDEXAMFETAMINE,Bipolar Disorder,SLC6A2
+LISDEXAMFETAMINE,Schizophrenia,SLC6A2
+LISDEXAMFETAMINE,Eating Disorders,SLC6A2
+MAPROTILINE,Anxiety Disorder,SLC6A2
+MAPROTILINE,Major Depressive Disorder,SLC6A2
+MAPROTILINE,Schizophrenia,SLC6A2
+NEFAZODONE,Major Depressive Disorder,SLC6A2
+AMOXAPINE,Major Depressive Disorder,SLC6A2
+DOTHIEPIN,Major Depressive Disorder,SLC6A2
+NORTRIPTYLINE,Major Depressive Disorder,SLC6A2
+NORTRIPTYLINE,Schizophrenia,SLC6A2
+NORTRIPTYLINE,Anxiety Disorder,SLC6A2
+VENLAFAXINE,Major Depressive Disorder,SLC6A2
+VENLAFAXINE,Schizophrenia,SLC6A2
+VENLAFAXINE,Anxiety Disorder,SLC6A2
+VENLAFAXINE,Bipolar Disorder,SLC6A2
+VENLAFAXINE,Alzheimer’s Disease,SLC6A2
+VENLAFAXINE,OCD & Tourette Syndrome,SLC6A2
+DEXTROAMPHETAMINE,Bipolar Disorder,SLC6A2
+DEXTROAMPHETAMINE,Substance Use Disorders,SLC6A2
+DEXTROAMPHETAMINE,Attention Deficit Hyperactivity Disorder,SLC6A2
+DEXTROAMPHETAMINE,Schizophrenia,SLC6A2
+LEVOMILNACIPRAN,Major Depressive Disorder,SLC6A2
+MILNACIPRAN,Major Depressive Disorder,SLC6A2
+TEDATIOXETINE,Major Depressive Disorder,SLC6A2
+BUPROPION,Bipolar Disorder,SLC6A2
+BUPROPION,Substance Use Disorders,SLC6A2
+BUPROPION,Major Depressive Disorder,SLC6A2
+BUPROPION,Schizophrenia,SLC6A2
+BUPROPION,Alzheimer’s Disease,SLC6A2
+BUPROPION,Attention Deficit Hyperactivity Disorder,SLC6A2
+BUPROPION,Eating Disorders,SLC6A2
+BUPROPION,Anxiety Disorder,SLC6A2
+DULOXETINE,Attention Deficit Hyperactivity Disorder,SLC6A2
+DULOXETINE,Anxiety Disorder,SLC6A2
+DULOXETINE,Substance Use Disorders,SLC6A2
+DULOXETINE,Schizophrenia,SLC6A2
+DULOXETINE,Major Depressive Disorder,SLC6A2
+DULOXETINE,Post Traumatic Stress Disorder,SLC6A2
+AMPHETAMINE,Attention Deficit Hyperactivity Disorder,SLC6A2
+DIBENZEPIN,Major Depressive Disorder,SLC6A2
+DESIPRAMINE,Major Depressive Disorder,SLC6A2
+DESIPRAMINE,Post Traumatic Stress Disorder,SLC6A2
+DESIPRAMINE,Substance Use Disorders,SLC6A2
+REBOXETINE,Post Traumatic Stress Disorder,SLC6A2
+REBOXETINE,Anxiety Disorder,SLC6A2
+REBOXETINE,Major Depressive Disorder,SLC6A2
+REBOXETINE,Schizophrenia,SLC6A2
+REBOXETINE,Attention Deficit Hyperactivity Disorder,SLC6A2
+IMIPRAMINE,Anxiety Disorder,SLC6A2
+IMIPRAMINE,Major Depressive Disorder,SLC6A2
+IMIPRAMINE,Substance Use Disorders,SLC6A2
+IMIPRAMINE,Schizophrenia,SLC6A2
+VILOXAZINE,Attention Deficit Hyperactivity Disorder,SLC6A2
+VILOXAZINE,Major Depressive Disorder,SLC6A2
+AMPRELOXETINE,Attention Deficit Hyperactivity Disorder,SLC6A2
+SERDEXMETHYLPHENIDATE,Attention Deficit Hyperactivity Disorder,SLC6A2
+AMITRIPTYLINE,Major Depressive Disorder,SLC6A2
+AMITRIPTYLINE,Schizophrenia,SLC6A2
+AMITRIPTYLINE,Anxiety Disorder,SLC6A2
+EDIVOXETINE,Major Depressive Disorder,SLC6A2
+EDIVOXETINE,Attention Deficit Hyperactivity Disorder,SLC6A2
+AMITIFADINE,Major Depressive Disorder,SLC6A2
+NS-2359,Attention Deficit Hyperactivity Disorder,SLC6A2
+NS-2359,Major Depressive Disorder,SLC6A2
+DASOTRALINE,Major Depressive Disorder,SLC6A2
+DASOTRALINE,Eating Disorders,SLC6A2
+DASOTRALINE,Attention Deficit Hyperactivity Disorder,SLC6A2
+CENTANAFADINE,Attention Deficit Hyperactivity Disorder,SLC6A2
+CENTANAFADINE,Eating Disorders,SLC6A2
+NOMIFENSINE,Major Depressive Disorder,SLC6A2
+MAZINDOL,Attention Deficit Hyperactivity Disorder,SLC6A2
+TESOFENSINE,Alzheimer’s Disease,SLC6A2
+METHAMPHETAMINE,Attention Deficit Hyperactivity Disorder,SLC6A2
+LIAFENSINE,Major Depressive Disorder,SLC6A2
+PREDNISOLONE,Schizophrenia,NR3C1
+MIFEPRISTONE,Major Depressive Disorder,NR3C1
+MIFEPRISTONE,Anxiety Disorder,NR3C1
+MIFEPRISTONE,Bipolar Disorder,NR3C1
+MIFEPRISTONE,Alzheimer’s Disease,NR3C1
+MIFEPRISTONE,Substance Use Disorders,NR3C1
+MIFEPRISTONE,Post Traumatic Stress Disorder,NR3C1
+DEXAMETHASONE,Substance Use Disorders,NR3C1
+ORG-34517,Major Depressive Disorder,NR3C1
+ORG-34517,Substance Use Disorders,NR3C1
+HYDROCORTISONE ACETATE,Major Depressive Disorder,NR3C1
+HYDROCORTISONE,Substance Use Disorders,NR3C1
+METHYLPREDNISOLONE,Substance Use Disorders,NR3C1
+PREDNISONE,Alzheimer’s Disease,NR3C1
+MINAPRINE,Major Depressive Disorder,HTR2B
+AMISULPRIDE,Bipolar Disorder,HTR2B
+AMISULPRIDE,Major Depressive Disorder,HTR2B
+AMISULPRIDE,Anxiety Disorder,HTR2B
+AMISULPRIDE,OCD & Tourette Syndrome,HTR2B
+AMISULPRIDE,Schizophrenia,HTR2B
+ZIMELDINE,Major Depressive Disorder,HTR2B
+VABICASERIN,Schizophrenia,HTR2B
+MINAPRINE,Major Depressive Disorder,HTR2A
+BREXPIPRAZOLE,Major Depressive Disorder,HTR2A
+BREXPIPRAZOLE,Post Traumatic Stress Disorder,HTR2A
+BREXPIPRAZOLE,Bipolar Disorder,HTR2A
+BREXPIPRAZOLE,Schizophrenia,HTR2A
+BREXPIPRAZOLE,Alzheimer’s Disease,HTR2A
+BREXPIPRAZOLE,Substance Use Disorders,HTR2A
+TRIMIPRAMINE,Major Depressive Disorder,HTR2A
+TRIMIPRAMINE,Schizophrenia,HTR2A
+TRIMIPRAMINE,Anxiety Disorder,HTR2A
+BLONANSERIN,Schizophrenia,HTR2A
+CHLORPROMAZINE,Schizophrenia,HTR2A
+NEFAZODONE,Major Depressive Disorder,HTR2A
+OLANZAPINE,Major Depressive Disorder,HTR2A
+OLANZAPINE,Schizophrenia,HTR2A
+OLANZAPINE,Eating Disorders,HTR2A
+OLANZAPINE,Anxiety Disorder,HTR2A
+OLANZAPINE,Bipolar Disorder,HTR2A
+OLANZAPINE,Substance Use Disorders,HTR2A
+OLANZAPINE,Autism Spectrum Disorder,HTR2A
+LOXAPINE,Schizophrenia,HTR2A
+LOXAPINE,Bipolar Disorder,HTR2A
+LOXAPINE,Anxiety Disorder,HTR2A
+ASENAPINE,Schizophrenia,HTR2A
+ASENAPINE,Bipolar Disorder,HTR2A
+THIOTHIXENE,Schizophrenia,HTR2A
+CLOZAPINE,Anxiety Disorder,HTR2A
+CLOZAPINE,Schizophrenia,HTR2A
+CLOZAPINE,Bipolar Disorder,HTR2A
+CLOZAPINE,Major Depressive Disorder,HTR2A
+TEDATIOXETINE,Major Depressive Disorder,HTR2A
+CHLORPROTHIXENE,Schizophrenia,HTR2A
+CHLORPROTHIXENE,Major Depressive Disorder,HTR2A
+CHLORPROTHIXENE,Anxiety Disorder,HTR2A
+VABICASERIN,Schizophrenia,HTR2A
+ARIPIPRAZOLE,Anxiety Disorder,HTR2A
+ARIPIPRAZOLE,Schizophrenia,HTR2A
+ARIPIPRAZOLE,Autism Spectrum Disorder,HTR2A
+ARIPIPRAZOLE,Bipolar Disorder,HTR2A
+ARIPIPRAZOLE,Major Depressive Disorder,HTR2A
+ARIPIPRAZOLE,Post Traumatic Stress Disorder,HTR2A
+ARIPIPRAZOLE,Alzheimer’s Disease,HTR2A
+ARIPIPRAZOLE,Substance Use Disorders,HTR2A
+ARIPIPRAZOLE,Attention Deficit Hyperactivity Disorder,HTR2A
+ARIPIPRAZOLE,OCD & Tourette Syndrome,HTR2A
+PALIPERIDONE PALMITATE,Schizophrenia,HTR2A
+HALOPERIDOL DECANOATE,Schizophrenia,HTR2A
+HALOPERIDOL DECANOATE,OCD & Tourette Syndrome,HTR2A
+HALOPERIDOL,Anxiety Disorder,HTR2A
+HALOPERIDOL,Schizophrenia,HTR2A
+HALOPERIDOL,Bipolar Disorder,HTR2A
+HALOPERIDOL,Alzheimer’s Disease,HTR2A
+HALOPERIDOL,OCD & Tourette Syndrome,HTR2A
+HALOPERIDOL,Major Depressive Disorder,HTR2A
+LURASIDONE,Major Depressive Disorder,HTR2A
+LURASIDONE,Schizophrenia,HTR2A
+LURASIDONE,Bipolar Disorder,HTR2A
+LURASIDONE,Autism Spectrum Disorder,HTR2A
+ZIPRASIDONE,Bipolar Disorder,HTR2A
+ZIPRASIDONE,Schizophrenia,HTR2A
+ZIPRASIDONE,Major Depressive Disorder,HTR2A
+ZIPRASIDONE,Anxiety Disorder,HTR2A
+ZIPRASIDONE,Autism Spectrum Disorder,HTR2A
+ZIPRASIDONE,Substance Use Disorders,HTR2A
+VOLINANSERIN,Major Depressive Disorder,HTR2A
+PIMOZIDE,Anxiety Disorder,HTR2A
+PIMOZIDE,OCD & Tourette Syndrome,HTR2A
+PIMOZIDE,Schizophrenia,HTR2A
+PIMOZIDE,Major Depressive Disorder,HTR2A
+QUETIAPINE,Major Depressive Disorder,HTR2A
+QUETIAPINE,Schizophrenia,HTR2A
+QUETIAPINE,Substance Use Disorders,HTR2A
+QUETIAPINE,Bipolar Disorder,HTR2A
+QUETIAPINE,OCD & Tourette Syndrome,HTR2A
+QUETIAPINE,Anxiety Disorder,HTR2A
+QUETIAPINE,Post Traumatic Stress Disorder,HTR2A
+QUETIAPINE,Attention Deficit Hyperactivity Disorder,HTR2A
+ARIPIPRAZOLE LAUROXIL,Schizophrenia,HTR2A
+ARIPIPRAZOLE LAUROXIL,Autism Spectrum Disorder,HTR2A
+ARIPIPRAZOLE LAUROXIL,Bipolar Disorder,HTR2A
+ARIPIPRAZOLE LAUROXIL,OCD & Tourette Syndrome,HTR2A
+ARIPIPRAZOLE LAUROXIL,Major Depressive Disorder,HTR2A
+LUMATEPERONE,Major Depressive Disorder,HTR2A
+LUMATEPERONE,Bipolar Disorder,HTR2A
+LUMATEPERONE,Alzheimer’s Disease,HTR2A
+LUMATEPERONE,Schizophrenia,HTR2A
+RISPERIDONE,Bipolar Disorder,HTR2A
+RISPERIDONE,Attention Deficit Hyperactivity Disorder,HTR2A
+RISPERIDONE,Autism Spectrum Disorder,HTR2A
+RISPERIDONE,Anxiety Disorder,HTR2A
+RISPERIDONE,OCD & Tourette Syndrome,HTR2A
+RISPERIDONE,Alzheimer’s Disease,HTR2A
+RISPERIDONE,Schizophrenia,HTR2A
+RISPERIDONE,Major Depressive Disorder,HTR2A
+RISPERIDONE,Post Traumatic Stress Disorder,HTR2A
+RISPERIDONE,Substance Use Disorders,HTR2A
+THIORIDAZINE,Schizophrenia,HTR2A
+THIORIDAZINE,Anxiety Disorder,HTR2A
+THIORIDAZINE,Major Depressive Disorder,HTR2A
+PALIPERIDONE,Schizophrenia,HTR2A
+PALIPERIDONE,Bipolar Disorder,HTR2A
+PALIPERIDONE,Autism Spectrum Disorder,HTR2A
+PALIPERIDONE,Anxiety Disorder,HTR2A
+PALIPERIDONE,OCD & Tourette Syndrome,HTR2A
+PALIPERIDONE,Major Depressive Disorder,HTR2A
+TRIFLUOPERAZINE,Anxiety Disorder,HTR2A
+TRIFLUOPERAZINE,Schizophrenia,HTR2A
+CYCLOBENZAPRINE,Major Depressive Disorder,HTR2A
+CYCLOBENZAPRINE,Post Traumatic Stress Disorder,HTR2A
+TRAZODONE,Alzheimer’s Disease,HTR2A
+TRAZODONE,Schizophrenia,HTR2A
+TRAZODONE,Substance Use Disorders,HTR2A
+TRAZODONE,Major Depressive Disorder,HTR2A
+TRAZODONE,Anxiety Disorder,HTR2A
+MIRTAZAPINE,Major Depressive Disorder,HTR2A
+MIRTAZAPINE,Substance Use Disorders,HTR2A
+MIRTAZAPINE,Schizophrenia,HTR2A
+MIRTAZAPINE,Autism Spectrum Disorder,HTR2A
+MIRTAZAPINE,Anxiety Disorder,HTR2A
+SB-773812,Schizophrenia,HTR2A
+PSILOCYBINE,OCD & Tourette Syndrome,HTR2A
+PSILOCYBINE,Anxiety Disorder,HTR2A
+PSILOCYBINE,Substance Use Disorders,HTR2A
+PSILOCYBINE,Bipolar Disorder,HTR2A
+PSILOCYBINE,Post Traumatic Stress Disorder,HTR2A
+PSILOCYBINE,Major Depressive Disorder,HTR2A
+PIMAVANSERIN,OCD & Tourette Syndrome,HTR2A
+PIMAVANSERIN,Schizophrenia,HTR2A
+PIMAVANSERIN,Major Depressive Disorder,HTR2A
+PIMAVANSERIN,Alzheimer’s Disease,HTR2A
+MOLINDONE,Attention Deficit Hyperactivity Disorder,HTR2A
+MOLINDONE,Schizophrenia,HTR2A
+ILOPERIDONE,Post Traumatic Stress Disorder,HTR2A
+ILOPERIDONE,Bipolar Disorder,HTR2A
+ILOPERIDONE,Schizophrenia,HTR2A
+AMISULPRIDE,Bipolar Disorder,HTR2A
+AMISULPRIDE,Major Depressive Disorder,HTR2A
+AMISULPRIDE,Anxiety Disorder,HTR2A
+AMISULPRIDE,OCD & Tourette Syndrome,HTR2A
+AMISULPRIDE,Schizophrenia,HTR2A
+ZIMELDINE,Major Depressive Disorder,HTR2A
+MINAPRINE,Major Depressive Disorder,HTR2C
+AMISULPRIDE,Bipolar Disorder,HTR2C
+AMISULPRIDE,Major Depressive Disorder,HTR2C
+AMISULPRIDE,Anxiety Disorder,HTR2C
+AMISULPRIDE,OCD & Tourette Syndrome,HTR2C
+AMISULPRIDE,Schizophrenia,HTR2C
+ZIMELDINE,Major Depressive Disorder,HTR2C
+TRIMIPRAMINE,Major Depressive Disorder,HTR2C
+TRIMIPRAMINE,Schizophrenia,HTR2C
+TRIMIPRAMINE,Anxiety Disorder,HTR2C
+NEFAZODONE,Major Depressive Disorder,HTR2C
+OLANZAPINE,Major Depressive Disorder,HTR2C
+OLANZAPINE,Schizophrenia,HTR2C
+OLANZAPINE,Eating Disorders,HTR2C
+OLANZAPINE,Anxiety Disorder,HTR2C
+OLANZAPINE,Bipolar Disorder,HTR2C
+OLANZAPINE,Substance Use Disorders,HTR2C
+OLANZAPINE,Autism Spectrum Disorder,HTR2C
+LOXAPINE,Schizophrenia,HTR2C
+LOXAPINE,Bipolar Disorder,HTR2C
+LOXAPINE,Anxiety Disorder,HTR2C
+LORCASERIN,Substance Use Disorders,HTR2C
+TEDATIOXETINE,Major Depressive Disorder,HTR2C
+CHLORPROTHIXENE,Schizophrenia,HTR2C
+CHLORPROTHIXENE,Major Depressive Disorder,HTR2C
+CHLORPROTHIXENE,Anxiety Disorder,HTR2C
+VABICASERIN,Schizophrenia,HTR2C
+ZIPRASIDONE,Bipolar Disorder,HTR2C
+ZIPRASIDONE,Schizophrenia,HTR2C
+ZIPRASIDONE,Major Depressive Disorder,HTR2C
+ZIPRASIDONE,Anxiety Disorder,HTR2C
+ZIPRASIDONE,Autism Spectrum Disorder,HTR2C
+ZIPRASIDONE,Substance Use Disorders,HTR2C
+QUETIAPINE,Major Depressive Disorder,HTR2C
+QUETIAPINE,Schizophrenia,HTR2C
+QUETIAPINE,Substance Use Disorders,HTR2C
+QUETIAPINE,Bipolar Disorder,HTR2C
+QUETIAPINE,OCD & Tourette Syndrome,HTR2C
+QUETIAPINE,Anxiety Disorder,HTR2C
+QUETIAPINE,Post Traumatic Stress Disorder,HTR2C
+QUETIAPINE,Attention Deficit Hyperactivity Disorder,HTR2C
+RISPERIDONE,Bipolar Disorder,HTR2C
+RISPERIDONE,Attention Deficit Hyperactivity Disorder,HTR2C
+RISPERIDONE,Autism Spectrum Disorder,HTR2C
+RISPERIDONE,Anxiety Disorder,HTR2C
+RISPERIDONE,OCD & Tourette Syndrome,HTR2C
+RISPERIDONE,Alzheimer’s Disease,HTR2C
+RISPERIDONE,Schizophrenia,HTR2C
+RISPERIDONE,Major Depressive Disorder,HTR2C
+RISPERIDONE,Post Traumatic Stress Disorder,HTR2C
+RISPERIDONE,Substance Use Disorders,HTR2C
+THIORIDAZINE,Schizophrenia,HTR2C
+THIORIDAZINE,Anxiety Disorder,HTR2C
+THIORIDAZINE,Major Depressive Disorder,HTR2C
+TRIFLUOPERAZINE,Anxiety Disorder,HTR2C
+TRIFLUOPERAZINE,Schizophrenia,HTR2C
+AGOMELATINE,Schizophrenia,HTR2C
+AGOMELATINE,OCD & Tourette Syndrome,HTR2C
+AGOMELATINE,Major Depressive Disorder,HTR2C
+AGOMELATINE,Anxiety Disorder,HTR2C
+CYCLOBENZAPRINE,Major Depressive Disorder,HTR2C
+CYCLOBENZAPRINE,Post Traumatic Stress Disorder,HTR2C
+TRAZODONE,Alzheimer’s Disease,HTR2C
+TRAZODONE,Schizophrenia,HTR2C
+TRAZODONE,Substance Use Disorders,HTR2C
+TRAZODONE,Major Depressive Disorder,HTR2C
+TRAZODONE,Anxiety Disorder,HTR2C
+MIRTAZAPINE,Major Depressive Disorder,HTR2C
+MIRTAZAPINE,Substance Use Disorders,HTR2C
+MIRTAZAPINE,Schizophrenia,HTR2C
+MIRTAZAPINE,Autism Spectrum Disorder,HTR2C
+MIRTAZAPINE,Anxiety Disorder,HTR2C
+MINAPRINE,Major Depressive Disorder,ACHE
+GALANTAMINE,Schizophrenia,ACHE
+GALANTAMINE,Alzheimer’s Disease,ACHE
+GALANTAMINE,Anxiety Disorder,ACHE
+GALANTAMINE,Autism Spectrum Disorder,ACHE
+GALANTAMINE,Major Depressive Disorder,ACHE
+HUPERZINE A,Alzheimer’s Disease,ACHE
+DONEPEZIL,Alzheimer’s Disease,ACHE
+DONEPEZIL,Anxiety Disorder,ACHE
+DONEPEZIL,Schizophrenia,ACHE
+DONEPEZIL,Major Depressive Disorder,ACHE
+DONEPEZIL,Autism Spectrum Disorder,ACHE
+MINAPRINE,Major Depressive Disorder,MAOA
+MOCLOBEMIDE,Anxiety Disorder,MAOA
+MOCLOBEMIDE,Major Depressive Disorder,MAOA
+MOCLOBEMIDE,Schizophrenia,MAOA
+TOLOXATONE,Major Depressive Disorder,MAOA
+ISOCARBOXAZID,Major Depressive Disorder,MAOA
+ISOCARBOXAZID,Alzheimer’s Disease,MAOA
+NIALAMIDE,Major Depressive Disorder,MAOA
+TRANYLCYPROMINE,Major Depressive Disorder,MAOA
+TRANYLCYPROMINE,Anxiety Disorder,MAOA
+TRANYLCYPROMINE,Schizophrenia,MAOA
+PHENELZINE,Major Depressive Disorder,MAOA
+IPRONIAZID,Major Depressive Disorder,MAOA
+MINAPRINE,Major Depressive Disorder,CHRM1
+GLYCOPYRRONIUM,Major Depressive Disorder,CHRM1
+MK-7622,Alzheimer’s Disease,CHRM1
+BIPERIDEN,Schizophrenia,CHRM1
+BIPERIDEN,Anxiety Disorder,CHRM1
+BIPERIDEN,Major Depressive Disorder,CHRM1
+SCOPOLAMINE,Major Depressive Disorder,CHRM1
+SCOPOLAMINE,Alzheimer’s Disease,CHRM1
+SCOPOLAMINE,Bipolar Disorder,CHRM1
+SCOPOLAMINE,Anxiety Disorder,CHRM1
+TAK-071,Alzheimer’s Disease,CHRM1
+TALSACLIDINE,Alzheimer’s Disease,CHRM1
+XANOMELINE,Schizophrenia,CHRM1
+VASOPRESSIN,Autism Spectrum Disorder,AVPR1A
+VASOPRESSIN,Substance Use Disorders,AVPR1A
+VASOPRESSIN,Major Depressive Disorder,AVPR1A
+BALOVAPTAN,Post Traumatic Stress Disorder,AVPR1A
+BALOVAPTAN,Autism Spectrum Disorder,AVPR1A
+SRX246,Post Traumatic Stress Disorder,AVPR1A
+SRX246,Anxiety Disorder,AVPR1A
+VASOPRESSIN,Autism Spectrum Disorder,AVPR1B
+VASOPRESSIN,Substance Use Disorders,AVPR1B
+VASOPRESSIN,Major Depressive Disorder,AVPR1B
+NELIVAPTAN,Anxiety Disorder,AVPR1B
+NELIVAPTAN,Major Depressive Disorder,AVPR1B
+VASOPRESSIN,Autism Spectrum Disorder,AVPR2
+VASOPRESSIN,Substance Use Disorders,AVPR2
+VASOPRESSIN,Major Depressive Disorder,AVPR2
+JNJ-37822681,Schizophrenia,DRD2
+BREXPIPRAZOLE,Major Depressive Disorder,DRD2
+BREXPIPRAZOLE,Post Traumatic Stress Disorder,DRD2
+BREXPIPRAZOLE,Bipolar Disorder,DRD2
+BREXPIPRAZOLE,Schizophrenia,DRD2
+BREXPIPRAZOLE,Alzheimer’s Disease,DRD2
+BREXPIPRAZOLE,Substance Use Disorders,DRD2
+BENPERIDOL,Schizophrenia,DRD2
+BENPERIDOL,Major Depressive Disorder,DRD2
+BENPERIDOL,Anxiety Disorder,DRD2
+SERTINDOLE,Schizophrenia,DRD2
+SERTINDOLE,Anxiety Disorder,DRD2
+SERTINDOLE,Major Depressive Disorder,DRD2
+TIAPRIDE,Schizophrenia,DRD2
+TIAPRIDE,OCD & Tourette Syndrome,DRD2
+TIAPRIDE,Major Depressive Disorder,DRD2
+TIAPRIDE,Anxiety Disorder,DRD2
+TRIMIPRAMINE,Major Depressive Disorder,DRD2
+TRIMIPRAMINE,Schizophrenia,DRD2
+TRIMIPRAMINE,Anxiety Disorder,DRD2
+BLONANSERIN,Schizophrenia,DRD2
+FLUSPIRILENE,Schizophrenia,DRD2
+FLUSPIRILENE,Major Depressive Disorder,DRD2
+FLUSPIRILENE,Anxiety Disorder,DRD2
+CARIPRAZINE,Bipolar Disorder,DRD2
+CARIPRAZINE,Major Depressive Disorder,DRD2
+CARIPRAZINE,Autism Spectrum Disorder,DRD2
+CARIPRAZINE,Anxiety Disorder,DRD2
+CARIPRAZINE,Schizophrenia,DRD2
+ASENAPINE,Schizophrenia,DRD2
+ASENAPINE,Bipolar Disorder,DRD2
+THIOTHIXENE,Schizophrenia,DRD2
+PERPHENAZINE,Schizophrenia,DRD2
+PERPHENAZINE,Major Depressive Disorder,DRD2
+PERPHENAZINE,Anxiety Disorder,DRD2
+CLOZAPINE,Anxiety Disorder,DRD2
+CLOZAPINE,Schizophrenia,DRD2
+CLOZAPINE,Bipolar Disorder,DRD2
+CLOZAPINE,Major Depressive Disorder,DRD2
+FLUPHENAZINE,Schizophrenia,DRD2
+CHLORPROTHIXENE,Schizophrenia,DRD2
+CHLORPROTHIXENE,Major Depressive Disorder,DRD2
+CHLORPROTHIXENE,Anxiety Disorder,DRD2
+ARIPIPRAZOLE,Anxiety Disorder,DRD2
+ARIPIPRAZOLE,Schizophrenia,DRD2
+ARIPIPRAZOLE,Autism Spectrum Disorder,DRD2
+ARIPIPRAZOLE,Bipolar Disorder,DRD2
+ARIPIPRAZOLE,Major Depressive Disorder,DRD2
+ARIPIPRAZOLE,Post Traumatic Stress Disorder,DRD2
+ARIPIPRAZOLE,Alzheimer’s Disease,DRD2
+ARIPIPRAZOLE,Substance Use Disorders,DRD2
+ARIPIPRAZOLE,Attention Deficit Hyperactivity Disorder,DRD2
+ARIPIPRAZOLE,OCD & Tourette Syndrome,DRD2
+PALIPERIDONE PALMITATE,Schizophrenia,DRD2
+THIETHYLPERAZINE,Alzheimer’s Disease,DRD2
+SULPIRIDE,Schizophrenia,DRD2
+SULPIRIDE,Anxiety Disorder,DRD2
+SULPIRIDE,Major Depressive Disorder,DRD2
+LURASIDONE,Major Depressive Disorder,DRD2
+LURASIDONE,Schizophrenia,DRD2
+LURASIDONE,Bipolar Disorder,DRD2
+LURASIDONE,Autism Spectrum Disorder,DRD2
+ZIPRASIDONE,Bipolar Disorder,DRD2
+ZIPRASIDONE,Schizophrenia,DRD2
+ZIPRASIDONE,Major Depressive Disorder,DRD2
+ZIPRASIDONE,Anxiety Disorder,DRD2
+ZIPRASIDONE,Autism Spectrum Disorder,DRD2
+ZIPRASIDONE,Substance Use Disorders,DRD2
+QUETIAPINE,Major Depressive Disorder,DRD2
+QUETIAPINE,Schizophrenia,DRD2
+QUETIAPINE,Substance Use Disorders,DRD2
+QUETIAPINE,Bipolar Disorder,DRD2
+QUETIAPINE,OCD & Tourette Syndrome,DRD2
+QUETIAPINE,Anxiety Disorder,DRD2
+QUETIAPINE,Post Traumatic Stress Disorder,DRD2
+QUETIAPINE,Attention Deficit Hyperactivity Disorder,DRD2
+PROCHLORPERAZINE,Schizophrenia,DRD2
+PROCHLORPERAZINE,Anxiety Disorder,DRD2
+ARIPIPRAZOLE LAUROXIL,Schizophrenia,DRD2
+ARIPIPRAZOLE LAUROXIL,Autism Spectrum Disorder,DRD2
+ARIPIPRAZOLE LAUROXIL,Bipolar Disorder,DRD2
+ARIPIPRAZOLE LAUROXIL,OCD & Tourette Syndrome,DRD2
+ARIPIPRAZOLE LAUROXIL,Major Depressive Disorder,DRD2
+LUMATEPERONE,Major Depressive Disorder,DRD2
+LUMATEPERONE,Bipolar Disorder,DRD2
+LUMATEPERONE,Alzheimer’s Disease,DRD2
+LUMATEPERONE,Schizophrenia,DRD2
+RISPERIDONE,Bipolar Disorder,DRD2
+RISPERIDONE,Attention Deficit Hyperactivity Disorder,DRD2
+RISPERIDONE,Autism Spectrum Disorder,DRD2
+RISPERIDONE,Anxiety Disorder,DRD2
+RISPERIDONE,OCD & Tourette Syndrome,DRD2
+RISPERIDONE,Alzheimer’s Disease,DRD2
+RISPERIDONE,Schizophrenia,DRD2
+RISPERIDONE,Major Depressive Disorder,DRD2
+RISPERIDONE,Post Traumatic Stress Disorder,DRD2
+RISPERIDONE,Substance Use Disorders,DRD2
+FLUPHENAZINE ENANTHATE,Anxiety Disorder,DRD2
+FLUPHENAZINE ENANTHATE,Schizophrenia,DRD2
+FLUPHENAZINE ENANTHATE,Major Depressive Disorder,DRD2
+BIFEPRUNOX,Schizophrenia,DRD2
+BIFEPRUNOX,Bipolar Disorder,DRD2
+BIFEPRUNOX,Major Depressive Disorder,DRD2
+BIFEPRUNOX,Alzheimer’s Disease,DRD2
+PALIPERIDONE,Schizophrenia,DRD2
+PALIPERIDONE,Bipolar Disorder,DRD2
+PALIPERIDONE,Autism Spectrum Disorder,DRD2
+PALIPERIDONE,Anxiety Disorder,DRD2
+PALIPERIDONE,OCD & Tourette Syndrome,DRD2
+PALIPERIDONE,Major Depressive Disorder,DRD2
+PF-00217830,Schizophrenia,DRD2
+SB-773812,Schizophrenia,DRD2
+BROMPERIDOL,Schizophrenia,DRD2
+BROMPERIDOL,Anxiety Disorder,DRD2
+BROMPERIDOL,Major Depressive Disorder,DRD2
+MOLINDONE,Attention Deficit Hyperactivity Disorder,DRD2
+MOLINDONE,Schizophrenia,DRD2
+ILOPERIDONE,Post Traumatic Stress Disorder,DRD2
+ILOPERIDONE,Bipolar Disorder,DRD2
+ILOPERIDONE,Schizophrenia,DRD2
+BROMOCRIPTINE,Alzheimer’s Disease,DRD2
+CHLORPROMAZINE,Schizophrenia,DRD2
+OLANZAPINE,Major Depressive Disorder,DRD2
+OLANZAPINE,Schizophrenia,DRD2
+OLANZAPINE,Eating Disorders,DRD2
+OLANZAPINE,Anxiety Disorder,DRD2
+OLANZAPINE,Bipolar Disorder,DRD2
+OLANZAPINE,Substance Use Disorders,DRD2
+OLANZAPINE,Autism Spectrum Disorder,DRD2
+LOXAPINE,Schizophrenia,DRD2
+LOXAPINE,Bipolar Disorder,DRD2
+LOXAPINE,Anxiety Disorder,DRD2
+APOMORPHINE,Substance Use Disorders,DRD2
+ROTIGOTINE,Alzheimer’s Disease,DRD2
+HALOPERIDOL DECANOATE,Schizophrenia,DRD2
+HALOPERIDOL DECANOATE,OCD & Tourette Syndrome,DRD2
+PRAMIPEXOLE,Bipolar Disorder,DRD2
+PRAMIPEXOLE,Eating Disorders,DRD2
+PRAMIPEXOLE,OCD & Tourette Syndrome,DRD2
+PRAMIPEXOLE,Schizophrenia,DRD2
+PRAMIPEXOLE,Alzheimer’s Disease,DRD2
+PRAMIPEXOLE,Major Depressive Disorder,DRD2
+HALOPERIDOL,Anxiety Disorder,DRD2
+HALOPERIDOL,Schizophrenia,DRD2
+HALOPERIDOL,Bipolar Disorder,DRD2
+HALOPERIDOL,Alzheimer’s Disease,DRD2
+HALOPERIDOL,OCD & Tourette Syndrome,DRD2
+HALOPERIDOL,Major Depressive Disorder,DRD2
+THIORIDAZINE,Schizophrenia,DRD2
+THIORIDAZINE,Anxiety Disorder,DRD2
+THIORIDAZINE,Major Depressive Disorder,DRD2
+LEVOMEPROMAZINE,Schizophrenia,DRD2
+LEVOMEPROMAZINE,Anxiety Disorder,DRD2
+LEVOMEPROMAZINE,Major Depressive Disorder,DRD2
+TRIFLUOPERAZINE,Anxiety Disorder,DRD2
+TRIFLUOPERAZINE,Schizophrenia,DRD2
+AMOXAPINE,Major Depressive Disorder,DRD2
+PIMOZIDE,Anxiety Disorder,DRD2
+PIMOZIDE,OCD & Tourette Syndrome,DRD2
+PIMOZIDE,Schizophrenia,DRD2
+PIMOZIDE,Major Depressive Disorder,DRD2
+NALOXEGOL,Substance Use Disorders,OPRM1
+FENTANYL,Major Depressive Disorder,OPRM1
+FENTANYL,Substance Use Disorders,OPRM1
+BUPRENORPHINE,Major Depressive Disorder,OPRM1
+BUPRENORPHINE,Substance Use Disorders,OPRM1
+BUPRENORPHINE,Post Traumatic Stress Disorder,OPRM1
+DIACETYLMORPHINE,Substance Use Disorders,OPRM1
+HYDROMORPHONE,Substance Use Disorders,OPRM1
+SAMIDORPHAN,Substance Use Disorders,OPRM1
+SAMIDORPHAN,Eating Disorders,OPRM1
+SAMIDORPHAN,Bipolar Disorder,OPRM1
+SAMIDORPHAN,Schizophrenia,OPRM1
+LEVOMETHADYL ACETATE,Substance Use Disorders,OPRM1
+MORPHINE,Substance Use Disorders,OPRM1
+MORPHINE,Major Depressive Disorder,OPRM1
+REMIFENTANIL,Substance Use Disorders,OPRM1
+REMIFENTANIL,Major Depressive Disorder,OPRM1
+GSK-1521498,Substance Use Disorders,OPRM1
+TRAMADOL,Major Depressive Disorder,OPRM1
+TRAMADOL,Substance Use Disorders,OPRM1
+METHADONE,Substance Use Disorders,OPRM1
+BUTORPHANOL,Anxiety Disorder,OPRM1
+OXYCODONE,Substance Use Disorders,OPRM1
+OXYCODONE,Major Depressive Disorder,OPRM1
+METHYLNALTREXONE,Substance Use Disorders,OPRM1
+CP-866087,Substance Use Disorders,OPRM1
+NALTREXONE,Major Depressive Disorder,OPRM1
+NALTREXONE,Substance Use Disorders,OPRM1
+NALTREXONE,Post Traumatic Stress Disorder,OPRM1
+NALTREXONE,OCD & Tourette Syndrome,OPRM1
+NALTREXONE,Schizophrenia,OPRM1
+NALTREXONE,Eating Disorders,OPRM1
+NALBUPHINE,Substance Use Disorders,OPRM1
+NALMEFENE,Substance Use Disorders,OPRM1
+NALOXONE,Substance Use Disorders,OPRM1
+NALOXONE,Major Depressive Disorder,OPRM1
+NALOXONE,Eating Disorders,OPRM1
+ODELEPRAN,Substance Use Disorders,OPRM1
+DEXMETHYLPHENIDATE,Attention Deficit Hyperactivity Disorder,SLC6A3
+METHYLPHENIDATE,Anxiety Disorder,SLC6A3
+METHYLPHENIDATE,Bipolar Disorder,SLC6A3
+METHYLPHENIDATE,Major Depressive Disorder,SLC6A3
+METHYLPHENIDATE,Attention Deficit Hyperactivity Disorder,SLC6A3
+METHYLPHENIDATE,Alzheimer’s Disease,SLC6A3
+METHYLPHENIDATE,Substance Use Disorders,SLC6A3
+METHYLPHENIDATE,Schizophrenia,SLC6A3
+METHYLPHENIDATE,Post Traumatic Stress Disorder,SLC6A3
+METHYLPHENIDATE,Eating Disorders,SLC6A3
+LISDEXAMFETAMINE,Attention Deficit Hyperactivity Disorder,SLC6A3
+LISDEXAMFETAMINE,Major Depressive Disorder,SLC6A3
+LISDEXAMFETAMINE,Bipolar Disorder,SLC6A3
+LISDEXAMFETAMINE,Schizophrenia,SLC6A3
+LISDEXAMFETAMINE,Eating Disorders,SLC6A3
+DEXTROAMPHETAMINE,Bipolar Disorder,SLC6A3
+DEXTROAMPHETAMINE,Substance Use Disorders,SLC6A3
+DEXTROAMPHETAMINE,Attention Deficit Hyperactivity Disorder,SLC6A3
+DEXTROAMPHETAMINE,Schizophrenia,SLC6A3
+TEDATIOXETINE,Major Depressive Disorder,SLC6A3
+BUPROPION,Bipolar Disorder,SLC6A3
+BUPROPION,Substance Use Disorders,SLC6A3
+BUPROPION,Major Depressive Disorder,SLC6A3
+BUPROPION,Schizophrenia,SLC6A3
+BUPROPION,Alzheimer’s Disease,SLC6A3
+BUPROPION,Attention Deficit Hyperactivity Disorder,SLC6A3
+BUPROPION,Eating Disorders,SLC6A3
+BUPROPION,Anxiety Disorder,SLC6A3
+AMPHETAMINE,Attention Deficit Hyperactivity Disorder,SLC6A3
+SERDEXMETHYLPHENIDATE,Attention Deficit Hyperactivity Disorder,SLC6A3
+MODAFINIL,Substance Use Disorders,SLC6A3
+MODAFINIL,Attention Deficit Hyperactivity Disorder,SLC6A3
+MODAFINIL,Major Depressive Disorder,SLC6A3
+MODAFINIL,Alzheimer’s Disease,SLC6A3
+MODAFINIL,Schizophrenia,SLC6A3
+MODAFINIL,Post Traumatic Stress Disorder,SLC6A3
+ARMODAFINIL,Attention Deficit Hyperactivity Disorder,SLC6A3
+ARMODAFINIL,Schizophrenia,SLC6A3
+ARMODAFINIL,Major Depressive Disorder,SLC6A3
+AMITIFADINE,Major Depressive Disorder,SLC6A3
+NS-2359,Attention Deficit Hyperactivity Disorder,SLC6A3
+NS-2359,Major Depressive Disorder,SLC6A3
+DASOTRALINE,Major Depressive Disorder,SLC6A3
+DASOTRALINE,Eating Disorders,SLC6A3
+DASOTRALINE,Attention Deficit Hyperactivity Disorder,SLC6A3
+CENTANAFADINE,Attention Deficit Hyperactivity Disorder,SLC6A3
+CENTANAFADINE,Eating Disorders,SLC6A3
+NOMIFENSINE,Major Depressive Disorder,SLC6A3
+MAZINDOL,Attention Deficit Hyperactivity Disorder,SLC6A3
+TESOFENSINE,Alzheimer’s Disease,SLC6A3
+METHAMPHETAMINE,Attention Deficit Hyperactivity Disorder,SLC6A3
+LIAFENSINE,Major Depressive Disorder,SLC6A3
+GLYCOPYRRONIUM,Major Depressive Disorder,CHRM3
+TROSPIUM,Schizophrenia,CHRM3
+TALSACLIDINE,Alzheimer’s Disease,CHRM3
+PERINDOPRIL,Post Traumatic Stress Disorder,ACE
+PERINDOPRIL,Alzheimer’s Disease,ACE
+BREXPIPRAZOLE,Major Depressive Disorder,HTR1A
+BREXPIPRAZOLE,Post Traumatic Stress Disorder,HTR1A
+BREXPIPRAZOLE,Bipolar Disorder,HTR1A
+BREXPIPRAZOLE,Schizophrenia,HTR1A
+BREXPIPRAZOLE,Alzheimer’s Disease,HTR1A
+BREXPIPRAZOLE,Substance Use Disorders,HTR1A
+GSK163090,Major Depressive Disorder,HTR1A
+VORTIOXETINE,Eating Disorders,HTR1A
+VORTIOXETINE,Attention Deficit Hyperactivity Disorder,HTR1A
+VORTIOXETINE,Major Depressive Disorder,HTR1A
+VORTIOXETINE,Anxiety Disorder,HTR1A
+VORTIOXETINE,Bipolar Disorder,HTR1A
+DU 125530,Major Depressive Disorder,HTR1A
+VILAZODONE,Major Depressive Disorder,HTR1A
+VILAZODONE,Anxiety Disorder,HTR1A
+VILAZODONE,Post Traumatic Stress Disorder,HTR1A
+XALIPRODEN,Alzheimer’s Disease,HTR1A
+ARIPIPRAZOLE,Anxiety Disorder,HTR1A
+ARIPIPRAZOLE,Schizophrenia,HTR1A
+ARIPIPRAZOLE,Autism Spectrum Disorder,HTR1A
+ARIPIPRAZOLE,Bipolar Disorder,HTR1A
+ARIPIPRAZOLE,Major Depressive Disorder,HTR1A
+ARIPIPRAZOLE,Post Traumatic Stress Disorder,HTR1A
+ARIPIPRAZOLE,Alzheimer’s Disease,HTR1A
+ARIPIPRAZOLE,Substance Use Disorders,HTR1A
+ARIPIPRAZOLE,Attention Deficit Hyperactivity Disorder,HTR1A
+ARIPIPRAZOLE,OCD & Tourette Syndrome,HTR1A
+ULOTARONT,Schizophrenia,HTR1A
+GEPIRONE,Major Depressive Disorder,HTR1A
+ARIPIPRAZOLE LAUROXIL,Schizophrenia,HTR1A
+ARIPIPRAZOLE LAUROXIL,Autism Spectrum Disorder,HTR1A
+ARIPIPRAZOLE LAUROXIL,Bipolar Disorder,HTR1A
+ARIPIPRAZOLE LAUROXIL,OCD & Tourette Syndrome,HTR1A
+ARIPIPRAZOLE LAUROXIL,Major Depressive Disorder,HTR1A
+BIFEPRUNOX,Schizophrenia,HTR1A
+BIFEPRUNOX,Bipolar Disorder,HTR1A
+BIFEPRUNOX,Major Depressive Disorder,HTR1A
+BIFEPRUNOX,Alzheimer’s Disease,HTR1A
+BUSPIRONE,Schizophrenia,HTR1A
+BUSPIRONE,Anxiety Disorder,HTR1A
+BUSPIRONE,Major Depressive Disorder,HTR1A
+BUSPIRONE,Autism Spectrum Disorder,HTR1A
+BUSPIRONE,Attention Deficit Hyperactivity Disorder,HTR1A
+LECOZOTAN,Alzheimer’s Disease,HTR1A
+NALUZOTAN,Anxiety Disorder,HTR1A
+NALUZOTAN,Major Depressive Disorder,HTR1A
+AMISULPRIDE,Bipolar Disorder,HTR1A
+AMISULPRIDE,Major Depressive Disorder,HTR1A
+AMISULPRIDE,Anxiety Disorder,HTR1A
+AMISULPRIDE,OCD & Tourette Syndrome,HTR1A
+AMISULPRIDE,Schizophrenia,HTR1A
+ZIMELDINE,Major Depressive Disorder,HTR1A
+BROMAZEPAM,Schizophrenia,GABRA2
+BROMAZEPAM,Anxiety Disorder,GABRA2
+BROMAZEPAM,Major Depressive Disorder,GABRA2
+AZD6280,Anxiety Disorder,GABRA2
+AZD7325,Autism Spectrum Disorder,GABRA2
+AZD7325,Anxiety Disorder,GABRA2
+METFORMIN,Bipolar Disorder,GPD2
+METFORMIN,Anxiety Disorder,GPD2
+METFORMIN,Major Depressive Disorder,GPD2
+METFORMIN,Schizophrenia,GPD2
+ACETAZOLAMIDE,Schizophrenia,CA12
+ACETAZOLAMIDE,Schizophrenia,CA4
+TOPIRAMATE,Post Traumatic Stress Disorder,CA4
+TOPIRAMATE,Schizophrenia,CA4
+TOPIRAMATE,Eating Disorders,CA4
+TOPIRAMATE,OCD & Tourette Syndrome,CA4
+TOPIRAMATE,Substance Use Disorders,CA4
+TOPIRAMATE,Anxiety Disorder,CA4
+TOPIRAMATE,Bipolar Disorder,CA4
+TOPIRAMATE,Major Depressive Disorder,CA4
+ACETAZOLAMIDE,Schizophrenia,CA1
+ACETAZOLAMIDE,Schizophrenia,CA2
+TOPIRAMATE,Post Traumatic Stress Disorder,CA2
+TOPIRAMATE,Schizophrenia,CA2
+TOPIRAMATE,Eating Disorders,CA2
+TOPIRAMATE,OCD & Tourette Syndrome,CA2
+TOPIRAMATE,Substance Use Disorders,CA2
+TOPIRAMATE,Anxiety Disorder,CA2
+TOPIRAMATE,Bipolar Disorder,CA2
+TOPIRAMATE,Major Depressive Disorder,CA2
+LECANEMAB,Alzheimer’s Disease,APP
+CRENEZUMAB,Alzheimer’s Disease,APP
+BAPINEUZUMAB,Alzheimer’s Disease,APP
+GSK933776,Alzheimer’s Disease,APP
+GANTENERUMAB,Alzheimer’s Disease,APP
+SOLANEZUMAB,Alzheimer’s Disease,APP
+VANUTIDE CRIDIFICAR,Alzheimer’s Disease,APP
+ADUCANUMAB,Alzheimer’s Disease,APP
+PONEZUMAB,Alzheimer’s Disease,APP
+VALILTRAMIPROSATE,Alzheimer’s Disease,APP
+AMILOMOTIDE,Alzheimer’s Disease,APP
+TRAMIPROSATE,Alzheimer’s Disease,APP
+DONANEMAB,Alzheimer’s Disease,APP
+AMISULPRIDE,Bipolar Disorder,HTR7
+AMISULPRIDE,Major Depressive Disorder,HTR7
+AMISULPRIDE,Anxiety Disorder,HTR7
+AMISULPRIDE,OCD & Tourette Syndrome,HTR7
+AMISULPRIDE,Schizophrenia,HTR7
+ZIMELDINE,Major Depressive Disorder,HTR7
+JNJ-18038683,Major Depressive Disorder,HTR7
+JNJ-18038683,Bipolar Disorder,HTR7
+AMISULPRIDE,Bipolar Disorder,HTR1F
+AMISULPRIDE,Major Depressive Disorder,HTR1F
+AMISULPRIDE,Anxiety Disorder,HTR1F
+AMISULPRIDE,OCD & Tourette Syndrome,HTR1F
+AMISULPRIDE,Schizophrenia,HTR1F
+ZIMELDINE,Major Depressive Disorder,HTR1F
+AMISULPRIDE,Bipolar Disorder,HTR4
+AMISULPRIDE,Major Depressive Disorder,HTR4
+AMISULPRIDE,Anxiety Disorder,HTR4
+AMISULPRIDE,OCD & Tourette Syndrome,HTR4
+AMISULPRIDE,Schizophrenia,HTR4
+ZIMELDINE,Major Depressive Disorder,HTR4
+PRX-03140,Alzheimer’s Disease,HTR4
+VELUSETRAG,Alzheimer’s Disease,HTR4
+PRUCALOPRIDE,Major Depressive Disorder,HTR4
+AMISULPRIDE,Bipolar Disorder,HTR1B
+AMISULPRIDE,Major Depressive Disorder,HTR1B
+AMISULPRIDE,Anxiety Disorder,HTR1B
+AMISULPRIDE,OCD & Tourette Syndrome,HTR1B
+AMISULPRIDE,Schizophrenia,HTR1B
+ZIMELDINE,Major Depressive Disorder,HTR1B
+GSK163090,Major Depressive Disorder,HTR1B
+ELZASONAN,Major Depressive Disorder,HTR1B
+AMISULPRIDE,Bipolar Disorder,HTR3A
+AMISULPRIDE,Major Depressive Disorder,HTR3A
+AMISULPRIDE,Anxiety Disorder,HTR3A
+AMISULPRIDE,OCD & Tourette Syndrome,HTR3A
+AMISULPRIDE,Schizophrenia,HTR3A
+ZIMELDINE,Major Depressive Disorder,HTR3A
+VORTIOXETINE,Eating Disorders,HTR3A
+VORTIOXETINE,Attention Deficit Hyperactivity Disorder,HTR3A
+VORTIOXETINE,Major Depressive Disorder,HTR3A
+VORTIOXETINE,Anxiety Disorder,HTR3A
+VORTIOXETINE,Bipolar Disorder,HTR3A
+ONDANSETRON,OCD & Tourette Syndrome,HTR3A
+ONDANSETRON,Schizophrenia,HTR3A
+ONDANSETRON,Substance Use Disorders,HTR3A
+AMISULPRIDE,Bipolar Disorder,HTR1D
+AMISULPRIDE,Major Depressive Disorder,HTR1D
+AMISULPRIDE,Anxiety Disorder,HTR1D
+AMISULPRIDE,OCD & Tourette Syndrome,HTR1D
+AMISULPRIDE,Schizophrenia,HTR1D
+ZIMELDINE,Major Depressive Disorder,HTR1D
+GSK163090,Major Depressive Disorder,HTR1D
+ELZASONAN,Major Depressive Disorder,HTR1D
+AMISULPRIDE,Bipolar Disorder,HTR1E
+AMISULPRIDE,Major Depressive Disorder,HTR1E
+AMISULPRIDE,Anxiety Disorder,HTR1E
+AMISULPRIDE,OCD & Tourette Syndrome,HTR1E
+AMISULPRIDE,Schizophrenia,HTR1E
+ZIMELDINE,Major Depressive Disorder,HTR1E
+AMISULPRIDE,Bipolar Disorder,HTR6
+AMISULPRIDE,Major Depressive Disorder,HTR6
+AMISULPRIDE,Anxiety Disorder,HTR6
+AMISULPRIDE,OCD & Tourette Syndrome,HTR6
+AMISULPRIDE,Schizophrenia,HTR6
+ZIMELDINE,Major Depressive Disorder,HTR6
+MASUPIRDINE,Alzheimer’s Disease,HTR6
+IDALOPIRDINE,Alzheimer’s Disease,HTR6
+IDALOPIRDINE,Schizophrenia,HTR6
+CERLAPIRDINE,Alzheimer’s Disease,HTR6
+PF-05212377,Alzheimer’s Disease,HTR6
+INTEPIRDINE,Alzheimer’s Disease,HTR6
+AMISULPRIDE,Bipolar Disorder,HTR5A
+AMISULPRIDE,Major Depressive Disorder,HTR5A
+AMISULPRIDE,Anxiety Disorder,HTR5A
+AMISULPRIDE,OCD & Tourette Syndrome,HTR5A
+AMISULPRIDE,Schizophrenia,HTR5A
+ZIMELDINE,Major Depressive Disorder,HTR5A
+AMISULPRIDE,Bipolar Disorder,HTR3E
+AMISULPRIDE,Major Depressive Disorder,HTR3E
+AMISULPRIDE,Anxiety Disorder,HTR3E
+AMISULPRIDE,OCD & Tourette Syndrome,HTR3E
+AMISULPRIDE,Schizophrenia,HTR3E
+ZIMELDINE,Major Depressive Disorder,HTR3E
+AMISULPRIDE,Bipolar Disorder,HTR3B
+AMISULPRIDE,Major Depressive Disorder,HTR3B
+AMISULPRIDE,Anxiety Disorder,HTR3B
+AMISULPRIDE,OCD & Tourette Syndrome,HTR3B
+AMISULPRIDE,Schizophrenia,HTR3B
+ZIMELDINE,Major Depressive Disorder,HTR3B
+AMISULPRIDE,Bipolar Disorder,HTR3D
+AMISULPRIDE,Major Depressive Disorder,HTR3D
+AMISULPRIDE,Anxiety Disorder,HTR3D
+AMISULPRIDE,OCD & Tourette Syndrome,HTR3D
+AMISULPRIDE,Schizophrenia,HTR3D
+ZIMELDINE,Major Depressive Disorder,HTR3D
+AMISULPRIDE,Bipolar Disorder,HTR3C
+AMISULPRIDE,Major Depressive Disorder,HTR3C
+AMISULPRIDE,Anxiety Disorder,HTR3C
+AMISULPRIDE,OCD & Tourette Syndrome,HTR3C
+AMISULPRIDE,Schizophrenia,HTR3C
+ZIMELDINE,Major Depressive Disorder,HTR3C
+GTS-21,Schizophrenia,CHRNA7
+GTS-21,Autism Spectrum Disorder,CHRNA7
+GTS-21,Alzheimer’s Disease,CHRNA7
+BRADANICLINE,Attention Deficit Hyperactivity Disorder,CHRNA7
+BRADANICLINE,Schizophrenia,CHRNA7
+ENCENICLINE,Schizophrenia,CHRNA7
+ENCENICLINE,Alzheimer’s Disease,CHRNA7
+BNC-210,Anxiety Disorder,CHRNA7
+BNC-210,Post Traumatic Stress Disorder,CHRNA7
+RG3487,Schizophrenia,CHRNA7
+RG3487,Alzheimer’s Disease,CHRNA7
+AQW051,Alzheimer’s Disease,CHRNA7
+AQW051,Schizophrenia,CHRNA7
+ND0801,Attention Deficit Hyperactivity Disorder,CHRNA7
+ABT-126,Alzheimer’s Disease,CHRNA7
+ABT-126,Schizophrenia,CHRNA7
+AVL-3288,Schizophrenia,CHRNA7
+JNJ-39393406,Major Depressive Disorder,CHRNA7
+JNJ-39393406,Schizophrenia,CHRNA7
+SSR180711,Alzheimer’s Disease,CHRNA7
+AZD0328,Alzheimer’s Disease,CHRNA7
+AZD0328,Schizophrenia,CHRNA7
+APN1125,Schizophrenia,CHRNA7
+PEPTIDE YY HUMAN (3-36),Eating Disorders,NPY2R
+SILTUXIMAB,Schizophrenia,IL6
+SIRUKUMAB,Major Depressive Disorder,IL6
+TIAGABINE,Anxiety Disorder,SLC6A1
+TIAGABINE,Substance Use Disorders,SLC6A1
+TIAGABINE,Schizophrenia,SLC6A1
+MIFEPRISTONE,Major Depressive Disorder,PGR
+MIFEPRISTONE,Anxiety Disorder,PGR
+MIFEPRISTONE,Bipolar Disorder,PGR
+MIFEPRISTONE,Alzheimer’s Disease,PGR
+MIFEPRISTONE,Substance Use Disorders,PGR
+MIFEPRISTONE,Post Traumatic Stress Disorder,PGR
+ULIPRISTAL ACETATE,Major Depressive Disorder,PGR
+DROSPIRENONE,Eating Disorders,PGR
+DROSPIRENONE,Major Depressive Disorder,PGR
+MEDROXYPROGESTERONE ACETATE,Alzheimer’s Disease,PGR
+PROGESTERONE,Alzheimer’s Disease,PGR
+PROGESTERONE,Major Depressive Disorder,PGR
+MASITINIB,Alzheimer’s Disease,KIT
+DASATINIB,Alzheimer’s Disease,KIT
+MASITINIB,Alzheimer’s Disease,FGFR3
+TIAPRIDE,Schizophrenia,DRD3
+TIAPRIDE,OCD & Tourette Syndrome,DRD3
+TIAPRIDE,Major Depressive Disorder,DRD3
+TIAPRIDE,Anxiety Disorder,DRD3
+BLONANSERIN,Schizophrenia,DRD3
+CARIPRAZINE,Bipolar Disorder,DRD3
+CARIPRAZINE,Major Depressive Disorder,DRD3
+CARIPRAZINE,Autism Spectrum Disorder,DRD3
+CARIPRAZINE,Anxiety Disorder,DRD3
+CARIPRAZINE,Schizophrenia,DRD3
+CHLORPROTHIXENE,Schizophrenia,DRD3
+CHLORPROTHIXENE,Major Depressive Disorder,DRD3
+CHLORPROTHIXENE,Anxiety Disorder,DRD3
+LEVODOPA,OCD & Tourette Syndrome,DRD3
+LEVODOPA,Autism Spectrum Disorder,DRD3
+LEVODOPA,Schizophrenia,DRD3
+LEVODOPA,Post Traumatic Stress Disorder,DRD3
+ABT-925,Schizophrenia,DRD3
+BROMOCRIPTINE,Alzheimer’s Disease,DRD3
+CHLORPROMAZINE,Schizophrenia,DRD3
+OLANZAPINE,Major Depressive Disorder,DRD3
+OLANZAPINE,Schizophrenia,DRD3
+OLANZAPINE,Eating Disorders,DRD3
+OLANZAPINE,Anxiety Disorder,DRD3
+OLANZAPINE,Bipolar Disorder,DRD3
+OLANZAPINE,Substance Use Disorders,DRD3
+OLANZAPINE,Autism Spectrum Disorder,DRD3
+LOXAPINE,Schizophrenia,DRD3
+LOXAPINE,Bipolar Disorder,DRD3
+LOXAPINE,Anxiety Disorder,DRD3
+APOMORPHINE,Substance Use Disorders,DRD3
+ROTIGOTINE,Alzheimer’s Disease,DRD3
+HALOPERIDOL DECANOATE,Schizophrenia,DRD3
+HALOPERIDOL DECANOATE,OCD & Tourette Syndrome,DRD3
+PRAMIPEXOLE,Bipolar Disorder,DRD3
+PRAMIPEXOLE,Eating Disorders,DRD3
+PRAMIPEXOLE,OCD & Tourette Syndrome,DRD3
+PRAMIPEXOLE,Schizophrenia,DRD3
+PRAMIPEXOLE,Alzheimer’s Disease,DRD3
+PRAMIPEXOLE,Major Depressive Disorder,DRD3
+HALOPERIDOL,Anxiety Disorder,DRD3
+HALOPERIDOL,Schizophrenia,DRD3
+HALOPERIDOL,Bipolar Disorder,DRD3
+HALOPERIDOL,Alzheimer’s Disease,DRD3
+HALOPERIDOL,OCD & Tourette Syndrome,DRD3
+HALOPERIDOL,Major Depressive Disorder,DRD3
+THIORIDAZINE,Schizophrenia,DRD3
+THIORIDAZINE,Anxiety Disorder,DRD3
+THIORIDAZINE,Major Depressive Disorder,DRD3
+LEVOMEPROMAZINE,Schizophrenia,DRD3
+LEVOMEPROMAZINE,Anxiety Disorder,DRD3
+LEVOMEPROMAZINE,Major Depressive Disorder,DRD3
+TRIFLUOPERAZINE,Anxiety Disorder,DRD3
+TRIFLUOPERAZINE,Schizophrenia,DRD3
+AMOXAPINE,Major Depressive Disorder,DRD3
+PIMOZIDE,Anxiety Disorder,DRD3
+PIMOZIDE,OCD & Tourette Syndrome,DRD3
+PIMOZIDE,Schizophrenia,DRD3
+PIMOZIDE,Major Depressive Disorder,DRD3
+HYDROCHLOROTHIAZIDE,Substance Use Disorders,SLC12A3
+CHLORTHALIDONE,Substance Use Disorders,SLC12A3
+DECOGLURANT,Major Depressive Disorder,GRM3
+POMAGLUMETAD METHIONIL,Post Traumatic Stress Disorder,GRM3
+POMAGLUMETAD METHIONIL,Schizophrenia,GRM3
+DECOGLURANT,Major Depressive Disorder,GRM2
+LY2979165,Bipolar Disorder,GRM2
+POMAGLUMETAD METHIONIL,Post Traumatic Stress Disorder,GRM2
+POMAGLUMETAD METHIONIL,Schizophrenia,GRM2
+JNJ-40411813,Major Depressive Disorder,GRM2
+JNJ-40411813,Schizophrenia,GRM2
+BASIMGLURANT,Major Depressive Disorder,GRM5
+AZD2066,Major Depressive Disorder,GRM5
+MAVOGLURANT,OCD & Tourette Syndrome,GRM5
+MAVOGLURANT,Substance Use Disorders,GRM5
+ETHINYL ESTRADIOL,Eating Disorders,ESR1
+ETHINYL ESTRADIOL,Major Depressive Disorder,ESR1
+ESTRADIOL,Major Depressive Disorder,ESR1
+ESTRADIOL,Schizophrenia,ESR1
+ESTRADIOL,Alzheimer’s Disease,ESR1
+ESTRADIOL,Post Traumatic Stress Disorder,ESR1
+TAMOXIFEN,Bipolar Disorder,ESR1
+"ESTROGENS, CONJUGATED",Alzheimer’s Disease,ESR1
+TENECTEPLASE,Substance Use Disorders,PLG
+ISOFLURANE,Substance Use Disorders,KCNK10
+SEVOFLURANE,Substance Use Disorders,KCNK10
+ISOFLURANE,Substance Use Disorders,KCNK18
+SEVOFLURANE,Substance Use Disorders,KCNK18
+ISOFLURANE,Substance Use Disorders,KCNK9
+SEVOFLURANE,Substance Use Disorders,KCNK9
+ISOFLURANE,Substance Use Disorders,KCNK2
+SEVOFLURANE,Substance Use Disorders,KCNK2
+ISOFLURANE,Substance Use Disorders,KCNK3
+SEVOFLURANE,Substance Use Disorders,KCNK3
+TRIMIPRAMINE,Major Depressive Disorder,HRH1
+TRIMIPRAMINE,Schizophrenia,HRH1
+TRIMIPRAMINE,Anxiety Disorder,HRH1
+PROMETHAZINE,Anxiety Disorder,HRH1
+PROMETHAZINE,Major Depressive Disorder,HRH1
+PROMETHAZINE,Schizophrenia,HRH1
+BETAHISTINE,Major Depressive Disorder,HRH1
+BETAHISTINE,Attention Deficit Hyperactivity Disorder,HRH1
+DIBENZEPIN,Major Depressive Disorder,HRH1
+HYDROXYZINE,Anxiety Disorder,HRH1
+HYDROXYZINE,Schizophrenia,HRH1
+HYDROXYZINE,Major Depressive Disorder,HRH1
+DIPHENHYDRAMINE,Substance Use Disorders,HRH1
+DIPHENHYDRAMINE,Schizophrenia,HRH1
+DIPHENHYDRAMINE,Major Depressive Disorder,HRH1
+DIPHENHYDRAMINE,Anxiety Disorder,HRH1
+DIPHENHYDRAMINE,Autism Spectrum Disorder,HRH1
+CYPROHEPTADINE,Substance Use Disorders,HRH1
+BUPRENORPHINE,Major Depressive Disorder,OPRK1
+BUPRENORPHINE,Substance Use Disorders,OPRK1
+BUPRENORPHINE,Post Traumatic Stress Disorder,OPRK1
+BTRX-335140,Major Depressive Disorder,OPRK1
+SAMIDORPHAN,Substance Use Disorders,OPRK1
+SAMIDORPHAN,Eating Disorders,OPRK1
+SAMIDORPHAN,Bipolar Disorder,OPRK1
+SAMIDORPHAN,Schizophrenia,OPRK1
+ATICAPRANT,Major Depressive Disorder,OPRK1
+ATICAPRANT,Anxiety Disorder,OPRK1
+BUTORPHANOL,Anxiety Disorder,OPRK1
+NALTREXONE,Major Depressive Disorder,OPRK1
+NALTREXONE,Substance Use Disorders,OPRK1
+NALTREXONE,Post Traumatic Stress Disorder,OPRK1
+NALTREXONE,OCD & Tourette Syndrome,OPRK1
+NALTREXONE,Schizophrenia,OPRK1
+NALTREXONE,Eating Disorders,OPRK1
+NALBUPHINE,Substance Use Disorders,OPRK1
+NALMEFENE,Substance Use Disorders,OPRK1
+NALOXONE,Substance Use Disorders,OPRK1
+NALOXONE,Major Depressive Disorder,OPRK1
+NALOXONE,Eating Disorders,OPRK1
+ODELEPRAN,Substance Use Disorders,OPRK1
+PROPAFENONE,Substance Use Disorders,SCN4A
+COCAINE,Substance Use Disorders,SCN4A
+TOPIRAMATE,Post Traumatic Stress Disorder,SCN4A
+TOPIRAMATE,Schizophrenia,SCN4A
+TOPIRAMATE,Eating Disorders,SCN4A
+TOPIRAMATE,OCD & Tourette Syndrome,SCN4A
+TOPIRAMATE,Substance Use Disorders,SCN4A
+TOPIRAMATE,Anxiety Disorder,SCN4A
+TOPIRAMATE,Bipolar Disorder,SCN4A
+TOPIRAMATE,Major Depressive Disorder,SCN4A
+ERLOSAMIDE,Substance Use Disorders,SCN4A
+ERLOSAMIDE,Anxiety Disorder,SCN4A
+ERLOSAMIDE,Schizophrenia,SCN4A
+ERLOSAMIDE,Major Depressive Disorder,SCN4A
+PROCAINAMIDE,Substance Use Disorders,SCN4A
+ESLICARBAZEPINE ACETATE,Bipolar Disorder,SCN4A
+MEXILETINE,Substance Use Disorders,SCN4A
+LAMOTRIGINE,Substance Use Disorders,SCN4A
+LAMOTRIGINE,Anxiety Disorder,SCN4A
+LAMOTRIGINE,Eating Disorders,SCN4A
+LAMOTRIGINE,Bipolar Disorder,SCN4A
+LAMOTRIGINE,Schizophrenia,SCN4A
+LAMOTRIGINE,Major Depressive Disorder,SCN4A
+CARBAMAZEPINE,Anxiety Disorder,SCN4A
+CARBAMAZEPINE,Schizophrenia,SCN4A
+CARBAMAZEPINE,Bipolar Disorder,SCN4A
+CARBAMAZEPINE,Major Depressive Disorder,SCN4A
+PHENYTOIN,Schizophrenia,SCN4A
+PHENYTOIN,Anxiety Disorder,SCN4A
+PHENYTOIN,Major Depressive Disorder,SCN4A
+ZONISAMIDE,Substance Use Disorders,SCN4A
+ZONISAMIDE,Schizophrenia,SCN4A
+ZONISAMIDE,Eating Disorders,SCN4A
+EVENAMIDE,Schizophrenia,SCN4A
+QUINIDINE,Major Depressive Disorder,SCN4A
+QUINIDINE,Autism Spectrum Disorder,SCN4A
+QUINIDINE,Substance Use Disorders,SCN4A
+LIDOCAINE,Anxiety Disorder,SCN4A
+LIDOCAINE,Attention Deficit Hyperactivity Disorder,SCN4A
+ROPIVACAINE,Post Traumatic Stress Disorder,SCN4A
+RILUZOLE,Major Depressive Disorder,SCN4A
+RILUZOLE,OCD & Tourette Syndrome,SCN4A
+RILUZOLE,Post Traumatic Stress Disorder,SCN4A
+RILUZOLE,Alzheimer’s Disease,SCN4A
+RILUZOLE,Autism Spectrum Disorder,SCN4A
+RILUZOLE,Bipolar Disorder,SCN4A
+OXCARBAZEPINE,Schizophrenia,SCN4A
+OXCARBAZEPINE,Anxiety Disorder,SCN4A
+OXCARBAZEPINE,Major Depressive Disorder,SCN4A
+BUPIVACAINE,Post Traumatic Stress Disorder,SCN4A
+PROPAFENONE,Substance Use Disorders,SCN11A
+COCAINE,Substance Use Disorders,SCN11A
+TOPIRAMATE,Post Traumatic Stress Disorder,SCN11A
+TOPIRAMATE,Schizophrenia,SCN11A
+TOPIRAMATE,Eating Disorders,SCN11A
+TOPIRAMATE,OCD & Tourette Syndrome,SCN11A
+TOPIRAMATE,Substance Use Disorders,SCN11A
+TOPIRAMATE,Anxiety Disorder,SCN11A
+TOPIRAMATE,Bipolar Disorder,SCN11A
+TOPIRAMATE,Major Depressive Disorder,SCN11A
+ERLOSAMIDE,Substance Use Disorders,SCN11A
+ERLOSAMIDE,Anxiety Disorder,SCN11A
+ERLOSAMIDE,Schizophrenia,SCN11A
+ERLOSAMIDE,Major Depressive Disorder,SCN11A
+PROCAINAMIDE,Substance Use Disorders,SCN11A
+ESLICARBAZEPINE ACETATE,Bipolar Disorder,SCN11A
+MEXILETINE,Substance Use Disorders,SCN11A
+LAMOTRIGINE,Substance Use Disorders,SCN11A
+LAMOTRIGINE,Anxiety Disorder,SCN11A
+LAMOTRIGINE,Eating Disorders,SCN11A
+LAMOTRIGINE,Bipolar Disorder,SCN11A
+LAMOTRIGINE,Schizophrenia,SCN11A
+LAMOTRIGINE,Major Depressive Disorder,SCN11A
+CARBAMAZEPINE,Anxiety Disorder,SCN11A
+CARBAMAZEPINE,Schizophrenia,SCN11A
+CARBAMAZEPINE,Bipolar Disorder,SCN11A
+CARBAMAZEPINE,Major Depressive Disorder,SCN11A
+PHENYTOIN,Schizophrenia,SCN11A
+PHENYTOIN,Anxiety Disorder,SCN11A
+PHENYTOIN,Major Depressive Disorder,SCN11A
+ZONISAMIDE,Substance Use Disorders,SCN11A
+ZONISAMIDE,Schizophrenia,SCN11A
+ZONISAMIDE,Eating Disorders,SCN11A
+EVENAMIDE,Schizophrenia,SCN11A
+QUINIDINE,Major Depressive Disorder,SCN11A
+QUINIDINE,Autism Spectrum Disorder,SCN11A
+QUINIDINE,Substance Use Disorders,SCN11A
+LIDOCAINE,Anxiety Disorder,SCN11A
+LIDOCAINE,Attention Deficit Hyperactivity Disorder,SCN11A
+ROPIVACAINE,Post Traumatic Stress Disorder,SCN11A
+RILUZOLE,Major Depressive Disorder,SCN11A
+RILUZOLE,OCD & Tourette Syndrome,SCN11A
+RILUZOLE,Post Traumatic Stress Disorder,SCN11A
+RILUZOLE,Alzheimer’s Disease,SCN11A
+RILUZOLE,Autism Spectrum Disorder,SCN11A
+RILUZOLE,Bipolar Disorder,SCN11A
+OXCARBAZEPINE,Schizophrenia,SCN11A
+OXCARBAZEPINE,Anxiety Disorder,SCN11A
+OXCARBAZEPINE,Major Depressive Disorder,SCN11A
+PROPAFENONE,Substance Use Disorders,SCN1A
+COCAINE,Substance Use Disorders,SCN1A
+TOPIRAMATE,Post Traumatic Stress Disorder,SCN1A
+TOPIRAMATE,Schizophrenia,SCN1A
+TOPIRAMATE,Eating Disorders,SCN1A
+TOPIRAMATE,OCD & Tourette Syndrome,SCN1A
+TOPIRAMATE,Substance Use Disorders,SCN1A
+TOPIRAMATE,Anxiety Disorder,SCN1A
+TOPIRAMATE,Bipolar Disorder,SCN1A
+TOPIRAMATE,Major Depressive Disorder,SCN1A
+ERLOSAMIDE,Substance Use Disorders,SCN1A
+ERLOSAMIDE,Anxiety Disorder,SCN1A
+ERLOSAMIDE,Schizophrenia,SCN1A
+ERLOSAMIDE,Major Depressive Disorder,SCN1A
+PROCAINAMIDE,Substance Use Disorders,SCN1A
+ESLICARBAZEPINE ACETATE,Bipolar Disorder,SCN1A
+MEXILETINE,Substance Use Disorders,SCN1A
+LAMOTRIGINE,Substance Use Disorders,SCN1A
+LAMOTRIGINE,Anxiety Disorder,SCN1A
+LAMOTRIGINE,Eating Disorders,SCN1A
+LAMOTRIGINE,Bipolar Disorder,SCN1A
+LAMOTRIGINE,Schizophrenia,SCN1A
+LAMOTRIGINE,Major Depressive Disorder,SCN1A
+CARBAMAZEPINE,Anxiety Disorder,SCN1A
+CARBAMAZEPINE,Schizophrenia,SCN1A
+CARBAMAZEPINE,Bipolar Disorder,SCN1A
+CARBAMAZEPINE,Major Depressive Disorder,SCN1A
+PHENYTOIN,Schizophrenia,SCN1A
+PHENYTOIN,Anxiety Disorder,SCN1A
+PHENYTOIN,Major Depressive Disorder,SCN1A
+ZONISAMIDE,Substance Use Disorders,SCN1A
+ZONISAMIDE,Schizophrenia,SCN1A
+ZONISAMIDE,Eating Disorders,SCN1A
+EVENAMIDE,Schizophrenia,SCN1A
+QUINIDINE,Major Depressive Disorder,SCN1A
+QUINIDINE,Autism Spectrum Disorder,SCN1A
+QUINIDINE,Substance Use Disorders,SCN1A
+LIDOCAINE,Anxiety Disorder,SCN1A
+LIDOCAINE,Attention Deficit Hyperactivity Disorder,SCN1A
+ROPIVACAINE,Post Traumatic Stress Disorder,SCN1A
+RILUZOLE,Major Depressive Disorder,SCN1A
+RILUZOLE,OCD & Tourette Syndrome,SCN1A
+RILUZOLE,Post Traumatic Stress Disorder,SCN1A
+RILUZOLE,Alzheimer’s Disease,SCN1A
+RILUZOLE,Autism Spectrum Disorder,SCN1A
+RILUZOLE,Bipolar Disorder,SCN1A
+OXCARBAZEPINE,Schizophrenia,SCN1A
+OXCARBAZEPINE,Anxiety Disorder,SCN1A
+OXCARBAZEPINE,Major Depressive Disorder,SCN1A
+PROPAFENONE,Substance Use Disorders,SCN2A
+COCAINE,Substance Use Disorders,SCN2A
+TOPIRAMATE,Post Traumatic Stress Disorder,SCN2A
+TOPIRAMATE,Schizophrenia,SCN2A
+TOPIRAMATE,Eating Disorders,SCN2A
+TOPIRAMATE,OCD & Tourette Syndrome,SCN2A
+TOPIRAMATE,Substance Use Disorders,SCN2A
+TOPIRAMATE,Anxiety Disorder,SCN2A
+TOPIRAMATE,Bipolar Disorder,SCN2A
+TOPIRAMATE,Major Depressive Disorder,SCN2A
+ERLOSAMIDE,Substance Use Disorders,SCN2A
+ERLOSAMIDE,Anxiety Disorder,SCN2A
+ERLOSAMIDE,Schizophrenia,SCN2A
+ERLOSAMIDE,Major Depressive Disorder,SCN2A
+PROCAINAMIDE,Substance Use Disorders,SCN2A
+ESLICARBAZEPINE ACETATE,Bipolar Disorder,SCN2A
+MEXILETINE,Substance Use Disorders,SCN2A
+LAMOTRIGINE,Substance Use Disorders,SCN2A
+LAMOTRIGINE,Anxiety Disorder,SCN2A
+LAMOTRIGINE,Eating Disorders,SCN2A
+LAMOTRIGINE,Bipolar Disorder,SCN2A
+LAMOTRIGINE,Schizophrenia,SCN2A
+LAMOTRIGINE,Major Depressive Disorder,SCN2A
+CARBAMAZEPINE,Anxiety Disorder,SCN2A
+CARBAMAZEPINE,Schizophrenia,SCN2A
+CARBAMAZEPINE,Bipolar Disorder,SCN2A
+CARBAMAZEPINE,Major Depressive Disorder,SCN2A
+PHENYTOIN,Schizophrenia,SCN2A
+PHENYTOIN,Anxiety Disorder,SCN2A
+PHENYTOIN,Major Depressive Disorder,SCN2A
+ZONISAMIDE,Substance Use Disorders,SCN2A
+ZONISAMIDE,Schizophrenia,SCN2A
+ZONISAMIDE,Eating Disorders,SCN2A
+EVENAMIDE,Schizophrenia,SCN2A
+QUINIDINE,Major Depressive Disorder,SCN2A
+QUINIDINE,Autism Spectrum Disorder,SCN2A
+QUINIDINE,Substance Use Disorders,SCN2A
+LIDOCAINE,Anxiety Disorder,SCN2A
+LIDOCAINE,Attention Deficit Hyperactivity Disorder,SCN2A
+ROPIVACAINE,Post Traumatic Stress Disorder,SCN2A
+RILUZOLE,Major Depressive Disorder,SCN2A
+RILUZOLE,OCD & Tourette Syndrome,SCN2A
+RILUZOLE,Post Traumatic Stress Disorder,SCN2A
+RILUZOLE,Alzheimer’s Disease,SCN2A
+RILUZOLE,Autism Spectrum Disorder,SCN2A
+RILUZOLE,Bipolar Disorder,SCN2A
+OXCARBAZEPINE,Schizophrenia,SCN2A
+OXCARBAZEPINE,Anxiety Disorder,SCN2A
+OXCARBAZEPINE,Major Depressive Disorder,SCN2A
+PROPAFENONE,Substance Use Disorders,SCN3A
+COCAINE,Substance Use Disorders,SCN3A
+TOPIRAMATE,Post Traumatic Stress Disorder,SCN3A
+TOPIRAMATE,Schizophrenia,SCN3A
+TOPIRAMATE,Eating Disorders,SCN3A
+TOPIRAMATE,OCD & Tourette Syndrome,SCN3A
+TOPIRAMATE,Substance Use Disorders,SCN3A
+TOPIRAMATE,Anxiety Disorder,SCN3A
+TOPIRAMATE,Bipolar Disorder,SCN3A
+TOPIRAMATE,Major Depressive Disorder,SCN3A
+ERLOSAMIDE,Substance Use Disorders,SCN3A
+ERLOSAMIDE,Anxiety Disorder,SCN3A
+ERLOSAMIDE,Schizophrenia,SCN3A
+ERLOSAMIDE,Major Depressive Disorder,SCN3A
+PROCAINAMIDE,Substance Use Disorders,SCN3A
+ESLICARBAZEPINE ACETATE,Bipolar Disorder,SCN3A
+MEXILETINE,Substance Use Disorders,SCN3A
+LAMOTRIGINE,Substance Use Disorders,SCN3A
+LAMOTRIGINE,Anxiety Disorder,SCN3A
+LAMOTRIGINE,Eating Disorders,SCN3A
+LAMOTRIGINE,Bipolar Disorder,SCN3A
+LAMOTRIGINE,Schizophrenia,SCN3A
+LAMOTRIGINE,Major Depressive Disorder,SCN3A
+CARBAMAZEPINE,Anxiety Disorder,SCN3A
+CARBAMAZEPINE,Schizophrenia,SCN3A
+CARBAMAZEPINE,Bipolar Disorder,SCN3A
+CARBAMAZEPINE,Major Depressive Disorder,SCN3A
+PHENYTOIN,Schizophrenia,SCN3A
+PHENYTOIN,Anxiety Disorder,SCN3A
+PHENYTOIN,Major Depressive Disorder,SCN3A
+ZONISAMIDE,Substance Use Disorders,SCN3A
+ZONISAMIDE,Schizophrenia,SCN3A
+ZONISAMIDE,Eating Disorders,SCN3A
+EVENAMIDE,Schizophrenia,SCN3A
+QUINIDINE,Major Depressive Disorder,SCN3A
+QUINIDINE,Autism Spectrum Disorder,SCN3A
+QUINIDINE,Substance Use Disorders,SCN3A
+LIDOCAINE,Anxiety Disorder,SCN3A
+LIDOCAINE,Attention Deficit Hyperactivity Disorder,SCN3A
+ROPIVACAINE,Post Traumatic Stress Disorder,SCN3A
+RILUZOLE,Major Depressive Disorder,SCN3A
+RILUZOLE,OCD & Tourette Syndrome,SCN3A
+RILUZOLE,Post Traumatic Stress Disorder,SCN3A
+RILUZOLE,Alzheimer’s Disease,SCN3A
+RILUZOLE,Autism Spectrum Disorder,SCN3A
+RILUZOLE,Bipolar Disorder,SCN3A
+OXCARBAZEPINE,Schizophrenia,SCN3A
+OXCARBAZEPINE,Anxiety Disorder,SCN3A
+OXCARBAZEPINE,Major Depressive Disorder,SCN3A
+PROPAFENONE,Substance Use Disorders,SCN10A
+COCAINE,Substance Use Disorders,SCN10A
+TOPIRAMATE,Post Traumatic Stress Disorder,SCN10A
+TOPIRAMATE,Schizophrenia,SCN10A
+TOPIRAMATE,Eating Disorders,SCN10A
+TOPIRAMATE,OCD & Tourette Syndrome,SCN10A
+TOPIRAMATE,Substance Use Disorders,SCN10A
+TOPIRAMATE,Anxiety Disorder,SCN10A
+TOPIRAMATE,Bipolar Disorder,SCN10A
+TOPIRAMATE,Major Depressive Disorder,SCN10A
+ERLOSAMIDE,Substance Use Disorders,SCN10A
+ERLOSAMIDE,Anxiety Disorder,SCN10A
+ERLOSAMIDE,Schizophrenia,SCN10A
+ERLOSAMIDE,Major Depressive Disorder,SCN10A
+PROCAINAMIDE,Substance Use Disorders,SCN10A
+ESLICARBAZEPINE ACETATE,Bipolar Disorder,SCN10A
+MEXILETINE,Substance Use Disorders,SCN10A
+LAMOTRIGINE,Substance Use Disorders,SCN10A
+LAMOTRIGINE,Anxiety Disorder,SCN10A
+LAMOTRIGINE,Eating Disorders,SCN10A
+LAMOTRIGINE,Bipolar Disorder,SCN10A
+LAMOTRIGINE,Schizophrenia,SCN10A
+LAMOTRIGINE,Major Depressive Disorder,SCN10A
+CARBAMAZEPINE,Anxiety Disorder,SCN10A
+CARBAMAZEPINE,Schizophrenia,SCN10A
+CARBAMAZEPINE,Bipolar Disorder,SCN10A
+CARBAMAZEPINE,Major Depressive Disorder,SCN10A
+PHENYTOIN,Schizophrenia,SCN10A
+PHENYTOIN,Anxiety Disorder,SCN10A
+PHENYTOIN,Major Depressive Disorder,SCN10A
+ZONISAMIDE,Substance Use Disorders,SCN10A
+ZONISAMIDE,Schizophrenia,SCN10A
+ZONISAMIDE,Eating Disorders,SCN10A
+EVENAMIDE,Schizophrenia,SCN10A
+QUINIDINE,Major Depressive Disorder,SCN10A
+QUINIDINE,Autism Spectrum Disorder,SCN10A
+QUINIDINE,Substance Use Disorders,SCN10A
+LIDOCAINE,Anxiety Disorder,SCN10A
+LIDOCAINE,Attention Deficit Hyperactivity Disorder,SCN10A
+ROPIVACAINE,Post Traumatic Stress Disorder,SCN10A
+RILUZOLE,Major Depressive Disorder,SCN10A
+RILUZOLE,OCD & Tourette Syndrome,SCN10A
+RILUZOLE,Post Traumatic Stress Disorder,SCN10A
+RILUZOLE,Alzheimer’s Disease,SCN10A
+RILUZOLE,Autism Spectrum Disorder,SCN10A
+RILUZOLE,Bipolar Disorder,SCN10A
+OXCARBAZEPINE,Schizophrenia,SCN10A
+OXCARBAZEPINE,Anxiety Disorder,SCN10A
+OXCARBAZEPINE,Major Depressive Disorder,SCN10A
+PROPAFENONE,Substance Use Disorders,SCN5A
+COCAINE,Substance Use Disorders,SCN5A
+TOPIRAMATE,Post Traumatic Stress Disorder,SCN5A
+TOPIRAMATE,Schizophrenia,SCN5A
+TOPIRAMATE,Eating Disorders,SCN5A
+TOPIRAMATE,OCD & Tourette Syndrome,SCN5A
+TOPIRAMATE,Substance Use Disorders,SCN5A
+TOPIRAMATE,Anxiety Disorder,SCN5A
+TOPIRAMATE,Bipolar Disorder,SCN5A
+TOPIRAMATE,Major Depressive Disorder,SCN5A
+ERLOSAMIDE,Substance Use Disorders,SCN5A
+ERLOSAMIDE,Anxiety Disorder,SCN5A
+ERLOSAMIDE,Schizophrenia,SCN5A
+ERLOSAMIDE,Major Depressive Disorder,SCN5A
+PROCAINAMIDE,Substance Use Disorders,SCN5A
+ESLICARBAZEPINE ACETATE,Bipolar Disorder,SCN5A
+MEXILETINE,Substance Use Disorders,SCN5A
+LAMOTRIGINE,Substance Use Disorders,SCN5A
+LAMOTRIGINE,Anxiety Disorder,SCN5A
+LAMOTRIGINE,Eating Disorders,SCN5A
+LAMOTRIGINE,Bipolar Disorder,SCN5A
+LAMOTRIGINE,Schizophrenia,SCN5A
+LAMOTRIGINE,Major Depressive Disorder,SCN5A
+CARBAMAZEPINE,Anxiety Disorder,SCN5A
+CARBAMAZEPINE,Schizophrenia,SCN5A
+CARBAMAZEPINE,Bipolar Disorder,SCN5A
+CARBAMAZEPINE,Major Depressive Disorder,SCN5A
+PHENYTOIN,Schizophrenia,SCN5A
+PHENYTOIN,Anxiety Disorder,SCN5A
+PHENYTOIN,Major Depressive Disorder,SCN5A
+ZONISAMIDE,Substance Use Disorders,SCN5A
+ZONISAMIDE,Schizophrenia,SCN5A
+ZONISAMIDE,Eating Disorders,SCN5A
+EVENAMIDE,Schizophrenia,SCN5A
+QUINIDINE,Major Depressive Disorder,SCN5A
+QUINIDINE,Autism Spectrum Disorder,SCN5A
+QUINIDINE,Substance Use Disorders,SCN5A
+LIDOCAINE,Anxiety Disorder,SCN5A
+LIDOCAINE,Attention Deficit Hyperactivity Disorder,SCN5A
+ROPIVACAINE,Post Traumatic Stress Disorder,SCN5A
+RILUZOLE,Major Depressive Disorder,SCN5A
+RILUZOLE,OCD & Tourette Syndrome,SCN5A
+RILUZOLE,Post Traumatic Stress Disorder,SCN5A
+RILUZOLE,Alzheimer’s Disease,SCN5A
+RILUZOLE,Autism Spectrum Disorder,SCN5A
+RILUZOLE,Bipolar Disorder,SCN5A
+OXCARBAZEPINE,Schizophrenia,SCN5A
+OXCARBAZEPINE,Anxiety Disorder,SCN5A
+OXCARBAZEPINE,Major Depressive Disorder,SCN5A
+PROPAFENONE,Substance Use Disorders,SCN7A
+COCAINE,Substance Use Disorders,SCN7A
+TOPIRAMATE,Post Traumatic Stress Disorder,SCN7A
+TOPIRAMATE,Schizophrenia,SCN7A
+TOPIRAMATE,Eating Disorders,SCN7A
+TOPIRAMATE,OCD & Tourette Syndrome,SCN7A
+TOPIRAMATE,Substance Use Disorders,SCN7A
+TOPIRAMATE,Anxiety Disorder,SCN7A
+TOPIRAMATE,Bipolar Disorder,SCN7A
+TOPIRAMATE,Major Depressive Disorder,SCN7A
+ERLOSAMIDE,Substance Use Disorders,SCN7A
+ERLOSAMIDE,Anxiety Disorder,SCN7A
+ERLOSAMIDE,Schizophrenia,SCN7A
+ERLOSAMIDE,Major Depressive Disorder,SCN7A
+PROCAINAMIDE,Substance Use Disorders,SCN7A
+ESLICARBAZEPINE ACETATE,Bipolar Disorder,SCN7A
+MEXILETINE,Substance Use Disorders,SCN7A
+LAMOTRIGINE,Substance Use Disorders,SCN7A
+LAMOTRIGINE,Anxiety Disorder,SCN7A
+LAMOTRIGINE,Eating Disorders,SCN7A
+LAMOTRIGINE,Bipolar Disorder,SCN7A
+LAMOTRIGINE,Schizophrenia,SCN7A
+LAMOTRIGINE,Major Depressive Disorder,SCN7A
+CARBAMAZEPINE,Anxiety Disorder,SCN7A
+CARBAMAZEPINE,Schizophrenia,SCN7A
+CARBAMAZEPINE,Bipolar Disorder,SCN7A
+CARBAMAZEPINE,Major Depressive Disorder,SCN7A
+PHENYTOIN,Schizophrenia,SCN7A
+PHENYTOIN,Anxiety Disorder,SCN7A
+PHENYTOIN,Major Depressive Disorder,SCN7A
+ZONISAMIDE,Substance Use Disorders,SCN7A
+ZONISAMIDE,Schizophrenia,SCN7A
+ZONISAMIDE,Eating Disorders,SCN7A
+EVENAMIDE,Schizophrenia,SCN7A
+QUINIDINE,Major Depressive Disorder,SCN7A
+QUINIDINE,Autism Spectrum Disorder,SCN7A
+QUINIDINE,Substance Use Disorders,SCN7A
+LIDOCAINE,Anxiety Disorder,SCN7A
+LIDOCAINE,Attention Deficit Hyperactivity Disorder,SCN7A
+ROPIVACAINE,Post Traumatic Stress Disorder,SCN7A
+RILUZOLE,Major Depressive Disorder,SCN7A
+RILUZOLE,OCD & Tourette Syndrome,SCN7A
+RILUZOLE,Post Traumatic Stress Disorder,SCN7A
+RILUZOLE,Alzheimer’s Disease,SCN7A
+RILUZOLE,Autism Spectrum Disorder,SCN7A
+RILUZOLE,Bipolar Disorder,SCN7A
+OXCARBAZEPINE,Schizophrenia,SCN7A
+OXCARBAZEPINE,Anxiety Disorder,SCN7A
+OXCARBAZEPINE,Major Depressive Disorder,SCN7A
+PROPAFENONE,Substance Use Disorders,SCN9A
+COCAINE,Substance Use Disorders,SCN9A
+TOPIRAMATE,Post Traumatic Stress Disorder,SCN9A
+TOPIRAMATE,Schizophrenia,SCN9A
+TOPIRAMATE,Eating Disorders,SCN9A
+TOPIRAMATE,OCD & Tourette Syndrome,SCN9A
+TOPIRAMATE,Substance Use Disorders,SCN9A
+TOPIRAMATE,Anxiety Disorder,SCN9A
+TOPIRAMATE,Bipolar Disorder,SCN9A
+TOPIRAMATE,Major Depressive Disorder,SCN9A
+ERLOSAMIDE,Substance Use Disorders,SCN9A
+ERLOSAMIDE,Anxiety Disorder,SCN9A
+ERLOSAMIDE,Schizophrenia,SCN9A
+ERLOSAMIDE,Major Depressive Disorder,SCN9A
+PROCAINAMIDE,Substance Use Disorders,SCN9A
+ESLICARBAZEPINE ACETATE,Bipolar Disorder,SCN9A
+MEXILETINE,Substance Use Disorders,SCN9A
+LAMOTRIGINE,Substance Use Disorders,SCN9A
+LAMOTRIGINE,Anxiety Disorder,SCN9A
+LAMOTRIGINE,Eating Disorders,SCN9A
+LAMOTRIGINE,Bipolar Disorder,SCN9A
+LAMOTRIGINE,Schizophrenia,SCN9A
+LAMOTRIGINE,Major Depressive Disorder,SCN9A
+CARBAMAZEPINE,Anxiety Disorder,SCN9A
+CARBAMAZEPINE,Schizophrenia,SCN9A
+CARBAMAZEPINE,Bipolar Disorder,SCN9A
+CARBAMAZEPINE,Major Depressive Disorder,SCN9A
+PHENYTOIN,Schizophrenia,SCN9A
+PHENYTOIN,Anxiety Disorder,SCN9A
+PHENYTOIN,Major Depressive Disorder,SCN9A
+ZONISAMIDE,Substance Use Disorders,SCN9A
+ZONISAMIDE,Schizophrenia,SCN9A
+ZONISAMIDE,Eating Disorders,SCN9A
+EVENAMIDE,Schizophrenia,SCN9A
+QUINIDINE,Major Depressive Disorder,SCN9A
+QUINIDINE,Autism Spectrum Disorder,SCN9A
+QUINIDINE,Substance Use Disorders,SCN9A
+LIDOCAINE,Anxiety Disorder,SCN9A
+LIDOCAINE,Attention Deficit Hyperactivity Disorder,SCN9A
+ROPIVACAINE,Post Traumatic Stress Disorder,SCN9A
+RILUZOLE,Major Depressive Disorder,SCN9A
+RILUZOLE,OCD & Tourette Syndrome,SCN9A
+RILUZOLE,Post Traumatic Stress Disorder,SCN9A
+RILUZOLE,Alzheimer’s Disease,SCN9A
+RILUZOLE,Autism Spectrum Disorder,SCN9A
+RILUZOLE,Bipolar Disorder,SCN9A
+OXCARBAZEPINE,Schizophrenia,SCN9A
+OXCARBAZEPINE,Anxiety Disorder,SCN9A
+OXCARBAZEPINE,Major Depressive Disorder,SCN9A
+VIXOTRIGINE,Bipolar Disorder,SCN9A
+PROPAFENONE,Substance Use Disorders,SCN8A
+COCAINE,Substance Use Disorders,SCN8A
+TOPIRAMATE,Post Traumatic Stress Disorder,SCN8A
+TOPIRAMATE,Schizophrenia,SCN8A
+TOPIRAMATE,Eating Disorders,SCN8A
+TOPIRAMATE,OCD & Tourette Syndrome,SCN8A
+TOPIRAMATE,Substance Use Disorders,SCN8A
+TOPIRAMATE,Anxiety Disorder,SCN8A
+TOPIRAMATE,Bipolar Disorder,SCN8A
+TOPIRAMATE,Major Depressive Disorder,SCN8A
+ERLOSAMIDE,Substance Use Disorders,SCN8A
+ERLOSAMIDE,Anxiety Disorder,SCN8A
+ERLOSAMIDE,Schizophrenia,SCN8A
+ERLOSAMIDE,Major Depressive Disorder,SCN8A
+PROCAINAMIDE,Substance Use Disorders,SCN8A
+ESLICARBAZEPINE ACETATE,Bipolar Disorder,SCN8A
+MEXILETINE,Substance Use Disorders,SCN8A
+LAMOTRIGINE,Substance Use Disorders,SCN8A
+LAMOTRIGINE,Anxiety Disorder,SCN8A
+LAMOTRIGINE,Eating Disorders,SCN8A
+LAMOTRIGINE,Bipolar Disorder,SCN8A
+LAMOTRIGINE,Schizophrenia,SCN8A
+LAMOTRIGINE,Major Depressive Disorder,SCN8A
+CARBAMAZEPINE,Anxiety Disorder,SCN8A
+CARBAMAZEPINE,Schizophrenia,SCN8A
+CARBAMAZEPINE,Bipolar Disorder,SCN8A
+CARBAMAZEPINE,Major Depressive Disorder,SCN8A
+PHENYTOIN,Schizophrenia,SCN8A
+PHENYTOIN,Anxiety Disorder,SCN8A
+PHENYTOIN,Major Depressive Disorder,SCN8A
+ZONISAMIDE,Substance Use Disorders,SCN8A
+ZONISAMIDE,Schizophrenia,SCN8A
+ZONISAMIDE,Eating Disorders,SCN8A
+EVENAMIDE,Schizophrenia,SCN8A
+QUINIDINE,Major Depressive Disorder,SCN8A
+QUINIDINE,Autism Spectrum Disorder,SCN8A
+QUINIDINE,Substance Use Disorders,SCN8A
+LIDOCAINE,Anxiety Disorder,SCN8A
+LIDOCAINE,Attention Deficit Hyperactivity Disorder,SCN8A
+ROPIVACAINE,Post Traumatic Stress Disorder,SCN8A
+RILUZOLE,Major Depressive Disorder,SCN8A
+RILUZOLE,OCD & Tourette Syndrome,SCN8A
+RILUZOLE,Post Traumatic Stress Disorder,SCN8A
+RILUZOLE,Alzheimer’s Disease,SCN8A
+RILUZOLE,Autism Spectrum Disorder,SCN8A
+RILUZOLE,Bipolar Disorder,SCN8A
+OXCARBAZEPINE,Schizophrenia,SCN8A
+OXCARBAZEPINE,Anxiety Disorder,SCN8A
+OXCARBAZEPINE,Major Depressive Disorder,SCN8A
+BROMOCRIPTINE,Alzheimer’s Disease,DRD4
+CHLORPROMAZINE,Schizophrenia,DRD4
+OLANZAPINE,Major Depressive Disorder,DRD4
+OLANZAPINE,Schizophrenia,DRD4
+OLANZAPINE,Eating Disorders,DRD4
+OLANZAPINE,Anxiety Disorder,DRD4
+OLANZAPINE,Bipolar Disorder,DRD4
+OLANZAPINE,Substance Use Disorders,DRD4
+OLANZAPINE,Autism Spectrum Disorder,DRD4
+LOXAPINE,Schizophrenia,DRD4
+LOXAPINE,Bipolar Disorder,DRD4
+LOXAPINE,Anxiety Disorder,DRD4
+APOMORPHINE,Substance Use Disorders,DRD4
+ROTIGOTINE,Alzheimer’s Disease,DRD4
+HALOPERIDOL DECANOATE,Schizophrenia,DRD4
+HALOPERIDOL DECANOATE,OCD & Tourette Syndrome,DRD4
+PRAMIPEXOLE,Bipolar Disorder,DRD4
+PRAMIPEXOLE,Eating Disorders,DRD4
+PRAMIPEXOLE,OCD & Tourette Syndrome,DRD4
+PRAMIPEXOLE,Schizophrenia,DRD4
+PRAMIPEXOLE,Alzheimer’s Disease,DRD4
+PRAMIPEXOLE,Major Depressive Disorder,DRD4
+HALOPERIDOL,Anxiety Disorder,DRD4
+HALOPERIDOL,Schizophrenia,DRD4
+HALOPERIDOL,Bipolar Disorder,DRD4
+HALOPERIDOL,Alzheimer’s Disease,DRD4
+HALOPERIDOL,OCD & Tourette Syndrome,DRD4
+HALOPERIDOL,Major Depressive Disorder,DRD4
+THIORIDAZINE,Schizophrenia,DRD4
+THIORIDAZINE,Anxiety Disorder,DRD4
+THIORIDAZINE,Major Depressive Disorder,DRD4
+LEVOMEPROMAZINE,Schizophrenia,DRD4
+LEVOMEPROMAZINE,Anxiety Disorder,DRD4
+LEVOMEPROMAZINE,Major Depressive Disorder,DRD4
+TRIFLUOPERAZINE,Anxiety Disorder,DRD4
+TRIFLUOPERAZINE,Schizophrenia,DRD4
+AMOXAPINE,Major Depressive Disorder,DRD4
+PIMOZIDE,Anxiety Disorder,DRD4
+PIMOZIDE,OCD & Tourette Syndrome,DRD4
+PIMOZIDE,Schizophrenia,DRD4
+PIMOZIDE,Major Depressive Disorder,DRD4
+MARDEPODECT,Schizophrenia,PDE10A
+IBUDILAST,Substance Use Disorders,PDE10A
+BALIPODECT,Schizophrenia,PDE10A
+PENTOXIFYLLINE,Major Depressive Disorder,PDE10A
+PENTOXIFYLLINE,Schizophrenia,PDE10A
+PENTOXIFYLLINE,Bipolar Disorder,PDE10A
+ELINZANETANT,Substance Use Disorders,TACR3
+PAVINETANT,Schizophrenia,TACR3
+TALNETANT,Schizophrenia,TACR3
+ELINZANETANT,Substance Use Disorders,TACR1
+VOFOPITANT,Post Traumatic Stress Disorder,TACR1
+VOFOPITANT,Bipolar Disorder,TACR1
+TRADIPITANT,Substance Use Disorders,TACR1
+TRADIPITANT,Anxiety Disorder,TACR1
+APREPITANT,Substance Use Disorders,TACR1
+APREPITANT,Major Depressive Disorder,TACR1
+VESTIPITANT,Anxiety Disorder,TACR1
+VESTIPITANT,Major Depressive Disorder,TACR1
+ORVEPITANT,Post Traumatic Stress Disorder,TACR1
+ORVEPITANT,Major Depressive Disorder,TACR1
+CASOPITANT,Major Depressive Disorder,TACR1
+INSULIN,Schizophrenia,INSR
+INSULIN,Major Depressive Disorder,INSR
+INSULIN,Post Traumatic Stress Disorder,INSR
+INSULIN,Bipolar Disorder,INSR
+INSULIN ASPART,Alzheimer’s Disease,INSR
+INSULIN GLULISINE,Alzheimer’s Disease,INSR
+TILAVONEMAB,Alzheimer’s Disease,MAPT
+SEMORINEMAB,Alzheimer’s Disease,MAPT
+BEPRANEMAB,Alzheimer’s Disease,MAPT
+POSDINEMAB,Alzheimer’s Disease,MAPT
+ZAGOTENEMAB,Alzheimer’s Disease,MAPT
+GOSURANEMAB,Alzheimer’s Disease,MAPT
+NABILONE,OCD & Tourette Syndrome,CNR1
+DRINABANT,Alzheimer’s Disease,CNR1
+DRINABANT,Schizophrenia,CNR1
+CANNABIDIOL,Post Traumatic Stress Disorder,CNR1
+CANNABIDIOL,Schizophrenia,CNR1
+CANNABIDIOL,Autism Spectrum Disorder,CNR1
+CANNABIDIOL,Bipolar Disorder,CNR1
+CANNABIDIOL,Anxiety Disorder,CNR1
+CANNABIDIOL,Substance Use Disorders,CNR1
+CANNABIDIOL,OCD & Tourette Syndrome,CNR1
+DRONABINOL,Bipolar Disorder,CNR1
+DRONABINOL,Post Traumatic Stress Disorder,CNR1
+DRONABINOL,OCD & Tourette Syndrome,CNR1
+DRONABINOL,Substance Use Disorders,CNR1
+DRONABINOL,Schizophrenia,CNR1
+ECOPIPAM,OCD & Tourette Syndrome,DRD1
+AMOXAPINE,Major Depressive Disorder,DRD1
+PIMOZIDE,Anxiety Disorder,DRD1
+PIMOZIDE,OCD & Tourette Syndrome,DRD1
+PIMOZIDE,Schizophrenia,DRD1
+PIMOZIDE,Major Depressive Disorder,DRD1
+LISDEXAMFETAMINE,Attention Deficit Hyperactivity Disorder,SLC18A2
+LISDEXAMFETAMINE,Major Depressive Disorder,SLC18A2
+LISDEXAMFETAMINE,Bipolar Disorder,SLC18A2
+LISDEXAMFETAMINE,Schizophrenia,SLC18A2
+LISDEXAMFETAMINE,Eating Disorders,SLC18A2
+DEXTROAMPHETAMINE,Bipolar Disorder,SLC18A2
+DEXTROAMPHETAMINE,Substance Use Disorders,SLC18A2
+DEXTROAMPHETAMINE,Attention Deficit Hyperactivity Disorder,SLC18A2
+DEXTROAMPHETAMINE,Schizophrenia,SLC18A2
+TETRABENAZINE,OCD & Tourette Syndrome,SLC18A2
+VALBENAZINE,OCD & Tourette Syndrome,SLC18A2
+VALBENAZINE,Schizophrenia,SLC18A2
+VORINOSTAT,Schizophrenia,HDAC2
+VORINOSTAT,Alzheimer’s Disease,HDAC2
+VORINOSTAT,Schizophrenia,HDAC1
+VORINOSTAT,Alzheimer’s Disease,HDAC1
+VORINOSTAT,Schizophrenia,HDAC3
+VORINOSTAT,Alzheimer’s Disease,HDAC3
+VORINOSTAT,Schizophrenia,HDAC6
+VORINOSTAT,Alzheimer’s Disease,HDAC6
+OBICETRAPIB,Alzheimer’s Disease,CETP
+DASATINIB,Alzheimer’s Disease,FYN
+DASATINIB,Alzheimer’s Disease,SRC
+SARACATINIB,Alzheimer’s Disease,SRC
+SARACATINIB,Substance Use Disorders,SRC
+DASATINIB,Alzheimer’s Disease,LCK
+DASATINIB,Alzheimer’s Disease,YES1
+DASATINIB,Alzheimer’s Disease,BLK
+DASATINIB,Alzheimer’s Disease,HCK
+DASATINIB,Alzheimer’s Disease,LYN
+DASATINIB,Alzheimer’s Disease,FRK
+DASATINIB,Alzheimer’s Disease,FGR
+DASATINIB,Alzheimer’s Disease,SRMS
+DASATINIB,Alzheimer’s Disease,ABL1
+NILOTINIB,Alzheimer’s Disease,ABL1
+SARACATINIB,Alzheimer’s Disease,ABL1
+SARACATINIB,Substance Use Disorders,ABL1
+DASATINIB,Alzheimer’s Disease,EPHA2
+DASATINIB,Alzheimer’s Disease,PDGFRB
+TRETINOIN,Autism Spectrum Disorder,RARG
+ISOTRETINOIN,Alzheimer’s Disease,RARG
+ACITRETIN,Alzheimer’s Disease,RARG
+TRETINOIN,Autism Spectrum Disorder,RARB
+ISOTRETINOIN,Alzheimer’s Disease,RARB
+TAMIBAROTENE,Alzheimer’s Disease,RARB
+ACITRETIN,Alzheimer’s Disease,RARB
+TRETINOIN,Autism Spectrum Disorder,RARA
+ISOTRETINOIN,Alzheimer’s Disease,RARA
+TAMIBAROTENE,Alzheimer’s Disease,RARA
+ACITRETIN,Alzheimer’s Disease,RARA
+AMOXAPINE,Major Depressive Disorder,DRD5
+PIMOZIDE,Anxiety Disorder,DRD5
+PIMOZIDE,OCD & Tourette Syndrome,DRD5
+PIMOZIDE,Schizophrenia,DRD5
+PIMOZIDE,Major Depressive Disorder,DRD5
+SOTALOL,Substance Use Disorders,KCNH2
+AMIODARONE,Substance Use Disorders,KCNH2
+MONTELUKAST,Alzheimer’s Disease,CYSLTR1
+ISOCARBOXAZID,Major Depressive Disorder,MAOB
+ISOCARBOXAZID,Alzheimer’s Disease,MAOB
+NIALAMIDE,Major Depressive Disorder,MAOB
+TRANYLCYPROMINE,Major Depressive Disorder,MAOB
+TRANYLCYPROMINE,Anxiety Disorder,MAOB
+TRANYLCYPROMINE,Schizophrenia,MAOB
+PHENELZINE,Major Depressive Disorder,MAOB
+IPRONIAZID,Major Depressive Disorder,MAOB
+SELEGILINE,Schizophrenia,MAOB
+SELEGILINE,Alzheimer’s Disease,MAOB
+SELEGILINE,Major Depressive Disorder,MAOB
+RASAGILINE,Alzheimer’s Disease,MAOB
+ABT-384,Alzheimer’s Disease,HSD11B1
+VATIQUINONE,Autism Spectrum Disorder,NQO1
+VATIQUINONE,OCD & Tourette Syndrome,NQO1
+ERGOCALCIFEROL,Substance Use Disorders,VDR
+ERGOCALCIFEROL,Alzheimer’s Disease,VDR
+CALCITRIOL,Attention Deficit Hyperactivity Disorder,VDR
+ALFACALCIDOL,Substance Use Disorders,VDR
+CHOLECALCIFEROL,Schizophrenia,VDR
+CHOLECALCIFEROL,Autism Spectrum Disorder,VDR
+CHOLECALCIFEROL,Major Depressive Disorder,VDR
+RITUXIMAB,Schizophrenia,MS4A1
+MK-0557,Schizophrenia,NPY5R
+VILDAGLIPTIN,Major Depressive Disorder,DPP4
+LINAGLIPTIN,Schizophrenia,DPP4
+AZELIRAGON,Alzheimer’s Disease,AGER
+BEXAROTENE,Schizophrenia,RXRB
+BEXAROTENE,Alzheimer’s Disease,RXRB
+ACITRETIN,Alzheimer’s Disease,RXRB
+BEXAROTENE,Schizophrenia,RXRG
+BEXAROTENE,Alzheimer’s Disease,RXRG
+ACITRETIN,Alzheimer’s Disease,RXRG
+BEXAROTENE,Schizophrenia,RXRA
+BEXAROTENE,Alzheimer’s Disease,RXRA
+ACITRETIN,Alzheimer’s Disease,RXRA
+EMAPUNIL,Anxiety Disorder,TSPO
+ROLIPRAM,Major Depressive Disorder,PDE4A
+THEOPHYLLINE,Major Depressive Disorder,PDE4A
+ROFLUMILAST,Schizophrenia,PDE4A
+ROFLUMILAST,Major Depressive Disorder,PDE4A
+APREMILAST,Substance Use Disorders,PDE4A
+IBUDILAST,Substance Use Disorders,PDE4A
+PENTOXIFYLLINE,Major Depressive Disorder,PDE4A
+PENTOXIFYLLINE,Schizophrenia,PDE4A
+PENTOXIFYLLINE,Bipolar Disorder,PDE4A
+ROLIPRAM,Major Depressive Disorder,PDE4D
+THEOPHYLLINE,Major Depressive Disorder,PDE4D
+ROFLUMILAST,Schizophrenia,PDE4D
+ROFLUMILAST,Major Depressive Disorder,PDE4D
+APREMILAST,Substance Use Disorders,PDE4D
+IBUDILAST,Substance Use Disorders,PDE4D
+PENTOXIFYLLINE,Major Depressive Disorder,PDE4D
+PENTOXIFYLLINE,Schizophrenia,PDE4D
+PENTOXIFYLLINE,Bipolar Disorder,PDE4D
+ZATOLMILAST,Alzheimer’s Disease,PDE4D
+ROLIPRAM,Major Depressive Disorder,PDE4B
+THEOPHYLLINE,Major Depressive Disorder,PDE4B
+ROFLUMILAST,Schizophrenia,PDE4B
+ROFLUMILAST,Major Depressive Disorder,PDE4B
+APREMILAST,Substance Use Disorders,PDE4B
+IBUDILAST,Substance Use Disorders,PDE4B
+PENTOXIFYLLINE,Major Depressive Disorder,PDE4B
+PENTOXIFYLLINE,Schizophrenia,PDE4B
+PENTOXIFYLLINE,Bipolar Disorder,PDE4B
+ROLIPRAM,Major Depressive Disorder,PDE4C
+THEOPHYLLINE,Major Depressive Disorder,PDE4C
+ROFLUMILAST,Schizophrenia,PDE4C
+ROFLUMILAST,Major Depressive Disorder,PDE4C
+APREMILAST,Substance Use Disorders,PDE4C
+IBUDILAST,Substance Use Disorders,PDE4C
+PENTOXIFYLLINE,Major Depressive Disorder,PDE4C
+PENTOXIFYLLINE,Schizophrenia,PDE4C
+PENTOXIFYLLINE,Bipolar Disorder,PDE4C
+DROSPIRENONE,Eating Disorders,NR3C2
+DROSPIRENONE,Major Depressive Disorder,NR3C2
+NIMODIPINE,Schizophrenia,NR3C2
+FLUDROCORTISONE ACETATE,Major Depressive Disorder,NR3C2
+PEPINEMAB,Alzheimer’s Disease,SEMA4D
+ATABECESTAT,Alzheimer’s Disease,BACE1
+VERUBECESTAT,Alzheimer’s Disease,BACE1
+LANABECESTAT,Alzheimer’s Disease,BACE1
+ELENBECESTAT,Alzheimer’s Disease,BACE1
+THEOPHYLLINE,Major Depressive Disorder,PDE3A
+IBUDILAST,Substance Use Disorders,PDE3A
+PENTOXIFYLLINE,Major Depressive Disorder,PDE3A
+PENTOXIFYLLINE,Schizophrenia,PDE3A
+PENTOXIFYLLINE,Bipolar Disorder,PDE3A
+THEOPHYLLINE,Major Depressive Disorder,PDE3B
+PENTOXIFYLLINE,Major Depressive Disorder,PDE3B
+PENTOXIFYLLINE,Schizophrenia,PDE3B
+PENTOXIFYLLINE,Bipolar Disorder,PDE3B
+THEOPHYLLINE,Major Depressive Disorder,ADORA1
+CAFFEINE,Substance Use Disorders,ADORA1
+CAFFEINE,Alzheimer’s Disease,ADORA1
+CAFFEINE,Attention Deficit Hyperactivity Disorder,ADORA1
+THEOPHYLLINE,Major Depressive Disorder,ADORA2B
+CAFFEINE,Substance Use Disorders,ADORA2B
+CAFFEINE,Alzheimer’s Disease,ADORA2B
+CAFFEINE,Attention Deficit Hyperactivity Disorder,ADORA2B
+PENTOXIFYLLINE,Major Depressive Disorder,ADORA2B
+PENTOXIFYLLINE,Schizophrenia,ADORA2B
+PENTOXIFYLLINE,Bipolar Disorder,ADORA2B
+THEOPHYLLINE,Major Depressive Disorder,ADORA2A
+CAFFEINE,Substance Use Disorders,ADORA2A
+CAFFEINE,Alzheimer’s Disease,ADORA2A
+CAFFEINE,Attention Deficit Hyperactivity Disorder,ADORA2A
+PENTOXIFYLLINE,Major Depressive Disorder,ADORA2A
+PENTOXIFYLLINE,Schizophrenia,ADORA2A
+PENTOXIFYLLINE,Bipolar Disorder,ADORA2A
+CIFORADENANT,Attention Deficit Hyperactivity Disorder,ADORA2A
+NALTREXONE,Major Depressive Disorder,OPRD1
+NALTREXONE,Substance Use Disorders,OPRD1
+NALTREXONE,Post Traumatic Stress Disorder,OPRD1
+NALTREXONE,OCD & Tourette Syndrome,OPRD1
+NALTREXONE,Schizophrenia,OPRD1
+NALTREXONE,Eating Disorders,OPRD1
+NALBUPHINE,Substance Use Disorders,OPRD1
+NALMEFENE,Substance Use Disorders,OPRD1
+NALOXONE,Substance Use Disorders,OPRD1
+NALOXONE,Major Depressive Disorder,OPRD1
+NALOXONE,Eating Disorders,OPRD1
+ODELEPRAN,Substance Use Disorders,OPRD1
+SAMIDORPHAN,Substance Use Disorders,OPRD1
+SAMIDORPHAN,Eating Disorders,OPRD1
+SAMIDORPHAN,Bipolar Disorder,OPRD1
+SAMIDORPHAN,Schizophrenia,OPRD1
+AZD-7268,Major Depressive Disorder,OPRD1
+TOLCAPONE,Schizophrenia,COMT
+TOLCAPONE,Substance Use Disorders,COMT
+TOLCAPONE,OCD & Tourette Syndrome,COMT
+VIGABATRIN,OCD & Tourette Syndrome,ABAT
+VIGABATRIN,Substance Use Disorders,ABAT
+DIAZOXIDE,Major Depressive Disorder,KCNJ8
+DIAZOXIDE,Major Depressive Disorder,KCNJ11
+FUROSEMIDE,Schizophrenia,SLC12A1
+BUMETANIDE,Autism Spectrum Disorder,SLC12A1
+WARFARIN,Major Depressive Disorder,VKORC1
+WARFARIN,Alzheimer’s Disease,VKORC1
+DISULFIRAM,Substance Use Disorders,ALDH2
+INDIPLON,Major Depressive Disorder,GABRA1
+IXEKIZUMAB,Major Depressive Disorder,IL17A
+RESLIZUMAB,Substance Use Disorders,IL5
+LOSMAPIMOD,Major Depressive Disorder,MAPK14
+NEFLAMAPIMOD,Alzheimer’s Disease,MAPK14
+LOSMAPIMOD,Major Depressive Disorder,MAPK11
+PIROMELATINE,Alzheimer’s Disease,MTNR1A
+TASIMELTEON,Major Depressive Disorder,MTNR1A
+MELATONIN,Major Depressive Disorder,MTNR1A
+MELATONIN,Anxiety Disorder,MTNR1A
+MELATONIN,Autism Spectrum Disorder,MTNR1A
+MELATONIN,Attention Deficit Hyperactivity Disorder,MTNR1A
+MELATONIN,Schizophrenia,MTNR1A
+RAMELTEON,Bipolar Disorder,MTNR1A
+RAMELTEON,Major Depressive Disorder,MTNR1A
+AGOMELATINE,Schizophrenia,MTNR1A
+AGOMELATINE,OCD & Tourette Syndrome,MTNR1A
+AGOMELATINE,Major Depressive Disorder,MTNR1A
+AGOMELATINE,Anxiety Disorder,MTNR1A
+PIROMELATINE,Alzheimer’s Disease,MTNR1B
+TASIMELTEON,Major Depressive Disorder,MTNR1B
+MELATONIN,Major Depressive Disorder,MTNR1B
+MELATONIN,Anxiety Disorder,MTNR1B
+MELATONIN,Autism Spectrum Disorder,MTNR1B
+MELATONIN,Attention Deficit Hyperactivity Disorder,MTNR1B
+MELATONIN,Schizophrenia,MTNR1B
+RAMELTEON,Bipolar Disorder,MTNR1B
+RAMELTEON,Major Depressive Disorder,MTNR1B
+AGOMELATINE,Schizophrenia,MTNR1B
+AGOMELATINE,OCD & Tourette Syndrome,MTNR1B
+AGOMELATINE,Major Depressive Disorder,MTNR1B
+AGOMELATINE,Anxiety Disorder,MTNR1B
+PROBENECID,Substance Use Disorders,SLC22A11
+PROBENECID,Substance Use Disorders,SLC22A8
+PROBENECID,Substance Use Disorders,SLC22A6
+SIMVASTATIN,Alzheimer’s Disease,HMGCR
+SIMVASTATIN,Major Depressive Disorder,HMGCR
+SIMVASTATIN,Bipolar Disorder,HMGCR
+ATORVASTATIN,Alzheimer’s Disease,HMGCR
+ROSUVASTATIN,Major Depressive Disorder,HMGCR
+OSORESNONTRINE,Alzheimer’s Disease,PDE9A
+OSORESNONTRINE,Schizophrenia,PDE9A
+PF-04447943,Alzheimer’s Disease,PDE9A
+PENTOXIFYLLINE,Major Depressive Disorder,PDE9A
+PENTOXIFYLLINE,Schizophrenia,PDE9A
+PENTOXIFYLLINE,Bipolar Disorder,PDE9A
+NIMODIPINE,Schizophrenia,CACNA1C
+NILVADIPINE,Alzheimer’s Disease,CACNA1C
+AMLODIPINE,Major Depressive Disorder,CACNA1C
+ISRADIPINE,Substance Use Disorders,CACNA1C
+ISRADIPINE,Bipolar Disorder,CACNA1C
+VERAPAMIL,Bipolar Disorder,CACNA1C
+NIMODIPINE,Schizophrenia,CACNA1S
+NILVADIPINE,Alzheimer’s Disease,CACNA1S
+AMLODIPINE,Major Depressive Disorder,CACNA1S
+ISRADIPINE,Substance Use Disorders,CACNA1S
+ISRADIPINE,Bipolar Disorder,CACNA1S
+VERAPAMIL,Bipolar Disorder,CACNA1S
+NIMODIPINE,Schizophrenia,CACNA1D
+NILVADIPINE,Alzheimer’s Disease,CACNA1D
+AMLODIPINE,Major Depressive Disorder,CACNA1D
+ISRADIPINE,Substance Use Disorders,CACNA1D
+ISRADIPINE,Bipolar Disorder,CACNA1D
+VERAPAMIL,Bipolar Disorder,CACNA1D
+NIMODIPINE,Schizophrenia,CACNA1F
+NILVADIPINE,Alzheimer’s Disease,CACNA1F
+AMLODIPINE,Major Depressive Disorder,CACNA1F
+ISRADIPINE,Substance Use Disorders,CACNA1F
+ISRADIPINE,Bipolar Disorder,CACNA1F
+VERAPAMIL,Bipolar Disorder,CACNA1F
+DOXYCYCLINE ANHYDROUS,Alzheimer’s Disease,MMP7
+DOXYCYCLINE ANHYDROUS,Alzheimer’s Disease,MMP8
+DOXYCYCLINE ANHYDROUS,Alzheimer’s Disease,MMP13
+DOXYCYCLINE ANHYDROUS,Alzheimer’s Disease,MMP1
+DEXTROMETHORPHAN,Major Depressive Disorder,GRIN2A
+DEXTROMETHORPHAN,Autism Spectrum Disorder,GRIN2A
+DEXTROMETHORPHAN,Bipolar Disorder,GRIN2A
+DEXTROMETHORPHAN,Alzheimer’s Disease,GRIN2A
+DEXTROMETHORPHAN,Substance Use Disorders,GRIN2A
+DEXTROMETHORPHAN,Schizophrenia,GRIN2A
+DEXTROMETHORPHAN,Major Depressive Disorder,SIGMAR1
+DEXTROMETHORPHAN,Autism Spectrum Disorder,SIGMAR1
+DEXTROMETHORPHAN,Bipolar Disorder,SIGMAR1
+DEXTROMETHORPHAN,Alzheimer’s Disease,SIGMAR1
+DEXTROMETHORPHAN,Substance Use Disorders,SIGMAR1
+DEXTROMETHORPHAN,Schizophrenia,SIGMAR1
+PENTAZOCINE,Bipolar Disorder,SIGMAR1
+SUVECALTAMIDE,Schizophrenia,CACNA1H
+ETHOSUXIMIDE,Major Depressive Disorder,CACNA1H
+SUVECALTAMIDE,Schizophrenia,CACNA1G
+ETHOSUXIMIDE,Major Depressive Disorder,CACNA1G
+SUVECALTAMIDE,Schizophrenia,CACNA1I
+ETHOSUXIMIDE,Major Depressive Disorder,CACNA1I
+FENOFIBRIC ACID,Substance Use Disorders,PPARA
+GEMFIBROZIL,Alzheimer’s Disease,PPARA
+GEMFIBROZIL,Substance Use Disorders,PPARA
+FENOFIBRATE,Substance Use Disorders,PPARA
+BEZAFIBRATE,Bipolar Disorder,PPARA
+SIROLIMUS,Major Depressive Disorder,FKBP1A
+SIROLIMUS,Substance Use Disorders,FKBP1A
+RIBAVIRIN,Major Depressive Disorder,IMPDH1
+DB959,Alzheimer’s Disease,PPARG
+PIOGLITAZONE,Major Depressive Disorder,PPARG
+PIOGLITAZONE,Substance Use Disorders,PPARG
+PIOGLITAZONE,Alzheimer’s Disease,PPARG
+PIOGLITAZONE,Autism Spectrum Disorder,PPARG
+ROSIGLITAZONE,Alzheimer’s Disease,PPARG
+BEZAFIBRATE,Bipolar Disorder,PPARG
+DB959,Alzheimer’s Disease,PPARD
+BEZAFIBRATE,Bipolar Disorder,PPARD
+PEXACERFONT,Anxiety Disorder,CRHR1
+PEXACERFONT,Major Depressive Disorder,CRHR1
+EMICERFONT,Anxiety Disorder,CRHR1
+CRINECERFONT,Major Depressive Disorder,CRHR1
+ONO-2333MS,Major Depressive Disorder,CRHR1
+VERUCERFONT,Post Traumatic Stress Disorder,CRHR1
+VERUCERFONT,Anxiety Disorder,CRHR1
+VERUCERFONT,Substance Use Disorders,CRHR1
+VERUCERFONT,Major Depressive Disorder,CRHR1
+SECRETIN SYNTHETIC PORCINE,Autism Spectrum Disorder,SCTR
+SECRETIN,Autism Spectrum Disorder,SCTR
+SECRETIN,Schizophrenia,SCTR
+SECRETIN SYNTHETIC HUMAN,OCD & Tourette Syndrome,SCTR
+SECRETIN SYNTHETIC HUMAN,Autism Spectrum Disorder,SCTR
+AUS-131,Alzheimer’s Disease,ESR2
+ERTEBEREL,Schizophrenia,ESR2
+RALOXIFENE,Schizophrenia,ESR2
+RALOXIFENE,Alzheimer’s Disease,ESR2
+"ESTROGENS, CONJUGATED",Alzheimer’s Disease,ESR2
+PF-5190457,Substance Use Disorders,GHSR
+ULOTARONT,Schizophrenia,TAAR1
+IBUDILAST,Substance Use Disorders,PDE5A
+UDENAFIL,Alzheimer’s Disease,PDE5A
+TADALAFIL,Major Depressive Disorder,PDE5A
+PENTOXIFYLLINE,Major Depressive Disorder,PDE5A
+PENTOXIFYLLINE,Schizophrenia,PDE5A
+PENTOXIFYLLINE,Bipolar Disorder,PDE5A
+INFLIXIMAB,Bipolar Disorder,TNF
+ETANERCEPT,Alzheimer’s Disease,TNF
+LEUPROLIDE,Alzheimer’s Disease,GNRHR
+LEUPROLIDE,Major Depressive Disorder,GNRHR
+PF-03463275,Schizophrenia,SLC6A9
+ORG-25935,Schizophrenia,SLC6A9
+ORG-25935,Substance Use Disorders,SLC6A9
+BITOPERTIN,OCD & Tourette Syndrome,SLC6A9
+BITOPERTIN,Schizophrenia,SLC6A9
+DARATUMUMAB,Alzheimer’s Disease,CD38
+GEMCITABINE,Anxiety Disorder,POLA1
+GEMCITABINE,Anxiety Disorder,POLD4
+GEMCITABINE,Anxiety Disorder,POLD3
+GEMCITABINE,Anxiety Disorder,POLD1
+GEMCITABINE,Anxiety Disorder,POLD2
+GEMCITABINE,Anxiety Disorder,POLE
+GEMCITABINE,Anxiety Disorder,POLA2
+GEMCITABINE,Anxiety Disorder,PRIM1
+GEMCITABINE,Anxiety Disorder,PRIM2
+GEMCITABINE,Anxiety Disorder,POLE2
+GEMCITABINE,Anxiety Disorder,POLE3
+EZOGABINE,Major Depressive Disorder,KCNQ1
+EZOGABINE,Major Depressive Disorder,KCNQ2
+EZOGABINE,Major Depressive Disorder,KCNQ3
+EZOGABINE,Major Depressive Disorder,KCNQ5
+EZOGABINE,Major Depressive Disorder,KCNQ4
+FINGOLIMOD,Schizophrenia,S1PR5
+FINGOLIMOD,Schizophrenia,S1PR2
+FINGOLIMOD,Schizophrenia,S1PR4
+FINGOLIMOD,Schizophrenia,S1PR3
+FINGOLIMOD,Schizophrenia,S1PR1
+LY2940094,Major Depressive Disorder,OPRL1
+LY2940094,Substance Use Disorders,OPRL1
+LY-2940094,Major Depressive Disorder,OPRL1
+FILGRASTIM,Alzheimer’s Disease,CSF3R
+LEVETIRACETAM,Anxiety Disorder,SV2A
+LEVETIRACETAM,Schizophrenia,SV2A
+LEVETIRACETAM,Alzheimer’s Disease,SV2A
+LEVETIRACETAM,Major Depressive Disorder,SV2A
+LEVETIRACETAM,Bipolar Disorder,SV2A
+LEVETIRACETAM,Substance Use Disorders,SV2A
+LEVETIRACETAM,OCD & Tourette Syndrome,SV2A
+LEVETIRACETAM,Post Traumatic Stress Disorder,SV2A
+LEVETIRACETAM,Anxiety Disorder,CACNA1B
+LEVETIRACETAM,Schizophrenia,CACNA1B
+LEVETIRACETAM,Alzheimer’s Disease,CACNA1B
+LEVETIRACETAM,Major Depressive Disorder,CACNA1B
+LEVETIRACETAM,Bipolar Disorder,CACNA1B
+LEVETIRACETAM,Substance Use Disorders,CACNA1B
+LEVETIRACETAM,OCD & Tourette Syndrome,CACNA1B
+LEVETIRACETAM,Post Traumatic Stress Disorder,CACNA1B
+JNJ-54175446,Major Depressive Disorder,P2RX7
+TROSPIUM,Schizophrenia,CHRM2
+TALSACLIDINE,Alzheimer’s Disease,CHRM2
+FAMOTIDINE,Schizophrenia,HRH2
+CIMETIDINE,Anxiety Disorder,HRH2
+ALLOPURINOL,Bipolar Disorder,XDH
+SURAMIN,Autism Spectrum Disorder,FGF1
+TOCILIZUMAB,Schizophrenia,IL6R
+TOCILIZUMAB,Major Depressive Disorder,IL6R
+SAPROPTERIN,Autism Spectrum Disorder,PAH
+SAPROPTERIN,Alzheimer’s Disease,PAH
+SAPROPTERIN,Schizophrenia,PAH
+BETAINE,Major Depressive Disorder,BHMT
+BETAINE,Major Depressive Disorder,BHMT2
+DAPAGLIFLOZIN,Alzheimer’s Disease,SLC5A2
+TELMISARTAN,Alzheimer’s Disease,AGTR1
+LOSARTAN,Post Traumatic Stress Disorder,AGTR1
+CANDESARTAN,Bipolar Disorder,AGTR1
+LIRAGLUTIDE,Bipolar Disorder,GLP1R
+LIRAGLUTIDE,Major Depressive Disorder,GLP1R
+LIRAGLUTIDE,Eating Disorders,GLP1R
+LIRAGLUTIDE,Substance Use Disorders,GLP1R
+LIRAGLUTIDE,Alzheimer’s Disease,GLP1R
+EXENATIDE,Substance Use Disorders,GLP1R
+SEMAGLUTIDE,Major Depressive Disorder,GLP1R
+SEMAGLUTIDE,Alzheimer’s Disease,GLP1R
+AZD6280,Anxiety Disorder,GABRA3
+AZD7325,Autism Spectrum Disorder,GABRA3
+AZD7325,Anxiety Disorder,GABRA3
+ONABOTULINUMTOXINA,Major Depressive Disorder,SNAP25
+PENTOXIFYLLINE,Major Depressive Disorder,PDE6A
+PENTOXIFYLLINE,Schizophrenia,PDE6A
+PENTOXIFYLLINE,Bipolar Disorder,PDE6A
+PENTOXIFYLLINE,Major Depressive Disorder,PDE8A
+PENTOXIFYLLINE,Schizophrenia,PDE8A
+PENTOXIFYLLINE,Bipolar Disorder,PDE8A
+PENTOXIFYLLINE,Major Depressive Disorder,PDE7A
+PENTOXIFYLLINE,Schizophrenia,PDE7A
+PENTOXIFYLLINE,Bipolar Disorder,PDE7A
+PENTOXIFYLLINE,Major Depressive Disorder,PDE6D
+PENTOXIFYLLINE,Schizophrenia,PDE6D
+PENTOXIFYLLINE,Bipolar Disorder,PDE6D
+PENTOXIFYLLINE,Major Depressive Disorder,PDE2A
+PENTOXIFYLLINE,Schizophrenia,PDE2A
+PENTOXIFYLLINE,Bipolar Disorder,PDE2A
+PENTOXIFYLLINE,Major Depressive Disorder,PDE7B
+PENTOXIFYLLINE,Schizophrenia,PDE7B
+PENTOXIFYLLINE,Bipolar Disorder,PDE7B
+PENTOXIFYLLINE,Major Depressive Disorder,PDE6H
+PENTOXIFYLLINE,Schizophrenia,PDE6H
+PENTOXIFYLLINE,Bipolar Disorder,PDE6H
+PENTOXIFYLLINE,Major Depressive Disorder,PDE6G
+PENTOXIFYLLINE,Schizophrenia,PDE6G
+PENTOXIFYLLINE,Bipolar Disorder,PDE6G
+PENTOXIFYLLINE,Major Depressive Disorder,PDE1A
+PENTOXIFYLLINE,Schizophrenia,PDE1A
+PENTOXIFYLLINE,Bipolar Disorder,PDE1A
+PENTOXIFYLLINE,Major Depressive Disorder,PDE6B
+PENTOXIFYLLINE,Schizophrenia,PDE6B
+PENTOXIFYLLINE,Bipolar Disorder,PDE6B
+PENTOXIFYLLINE,Major Depressive Disorder,PDE6C
+PENTOXIFYLLINE,Schizophrenia,PDE6C
+PENTOXIFYLLINE,Bipolar Disorder,PDE6C
+PENTOXIFYLLINE,Major Depressive Disorder,PDE8B
+PENTOXIFYLLINE,Schizophrenia,PDE8B
+PENTOXIFYLLINE,Bipolar Disorder,PDE8B
+PENTOXIFYLLINE,Major Depressive Disorder,PDE1B
+PENTOXIFYLLINE,Schizophrenia,PDE1B
+PENTOXIFYLLINE,Bipolar Disorder,PDE1B
+PENTOXIFYLLINE,Major Depressive Disorder,PDE1C
+PENTOXIFYLLINE,Schizophrenia,PDE1C
+PENTOXIFYLLINE,Bipolar Disorder,PDE1C
+CARBIDOPA,Schizophrenia,DDC
+CARBIDOPA,Attention Deficit Hyperactivity Disorder,DDC
+ETAZOLATE,Alzheimer’s Disease,GABRB3
+RILAPLADIB,Alzheimer’s Disease,PLA2G7
+CLOPIDOGREL,Major Depressive Disorder,P2RY12
+XANOMELINE,Schizophrenia,CHRM4
+ALEPLASININ,Alzheimer’s Disease,SERPINE1
+VALPROIC ACID,Alzheimer’s Disease,ALDH5A1
+VALPROIC ACID,Autism Spectrum Disorder,ALDH5A1
+VALPROIC ACID,Schizophrenia,ALDH5A1
+VALPROIC ACID,Bipolar Disorder,ALDH5A1
+VALPROIC ACID,Substance Use Disorders,ALDH5A1
+VALPROIC ACID,Major Depressive Disorder,ALDH5A1
+VALPROIC ACID,Post Traumatic Stress Disorder,ALDH5A1
+VALPROIC ACID,Anxiety Disorder,ALDH5A1
+VALPROIC ACID,Attention Deficit Hyperactivity Disorder,ALDH5A1
+OXYTOCIN,OCD & Tourette Syndrome,OXTR
+OXYTOCIN,Schizophrenia,OXTR
+OXYTOCIN,Autism Spectrum Disorder,OXTR
+OXYTOCIN,Attention Deficit Hyperactivity Disorder,OXTR
+OXYTOCIN,Substance Use Disorders,OXTR
+OXYTOCIN,Post Traumatic Stress Disorder,OXTR
+OXYTOCIN,Anxiety Disorder,OXTR
+OXYTOCIN,Major Depressive Disorder,OXTR
+SAREDUTANT,Anxiety Disorder,TACR2
+SAREDUTANT,Major Depressive Disorder,TACR2
+ELCUBRAGISTAT,OCD & Tourette Syndrome,MGLL
